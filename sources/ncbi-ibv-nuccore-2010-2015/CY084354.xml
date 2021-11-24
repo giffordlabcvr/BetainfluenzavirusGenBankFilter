@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>CY084354</GBSeq_locus>
+    <GBSeq_length>1200</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-FEB-2011</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Guam/AF2735/2010) hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>CY084354</GBSeq_primary-accession>
+    <GBSeq_accession-version>CY084354.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gnl|USAFSAM|USAFSAM20102735.4</GBSeqid>
+      <GBSeqid>gb|CY084354.1|</GBSeqid>
+      <GBSeqid>gi|324025024</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Guam/AF2735/2010)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Guam/AF2735/2010)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Garner,J.L.</GBAuthor>
+          <GBAuthor>Connors,B.</GBAuthor>
+          <GBAuthor>Canas,L.</GBAuthor>
+          <GBAuthor>Melendez,D.</GBAuthor>
+          <GBAuthor>Herrera,K.</GBAuthor>
+          <GBAuthor>Cormier,T.</GBAuthor>
+          <GBAuthor>Lowman,A.</GBAuthor>
+          <GBAuthor>Guerrero,A.</GBAuthor>
+          <GBAuthor>Abshire,J.</GBAuthor>
+          <GBAuthor>Smith,J.P.</GBAuthor>
+          <GBAuthor>Compton,D.</GBAuthor>
+          <GBAuthor>Lopez,C.C.</GBAuthor>
+          <GBAuthor>Macintosh,V.</GBAuthor>
+          <GBAuthor>Macias,E.</GBAuthor>
+          <GBAuthor>Noe,J.C.</GBAuthor>
+          <GBAuthor>Sjoberg,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>2010-2011 Influenza B viruses within DoD Beneficiary Populations</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Garner,J.L.</GBAuthor>
+          <GBAuthor>Connors,B.</GBAuthor>
+          <GBAuthor>Canas,L.</GBAuthor>
+          <GBAuthor>Melendez,D.</GBAuthor>
+          <GBAuthor>Herrera,K.</GBAuthor>
+          <GBAuthor>Cormier,T.</GBAuthor>
+          <GBAuthor>Lowman,A.</GBAuthor>
+          <GBAuthor>Guerrero,A.</GBAuthor>
+          <GBAuthor>Abshire,J.</GBAuthor>
+          <GBAuthor>Smith,J.P.</GBAuthor>
+          <GBAuthor>Compton,D.</GBAuthor>
+          <GBAuthor>Lopez,C.C.</GBAuthor>
+          <GBAuthor>Macintosh,V.</GBAuthor>
+          <GBAuthor>Macias,E.</GBAuthor>
+          <GBAuthor>Noe,J.C.</GBAuthor>
+          <GBAuthor>Sjoberg,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-FEB-2011) DoD-GEIS Flu Program, USAF School of Aerospace Medicine, 2730 Louis Bauer Dr. Bldg 930, Brooks City-Base, Texas 78235, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>CY084354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Guam/AF2735/2010)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Guam/AF2735/2010</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>NW</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>human; gender F; age 11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:989274</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>PMK1 passage(s)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Northern Mariana Islands: Guam</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Oct-2010</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Victoria lineage</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>CY084354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>CY084354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADY16583.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCPNCTDLDVALGRPKCTGKIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHIRLSTHNVINAENAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNDKNKTATNPLTIEVPYICTEGEDQITVWGFHSDNETQMVKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcgtcaaactcaccacatgtcgtcaaaactgctactcaaggggaggttaatgtgactggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacagaaaccagagggaaactatgcccaaaatgccccaactgcacagatctggacgtagccttgggcagaccaaaatgcacggggaaaataccctcggcaagagtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgacagaacaaaaattagacagctgcctaaccttctccgaggatacgaacatatcagattatcaactcataacgttatcaatgcagaaaatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggatttttcgcaacaatggcttgggccgtcccaaaaaacgacaaaaacaaaacagcaacaaatccattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtctgggggttccactctgataacgagacccaaatggtaaagctctatggggactcaaagccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctgggaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaggtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaggccataggaaattgcccaatatgggtgaagacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagaaggaggatgggaaggaatgattgcaggttggcacggatacacgtcccatggggcacatggagtagcggtggcagcagacctt</GBSeq_sequence>
+  </GBSeq>

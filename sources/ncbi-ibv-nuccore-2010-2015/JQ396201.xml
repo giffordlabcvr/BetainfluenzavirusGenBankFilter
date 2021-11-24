@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ396201</GBSeq_locus>
+    <GBSeq_length>1897</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-FEB-2012</GBSeq_update-date>
+    <GBSeq_create-date>28-FEB-2012</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Kenya/101/2011) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ396201</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ396201.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ396201.1|</GBSeqid>
+      <GBSeqid>gi|377824177</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Kenya/101/2011)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Kenya/101/2011)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1897</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bulimo,W.D.</GBAuthor>
+          <GBAuthor>Achilla,R.A.</GBAuthor>
+          <GBAuthor>Majanja,J.M.</GBAuthor>
+          <GBAuthor>Wadegu,M.O.</GBAuthor>
+          <GBAuthor>Osuna,F.A.</GBAuthor>
+          <GBAuthor>Mukunzi,S.O.</GBAuthor>
+          <GBAuthor>Opot,B.H.</GBAuthor>
+          <GBAuthor>Mwangi,J.K.</GBAuthor>
+          <GBAuthor>Wangui,J.M.</GBAuthor>
+          <GBAuthor>Muthoni,J.N.</GBAuthor>
+          <GBAuthor>Kibet,K.M.</GBAuthor>
+          <GBAuthor>Njiri,J.O.</GBAuthor>
+          <GBAuthor>Obura,B.D.</GBAuthor>
+          <GBAuthor>Wurapa,E.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>United States Air Force School of Aerospace Medicine (USAFSAM); Molecular Diagnostic Division</GBReference_consortium>
+        <GBReference_title>Genetic analysis of influenza B viruses isolated in Kenya</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1897</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bulimo,W.D.</GBAuthor>
+          <GBAuthor>Achilla,R.A.</GBAuthor>
+          <GBAuthor>Majanja,J.M.</GBAuthor>
+          <GBAuthor>Wadegu,M.O.</GBAuthor>
+          <GBAuthor>Osuna,F.A.</GBAuthor>
+          <GBAuthor>Mukunzi,S.O.</GBAuthor>
+          <GBAuthor>Opot,B.H.</GBAuthor>
+          <GBAuthor>Mwangi,J.K.</GBAuthor>
+          <GBAuthor>Wangui,J.M.</GBAuthor>
+          <GBAuthor>Muthoni,J.N.</GBAuthor>
+          <GBAuthor>Kibet,K.M.</GBAuthor>
+          <GBAuthor>Njiri,J.O.</GBAuthor>
+          <GBAuthor>Obura,B.D.</GBAuthor>
+          <GBAuthor>Wurapa,E.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>United States Air Force School of Aerospace Medicine (USAFSAM); Molecular Diagnostic Division</GBReference_consortium>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-JAN-2012) United States Army Medical Research Unit-Kenya (USAMRU-K), GEIS Human Influenza Program, P.O. Box 606, 00621, Nairobi +254, Kenya</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1897</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1897</GBInterval_to>
+            <GBInterval_accession>JQ396201.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Kenya/101/2011)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Kenya/101/2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasopharyngeal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1132965</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Kenya</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>12-Apr-2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>B/Brisbane/60/2008-like,Victoria lineage; passaged in MDCK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>46..1803</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1803</GBInterval_to>
+            <GBInterval_accession>JQ396201.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>46..1803</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1803</GBInterval_to>
+            <GBInterval_accession>JQ396201.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFB77679.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCLNCTDLDVALGRPKCTGKIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHIRLSTHNVINAENAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNDKNKTATNPLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVEIGNGCFETKHKCNQTCLDRIAAGTFDAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMIAIFVVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tgtaaaaagggaggccagtgcagagcattttctaatatccacaaaatgaaggcaataattgtactactcatggtagtaacatccaatgcagatcggatctgcactgggataacatcgtcaaactcaccacatgtagtcaaaactgctactcaaggggaggtcaatgtgaccggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacagaaaccagggggaaactatgtccaaaatgcctcaactgcacagatctggacgtagccttaggcagaccaaaatgcactgggaaaataccctcggcaagagtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgatagaacaaaaattagacagctgcctaaccttctccgaggatacgaacatatcaggttatcaactcataacgttatcaatgcagaaaatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggccgtcccaaaaaacgacaaaaacaaaacagcaacaaatccattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgacaacgagacccaaatggcaaagctctatggggactcaaagccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctgggaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaggtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaggccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagaaggaggatgggaaggaatgattgcaggttggcacggatacacatcccatggggcacatggagtagcggtggcagcagaccttaagagcactcaagaggccataaacaagataacaaaaaatctcaactctttgagtgagctagaagtaaagaatcttcaaagactaagcggtgccatggatgaactccacaacgaaatactagaactagatgagaaagtggatgatctcagagctgatacaataagctcacaaatagagctcgcagtcctgctttccaatgaaggaataataaacagtgaagatgaacatctcttggcgcttgaaagaaagctgaagaaaatgctgggcccctctgctgtagagatagggaatggatgctttgaaaccaaacacaagtgcaaccagacctgtctagacagaatagctgctggtacctttgatgcaggagaattttctctccccacctttgattcactgaatattactgctgcatctttaaatgacgatggattggataatcatactatactgctttactactcaactgctgcctccagtttggctgtaacactgatgatagctatctttgttgtttatatggtctccagagacaatgtttcttgctccatctgtctataagggaagttaagccctgtattttcctttattgtagtgcttgtttgcttgttgtcattacaaagaaacgttattgaaaaatgctcttgttactact</GBSeq_sequence>
+  </GBSeq>

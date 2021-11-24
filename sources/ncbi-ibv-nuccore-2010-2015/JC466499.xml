@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JC466499</GBSeq_locus>
+    <GBSeq_length>1554</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>06-FEB-2014</GBSeq_update-date>
+    <GBSeq_create-date>06-FEB-2014</GBSeq_create-date>
+    <GBSeq_definition>Sequence 22 from Patent EP2441471</GBSeq_definition>
+    <GBSeq_primary-accession>JC466499</GBSeq_primary-accession>
+    <GBSeq_accession-version>JC466499.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|JC466499.1|</GBSeqid>
+      <GBSeqid>pat|EP|2441471|22</GBSeqid>
+      <GBSeqid>gi|583819765</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1554</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>YANG,C.</GBAuthor>
+          <GBAuthor>KEMBLE,G.</GBAuthor>
+          <GBAuthor>LIU,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Reassortant influenza viruses</GBReference_title>
+        <GBReference_journal>EP2441471-A1 22 18-APR-2012 MEDIMMUNE VACCINES INC [US]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1554</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1554</GBInterval_to>
+            <GBInterval_accession>JC466499.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcagagcatcttctcaaaactgaagtaaagaggccaaaaatgaacaatgctaccttcaactatacaaacgttaaccctatttctcacatcagggggagtgttattatcactatatgtgtcagccttactgtcatacttattgtattcggatatattgctaaaattttcaccaaaaataattgcaccaacaacgtcgttggactgcgcgaacgcatcaaatgttcaggctgtgaaccattctgcaacaaaagagatgaaattccttcccccagaaccggagtggacatacccccgtttatcttgccagggttcaaccttccagaaagcactcttaattagccctcatagatttggagaagccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggagtgcaaacactttgctctaacccattatgcagctcaaccagggggatactacaatggaacaagagaggacagaaacaagctgaggcatctgatttcagtcaacttaggcaaaatcccaactgtagaaaactccattttccatatggcagcttggagtggatccgcatgccatgatggtagagaatggacatatatcggagttgatggtcctgacagtaatgcattgatcaaaataaaatatggagaagcatacactgacacataccattcctatgcaaacaacatcctaagaacacaagaaagtgcctgcaattgcatcgggggagattgttatcttatgataactgatggctcagcttcaggaattagtaaatgcagattccttaagatccgagagggtcgaataataaaagaaatatttccaacaggaagggtagagcacactgaagaatgcacatgcggatttgccagcaacaaaaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccctttgtcaaattaaatgtggagactgatacagctgaaataagattgatgtgcacagagacttatttggacacccccagaccagatgatggaagcataacagggccttgcgaatctaatggggacaaagggagtggaggtgtcaagggaggatttgttcatcaaagaatggcatccaagattggaagatggtactcccgaacgatgtctaaaactaaaagaatggggatggaactgtatgtcaagtatgatggagacccatggactgacagtgacgcccttgctcctagtggagtaatggtctcaatggaagaacctggttggtactctttcggcttcgaaataaaagataagaaatgtgatgtcccctgtattgggatagagatggtacatgatggtggaaaaaggacttggcactcagcagcaacagccatttactgtttaatgggctcaggacagttgctatgggacactgtcacaggtgttaatatggctctgtaatggaggaatggttgaatctgttctaaaccctttgttcctattttatttgaacaattgtccttactggacttaattgtttctgaaaaatgctcttgttactact</GBSeq_sequence>
+  </GBSeq>

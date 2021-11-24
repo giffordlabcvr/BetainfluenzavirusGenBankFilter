@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JN600474</GBSeq_locus>
+    <GBSeq_length>2332</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>06-SEP-2011</GBSeq_update-date>
+    <GBSeq_create-date>06-SEP-2011</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Victoria/2/1987) segment 2 polymerase PB2 (PB2) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>JN600474</GBSeq_primary-accession>
+    <GBSeq_accession-version>JN600474.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JN600474.1|</GBSeqid>
+      <GBSeqid>gi|345285562</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Victoria/2/1987)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Victoria/2/1987)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2332</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Markushin,S.</GBAuthor>
+          <GBAuthor>Tsfasman,T.</GBAuthor>
+          <GBAuthor>Akopova,I.</GBAuthor>
+          <GBAuthor>Faizuloev,E.</GBAuthor>
+          <GBAuthor>Ghendon,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cold-adaptation mechanisms of influenza A and B virus strains on the model of A/Krasnodar/101/59 and B/Victoria/2/87 cold-adapted mutants</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2332</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Markushin,S.</GBAuthor>
+          <GBAuthor>Tsfasman,T.</GBAuthor>
+          <GBAuthor>Akopova,I.</GBAuthor>
+          <GBAuthor>Faizuloev,E.</GBAuthor>
+          <GBAuthor>Ghendon,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-AUG-2011) Virology, Mechnikov Research Institute of Vaccines and Sera, 1st Dubrovskaja Str., 15, Moscow, Moscow 115080, Russia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2332</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2332</GBInterval_to>
+            <GBInterval_accession>JN600474.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Victoria/2/1987)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Victoria/2/1987</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1077587</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>cold-adapted in 2009 after 63 passages at low temperature; ts and ca phenotype</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..2313</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2313</GBInterval_to>
+            <GBInterval_accession>JN600474.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..2313</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2313</GBInterval_to>
+            <GBInterval_accession>JN600474.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase PB2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AEN79420.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MTLAKIELLKQLLRDNEAKTVLKQTTVDQYNIIRKFNTSRIEKNPSLRMKWAMCSNFPLALTKGDMANRIPLEYKGIQLKTNAEDIGTKGQMCSIAAVTWWNTYGPIGDTEGFERVYESFFLRKMRLDNATWGRITFGPVERVRKRVLLNPLTKEMPPDEASNVIMEILFPKEAGIPRESTWIHKELIKEKREKLKGTMITPIVLAYMLERELVARRRFLPVAGATSAEFIEMLHCLQGENWRQIYHPGGNKLTESRSQSMIVACRKIIRRSIVASNPLELAVEIANKTVIDTEPLKSCLAAIDGGDVACDIIRAALGLKIRQRQRFGRLELKRISGRGFKNDEEILIGNGTIQKIGIWDGEEEFHVRCGECRGILKKSKMRLEKLLINSAKKEDMRDLIILCMVFSQDTRMFQGVRGEINFLNRAGQLLSPMYQLQRYFLNRSNDLFDQWGYEESPKASELHGINESMNASDYTLKGVVVTKNVIDDFSSTETEKVSITKNLSLIKRTGEVIMGANDVSELESQAQLMITYDTPKMWEMGTTKELVQNTYQWVLKNLVTLKAQFLLGKEDMFQWDAFEAFESIIPQKMAGQYSGFARAVLKQMRDQEVMKTDQFIKLLPFCFSPPKLRSNGEPYQFLKLMLKGGGENFIEVRKGSPLFSYNPQTEVLTICGRMMSLKGKIEDEERNRSMGNAVLAGFLVSGKYDPDLGDFKTIEELEKLKPGEKANILLYQGKPVKVVKRKRYSALSNDISQGIKRQRMTVESMGWALS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgacattggccaaaattgaattgttaaaacaactgttaagggacaatgaagctaaaacggttttgaagcaaacaacggtagaccaatataacataataagaaaattcaatacatcaagaattgaaaagaacccttcattaaggatgaagtgggccatgtgttctaattttcccttggctctaaccaagggtgatatggcaaatagaatccccttggaatacaagggaatacaacttaaaacaaatgctgaagacataggaaccaaaggccaaatgtgctcaatagcagcagttacttggtggaatacatatggaccaataggagatactgaaggtttcgaaagggtctacgaaagcttttttctcagaaaaatgagacttgacaatgccacttggggccgaataacttttggcccagttgaaagagtgagaaaaagagtactgctaaaccctctcaccaaggaaatgcctccagatgaggcgagcaatgtgataatggaaatattgttccctaaagaagcaggaataccaagagaatctacttggatacataaggaactgataaaagaaaaaagagaaaaattgaaaggaacgatgataactcccattgtactggcatacatgcttgagagagaactggttgcccgaagaagattcttgccagtggcaggagcaacatcagctgagttcatagaaatgctacactgcttacaaggtgaaaattggagacaaatatatcacccaggagggaataaattaactgagtctaggtctcaatcaatgatagtagcttgtagaaaaataatcagaagatcaatagtcgcatcaaacccactagagctagctgtagaaattgcaaacaagactgtgatagatactgaacctttaaaatcatgtctggcagccatagacggaggtgatgtagcctgtgacataataagagctgcattaggactaaagatcagacaaagacaaagatttggacggcttgagctaaaaagaatatcaggaagaggattcaaaaatgatgaagaaatattgatcgggaacggaacaatacagaagattggaatatgggacggagaagaggagttccatgtaagatgtggtgaatgcaggggaatattaaaaaagagcaaaatgagactggaaaaactactaataaattcagccaaaaaggaggatatgagagatttaataatcttgtgcatggtattttctcaagacactaggatgttccaaggagtgagaggagaaataaattttcttaatcgagcaggccaacttttatctccaatgtaccaactccaacgatattttttgaataggagcaacgacctttttgatcaatgggggtatgaggaatcacccaaagcaagtgaactacatgggataaatgaatcaatgaatgcatctgactatacgttgaaaggggttgtagtaacaaaaaatgtgattgacgactttagctctactgaaacagaaaaagtatccataacaaaaaatcttagtttaataaaaaggactggggaagtcataatgggggctaatgacgtaagtgaattagaatcacaagcacagctgatgataacatatgatacacctaagatgtgggaaatgggaacaaccaaagaactggtgcaaaacacctatcaatgggtgctaaaaaacttggtaacactgaaggctcagtttcttctaggaaaagaggacatgttccaatgggatgcatttgaagcatttgagagcataattccccagaaaatggctggccagtacagtggatttgcaagagcagtgctcaaacaaatgagagaccaggaggttatgaaaactgaccagttcataaagttgctgcctttctgtttctcaccaccaaaattaaggagcaatggggagccttatcaattcttgaagcttatgttgaagggaggaggggaaaatttcatcgaagtaaggaaagggtcccctctattctcctataatccacaaacagaagtcctaactatatgcggcagaatgatgtcattaaaagggaaaattgaagatgaagaaaggaatagatcaatggggaatgcagtattggcaggctttctcgttagtggcaagtatgacccagatcttggagatttcaaaactattgaagaacttgaaaagctgaaaccgggggaaaaggcaaacatcttactttatcaaggaaagccagttaaagtagttaaaaggaaaagatatagtgctttatccaatgacatttcacaaggaattaagagacaaagaatgacagttgagtccatggggtgggccttgagctaatataaatttatccattaat</GBSeq_sequence>
+  </GBSeq>

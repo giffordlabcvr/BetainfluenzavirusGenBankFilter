@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC457520</GBSeq_locus>
+    <GBSeq_length>1398</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-FEB-2013</GBSeq_update-date>
+    <GBSeq_create-date>11-FEB-2013</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Japan/367/2008) segment 6 neuraminidase (NA) and NB protein (NB) genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC457520</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC457520.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC457520.1|</GBSeqid>
+      <GBSeqid>gi|448267308</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Japan/367/2008)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Japan/367/2008)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1398</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yates,P.J.</GBAuthor>
+          <GBAuthor>Mehta,N.</GBAuthor>
+          <GBAuthor>Horton,J.</GBAuthor>
+          <GBAuthor>Tisdale,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Virus susceptibility analyses from a phase IV clinical trial of inhaled zanamivir treatment in children infected with influenza</GBReference_title>
+        <GBReference_journal>Antimicrob. Agents Chemother. (2013) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/AAC.02145-12</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23335741</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1398</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yates,P.J.</GBAuthor>
+          <GBAuthor>Mehta,N.</GBAuthor>
+          <GBAuthor>Horton,J.</GBAuthor>
+          <GBAuthor>Tisdale,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-JAN-2013) Computational Biology, GlaxoSmithKline Research and Development, 2F13711 Gunnels Wood Road, Stevenage, Hertfordshire SG1 2NY, United Kingdom</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1398</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1398</GBInterval_to>
+            <GBInterval_accession>KC457520.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Japan/367/2008)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Japan/367/2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>extract 367</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1279547</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Japan</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>29-Jan-2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>season 2006/2007; population sequencing</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1398</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1398</GBInterval_to>
+            <GBInterval_accession>KC457520.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1398</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1398</GBInterval_to>
+            <GBInterval_accession>KC457520.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGE40927.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLPSTIQTLTLFLTSGGVLLSLYVSVSLSYLLYSDILLKFSPTEITAPTMPLDCANASNVHAVNRSATKGVTLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPNECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGKEWTYIGVDGPDNNALLKIKYGEAYTDTYHSYANNILRTQESACNCIGGNCYLMITDGSASGVSECRFLKIREGRIIKEIFPTGRVKHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTDTYLDTPRPDDGSITGPCESNGDKGSGGIKGGFVHQRMASKIGRWYSRTMSKTERMGMGLYVKYDGDPWADSDALAFSGVMVSMKEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKETWHSAATAIYCLMGSGQLLWDTVTGVDMAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>296</GBInterval_to>
+            <GBInterval_accession>KC457520.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>296</GBInterval_to>
+            <GBInterval_accession>KC457520.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NB protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGE40926.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>ATFNHTNVNPISHIRGSIIITICVSFIIILTIFGYIAKILTNRNNCTNNAIGLCKRIKCSCCEPFCNKRGDTSSPRTGVDIPAFILPGLNLSESTPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgctaccttcaaccatacaaacgttaaccctatttctcacatcagggggagtattattatcactatatgtgtcagtttcattatcatacttactatattcggatatattgctaaaattctcaccaacagaaataactgcaccaacaatgccattggattgtgcaaacgcatcaaatgttcatgctgtgaaccgttctgcaacaaaaggggtgacacttcttctcccagaaccggagtggacatacccgcgtttatcttgcccgggctcaacctttcagaaagcactcctaattagccctcatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaatgaatgcaaacactttgctctaacccattatgcagcccaaccagggggatactacaatggaacaagaggagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactccattttccacatggcagcatggagcgggtccgcatgccatgatggtaaggaatggacatatataggagttgatggccctgacaataatgcattgctcaaaataaaatatggagaagcatatactgacacataccattcctatgcaaacaacatcctaagaacacaagaaagtgcctgcaattgcatcgggggaaattgttatcttatgataactgatggctcagcttcaggtgttagtgaatgcagatttcttaagattcgagagggccgaataataaaagaaatatttccaacaggaagagtaaaacatactgaggaatgcacatgcggatttgccagcaataaaaccatagaatgtgcctgtagagataatagttacacagcaaaaagaccctttgtcaaattaaacgtggaaactgatacagcagaaataagattgatgtgcacagatacttatttggacacccccagaccagatgatggaagcataacaggcccttgtgaatctaatggggacaaagggagtggaggcatcaagggaggatttgttcatcaaagaatggcatccaagattggaaggtggtactctcgaacgatgtctaaaactgaaaggatggggatgggactgtatgtcaagtatgatggagacccatgggctgacagtgatgcccttgcttttagtggagtaatggtttcaatgaaagaacctggttggtactcctttggcttcgaaataaaagataagaaatgcgatgtcccctgtattgggatagagatggtacatgatggtggaaaagagacttggcactcagcagcaacagccatttactgtttaatgggctcaggacagctgctgtgggacactgtcacaggtgttgacatggctctg</GBSeq_sequence>
+  </GBSeq>

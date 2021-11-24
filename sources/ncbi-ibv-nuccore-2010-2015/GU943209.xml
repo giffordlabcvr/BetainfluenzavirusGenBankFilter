@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>GU943209</GBSeq_locus>
+    <GBSeq_length>1427</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>03-FEB-2015</GBSeq_update-date>
+    <GBSeq_create-date>22-FEB-2012</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Singapore/DSO_050599/2005) segment 6 neuraminidase (NA) and NB protein (NB) genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>GU943209</GBSeq_primary-accession>
+    <GBSeq_accession-version>GU943209.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|GU943209.1|</GBSeqid>
+      <GBSeqid>gi|293631505</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Singapore/DSO_050599/2005)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Singapore/DSO_050599/2005)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1427</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jumat,M.R.</GBAuthor>
+          <GBAuthor>Sugrue,R.J.</GBAuthor>
+          <GBAuthor>Tan,B.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic characterisation of influenza B viruses detected in Singapore, 2004 to 2009</GBReference_title>
+        <GBReference_journal>BMC Res Notes 7, 863 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1756-0500-7-863</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25435177</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1427</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jumat,M.R.</GBAuthor>
+          <GBAuthor>Sugrue,R.J.</GBAuthor>
+          <GBAuthor>Tan,B.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-FEB-2010) Diagnostics and Detection Laboratory, DSO National laboratories, DSO (Kent Ridge) 27 Medical Drive, Singapore 117510, Singapore</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1427</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1427</GBInterval_to>
+            <GBInterval_accession>GU943209.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Singapore/DSO_050599/2005)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Singapore/DSO_050599/2005</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:741207</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Singapore</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>May-2005</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..1346</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1346</GBInterval_to>
+            <GBInterval_accession>GU943209.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1346</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1346</GBInterval_to>
+            <GBInterval_accession>GU943209.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADE59331.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LSLYVSASLSYLLYSDILLKFPPTEITAPTMPLDCANASNVQAVNRSATKGVTLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVKLGKIPTVENSIFHMAPWSGSACHDGKEWTSLGLDGPDNNALVKIKYGEAYTDTYHSYANNILRTQESACNCIGGNCYLMITDGSASGVSECRFLKIREGRIIKEIFPTGRIKHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTETYLDTPRPDDGSITGPCESNGDKGSGGIKGGFVHQRMASKIGRWYSRTMSKTERMGMGLYVKYDGDPWADSDALTFSGVMVSMEEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKETWHSAATAIYCLMGSGQLLWDTVTGVNMAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..241</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>241</GBInterval_to>
+            <GBInterval_accession>GU943209.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..241</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>241</GBInterval_to>
+            <GBInterval_accession>GU943209.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NB protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADE59330.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>IITICVSFIVILTIFGYIAKIPTNRNYCTNNAIGLCKRIKCSGCEPFCNKRGDTSSPRTGVDIPAFILPGLNLSESTPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tattatcactatatgtgtcagcttcattgtcatacttactatattcggatatattgctaaaattcccaccaacagaaattactgcaccaacaatgccattggattgtgcaaacgcatcaaatgttcaggctgtgaaccgttctgcaacaaaaggggtgacacttcttctcccagaaccggagtggacatacccgcgtttatcttgcccgggctcaacctttcagaaagcactcctaattagccctcatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggaatgcaaacactttgctctaacccactatgcagcccaaccagggggatactacaatggaacaagaggagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactccattttccacatggcaccatggagcgggtccgcatgccatgatggtaaggaatggacatctctcggacttgatggccctgacaataatgcattggtcaaaataaaatatggagaagcatatactgacacatatcattcctatgcaaacaacatcctaagaacacaagaaagtgcctgcaattgcatcgggggaaattgttatcttatgataactgatggctcagcttcaggtgttagtgaatgcagatttcttaagattcgagagggccgaataataaaagaaatatttccaacaggaagaataaaacatactgaagaatgcacatgcggatttgctagcaataagaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccctttgtcaaattaaacgtggagactgatacagcagaaataagattgatgtgcacagagacttatttggacacccccagaccagatgatggaagcataacagggccttgtgaatctaatggggacaaagggagtggaggcatcaagggaggatttgtccatcaaagaatggcatccaagattggaaggtggtactctcgaacgatgtctaaaactgaaaggatggggatggggctgtatgtcaagtatgatggagacccatgggctgacagtgatgcccttacttttagtggagtaatggtttcaatggaagaacctggttggtactcctttggcttcgaaataaaagacaagaaatgtgatgtcccctgtattgggatagagatggtacatgatggtggaaaagagacttggcactcagcagctacagccatttactgtttaatgggctcaggacagctgctgtgggacactgtcacaggtgttaatatggctctgtaatggaggaatggttgagtctgttctaaaccctttgctcctatacaaggttgaagatttttcccttactgacttaaatgtatt</GBSeq_sequence>
+  </GBSeq>

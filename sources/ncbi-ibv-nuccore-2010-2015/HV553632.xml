@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HV553632</GBSeq_locus>
+    <GBSeq_length>1557</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>30-MAR-2012</GBSeq_update-date>
+    <GBSeq_create-date>30-MAR-2012</GBSeq_create-date>
+    <GBSeq_definition>JP 2011527581-A/14: INFLUENZA HEMAGGLUTININ AND NEURAMINIDASE VARIANTS</GBSeq_definition>
+    <GBSeq_primary-accession>HV553632</GBSeq_primary-accession>
+    <GBSeq_accession-version>HV553632.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HV553632.1|</GBSeqid>
+      <GBSeqid>pat|JP|2011527581|14</GBSeqid>
+      <GBSeqid>gi|382378187</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2011527581-A/14</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1557</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yang,C.</GBAuthor>
+          <GBAuthor>Kemble,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>INFLUENZA HEMAGGLUTININ AND NEURAMINIDASE VARIANTS</GBReference_title>
+        <GBReference_journal>JP2011527581-A 14 04-NOV-2011 MedImmune LLC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Influenza B virus~PN JP 2011527581-A/14~PD 04-NOV-2011~PF 09-JUL-2009 JP 2011517611~PR 03-NOV-2008 US 61/110702,11-JUL-2008 US 61/079894, PR 15-MAY-2009 US 61/178592~PI chin-fen yang,george kemble~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1557</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1557</GBInterval_to>
+            <GBInterval_accession>HV553632.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcagagcatcttctcaaaactgaagcaaataggccaaaaatgaacaatgctaccttcaactatacaaacgttaaccctatttctcacatcagggggagtattattatcactatatgtgtcagcttcattatcatacttactatattcggatatattgctaaaattctcaccaacagaaataactgcaccaacaatgccattggattgtgcaaacgcatcaaatgttcaggctgtgaaccgttctgcaacaaaaggggtgacacttcttctcccagaaccggagtggacatacccgcgtttatcttgcccgggctcaacctttcagaaagcactcctaattagccctcatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaatgaatgcaaacactttgctctaacccattatgcagcccaaccagggggatactacaatggaacaagaggagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactccattttccacatggcagcatggagcgggtccgcgtgccatgatggtaaggaatggacatatatcggagttgatggccctgacaataatgcattgctcaaagtaaaatatggagaagcatatactgacacataccattcctatgcaaacaaaatcctaagaacacaagaaagtgcctgcaattgcatcgggggaaattgttatcttatgataactgatggctcagcttcaggtgttagtgaatgcagatttcttaagattcgagagggccgaataataaaagaaatatttccaacaggaagagtaaaacacactgaggaatgcacatgcggatttgccagcaataaaaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccttttgtcaaattaaacgtggagactgatacagcagaaataagattgatgtgcacagatacttatttggacacccccagaccaaacgatggaagcataacaggcccttgtgaatctaatggggacaaagggagtggaggcatcaagggaggatttgttcatcaaagaatggaatccaagattggaaggtggtactctcgaacgatgtctaaaactgaaaggatggggatgggactgtatgtcaagtatgatggagacccatgggctgacagtgatgccctagcttttagtggagtaatggtttcaatgaaagaacctggttggtactcctttggcttcgaaataaaagataagaaatgcgatgtcccctgtattgggatagagatggtacatgatggtggaaaagagacttggcactcagcagcaacagccatttactgtttaatgggctcaggacagctgctgtgggacactgtcacaggtgttgacatggctctgtaatggaggaatggttgagtctgttctaaaccctttgttcctgttttgtttgaacaattgtccttactaaacttaattgtttctgaaaaatgctcttgttactact</GBSeq_sequence>
+  </GBSeq>

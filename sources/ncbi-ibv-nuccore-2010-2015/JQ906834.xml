@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ906834</GBSeq_locus>
+    <GBSeq_length>966</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-SEP-2012</GBSeq_update-date>
+    <GBSeq_create-date>06-MAY-2012</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Maracay/FLA5618/2009) segment 4 hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ906834</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ906834.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ906834.1|</GBSeqid>
+      <GBSeqid>gi|385722467</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Maracay/FLA5618/2009)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Maracay/FLA5618/2009)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..966</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Comach,G.</GBAuthor>
+          <GBAuthor>Teneza-Mora,N.</GBAuthor>
+          <GBAuthor>Kochel,T.J.</GBAuthor>
+          <GBAuthor>Espino,C.</GBAuthor>
+          <GBAuthor>Sierra,G.</GBAuthor>
+          <GBAuthor>Camacho,D.E.</GBAuthor>
+          <GBAuthor>Laguna-Torres,V.A.</GBAuthor>
+          <GBAuthor>Garcia,J.</GBAuthor>
+          <GBAuthor>Chauca,G.</GBAuthor>
+          <GBAuthor>Gamero,M.E.</GBAuthor>
+          <GBAuthor>Sovero,M.</GBAuthor>
+          <GBAuthor>Bordones,S.</GBAuthor>
+          <GBAuthor>Villalobos,I.</GBAuthor>
+          <GBAuthor>Melchor,A.</GBAuthor>
+          <GBAuthor>Halsey,E.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sentinel surveillance of influenza-like illness in two hospitals in maracay, Venezuela: 2006-2010</GBReference_title>
+        <GBReference_journal>PLoS ONE 7 (9), E44511 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0044511</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>22984519</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..966</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Garcia,J.</GBAuthor>
+          <GBAuthor>Sovero,M.</GBAuthor>
+          <GBAuthor>Halsey,E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-APR-2012) Virology, NAMRU-6, Avenida Venezuela, S/N, Bellavista, Lima Callao 2, Peru</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>JQ906834.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Maracay/FLA5618/2009)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Maracay/FLA5618/2009</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>FLA5618</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1171137</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Venezuela</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jan-2009</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>JQ906834.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>JQ906834.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFI73306.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>NSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTRTRGKLCPDCLNCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYENIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKIGFFATMAWAVPKDNYKNATNPLTVEVPYICTEGEDQITVWGFHSDNKTQMKNLYGDSNPQKFTSSANGVTTHYVSQIGDFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLAN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgtgataccactgacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaggaccagagggaaactatgcccggactgtctcaactgtacagatctggatgtggccttgggcaggccaatgtgtgtggggaccacaccttctgctaaagcttcaatactccacgaagtcagacctgttacatccgggtgctttcctataatgcacgacagaacaaaaatcaggcaactacctaatcttctcagaggatatgaaaatatcaggttatcaactcaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaatgctaccagtaaaatcggatttttcgcaacaatggcttgggctgtcccaaaggacaactacaaaaatgcaacgaacccactaacagtagaagtaccatacatttgtacagaaggggaagaccaaattactgtttgggggttccattcagataacaaaacccaaatgaagaacctctatggagactcaaatcctcaaaagttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcgacttcccagatcaaacagaagacggaggactaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtgttttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtcattgcctttaattggtgaagcagattgccttcatgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaatatgggtaaaaacacctttgaagcttgccaat</GBSeq_sequence>
+  </GBSeq>
