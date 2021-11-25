@@ -4,7 +4,7 @@ create project betainfluenza_filter "GLUE project for filtering betainfluenzavir
 
 schema-project betainfluenza_filter
 
-  run file glue/core/fluSchemaExtensions.glue
+  run file glue/fluSchemaExtensions.glue
   exit
 
 project betainfluenza_filter
@@ -13,7 +13,7 @@ project betainfluenza_filter
   run file glue/fluModules.glue
 
   # Import sources 
-  run file glue/fluImportSources.glue
+  run file glue/loadSources.glue
 
   # Import data from GenBank XML
   module genbankXmlPopulator populate

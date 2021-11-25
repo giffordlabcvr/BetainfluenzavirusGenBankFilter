@@ -28,7 +28,6 @@
     create field host_sci_name VARCHAR 100
   exit
 
-  create link sequence isolate_data
 
   table alignment
     create field clade_category VARCHAR 20

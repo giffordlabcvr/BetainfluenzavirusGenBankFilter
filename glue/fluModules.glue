@@ -1,2 +1,2 @@
-  create module -f modules/core/fluGenbankXmlPopulator.xml genbankXmlPopulator
-  create module -f modules/core/fluTabularUtility.xml 
+  create module -f modules/ibvGenbankXmlPopulator.xml genbankXmlPopulator
+  create module -f modules/fluTabularUtility.xml 
