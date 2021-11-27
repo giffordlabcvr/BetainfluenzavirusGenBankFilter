@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBHAFINVA</GBSeq_locus>
+    <GBSeq_length>1041</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>10-OCT-1994</GBSeq_update-date>
+    <GBSeq_create-date>26-JUL-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza virus B/Finland/150/90 (B/Victoria/2/87-like) haemagglutinin (seg 4) mRNA, partial cds (HA1 domain)</GBSeq_definition>
+    <GBSeq_primary-accession>L19642</GBSeq_primary-accession>
+    <GBSeq_accession-version>L19642.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|L19642.1|FLBHAFINVA</GBSeqid>
+      <GBSeqid>gi|305239</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1041</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kinnunen,L.</GBAuthor>
+          <GBAuthor>Ikonen,N.</GBAuthor>
+          <GBAuthor>Poyry,T.</GBAuthor>
+          <GBAuthor>Pyhala,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolution of influenza B/Victoria/2/87-like viruses: occurrence of a genetically conserved virus under conditions of low epidemic activity</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 73 (Pt 3), 733-736 (1992)</GBReference_journal>
+        <GBReference_pubmed>1545226</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Influenza virus type B (strain B/Finland/150/90) cDNA to genomic RNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1041</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1041</GBInterval_to>
+            <GBInterval_accession>L19642.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Finland/150/90</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>segment 4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1041</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1041</GBInterval_to>
+            <GBInterval_accession>L19642.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1041</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1041</GBInterval_to>
+            <GBInterval_accession>L19642.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 domain; putative</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA50370.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPKCLNCTDLDVALGRPKCTGTIPSAKASILHEVKPVTSGCFPIMHDRTKXRQLPNLLRGYEHIRLSTHNVINAEKAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNDNNKTATNSLTVEVPYICTEGEDQITVWGFHSDNETQMVKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQAEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKER</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactgggataacatcgtcaaactcaccccatgtggtcaaaactgctacccaaggggaagtcaatgtgactggtgtgataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacaaaaacnagagggaaactatgcccaaagtgtctcaactgcacagatctggacgtggccttgggcagaccaaagtgcacggggaccataccttcggcaaaagcttcaatactccacgaagtcaaacctgttacatctgggtgctttcctataatgcacgacagaacaaaaatnagacagctacccaatcttctcagaggatacgaacatatcaggttatcaacccataacgtcatcaacgcagaaaaggcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaaaacgacaacaacaaaacagcaacaaattcattaacagtagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgataacgaaacccaaatggtaaaactctatggagactcaaagcctcagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaagcagaagacggagggctaccacaaagcggtagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctaccaaagaggtattttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaagggtccttgcctttaattggcgaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccctgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaagg</GBSeq_sequence>
+  </GBSeq>

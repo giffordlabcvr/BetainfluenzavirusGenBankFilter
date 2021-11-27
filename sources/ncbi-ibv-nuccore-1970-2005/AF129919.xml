@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF129919</GBSeq_locus>
+    <GBSeq_length>1408</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>06-DEC-2004</GBSeq_update-date>
+    <GBSeq_create-date>05-JUL-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Houston/1/96) NB glycoprotein (NB) and NA glycoprotein (NA) genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF129919</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF129919.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF129919.2|</GBSeqid>
+      <GBSeqid>gi|56385065</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Houston/1/96)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Houston/1/96)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1408</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>McCullers,J.A.</GBAuthor>
+          <GBAuthor>Wang,G.C.</GBAuthor>
+          <GBAuthor>He,S.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Reassortment and insertion-deletion are strategies for the evolution of influenza B viruses in nature</GBReference_title>
+        <GBReference_journal>J. Virol. 73 (9), 7343-7348 (1999)</GBReference_journal>
+        <GBReference_pubmed>10438823</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1408</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>McCullers,J.A.</GBAuthor>
+          <GBAuthor>Saito,T.</GBAuthor>
+          <GBAuthor>Iverson,A.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Multiple genotypes of influenza B virus circulated between 1979 and 2003</GBReference_title>
+        <GBReference_journal>J. Virol. 78 (23), 12817-12828 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.78.23.12817-12828.2004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15542634</GBReference_pubmed>
+        <GBReference_remark>Erratum:[J Virol. 2005 May;79(9):5886]</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1408</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>McCullers,J.A.</GBAuthor>
+          <GBAuthor>Wang,G.C.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (23-FEB-1999) Virology and Molecular Biology, St. Jude Children's Research Hospital, 332 North Lauderdale Street, Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1408</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>McCullers,J.A.</GBAuthor>
+          <GBAuthor>Saito,T.</GBAuthor>
+          <GBAuthor>Iverson,A.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-MAR-2004) Department of Infectious Diseases, St. Jude Children's Research Hospital, 332 North Lauderdale Street, Memphis, TN 38105, USA</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Dec 6, 2004 this sequence version replaced AF129919.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1408</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1408</GBInterval_to>
+            <GBInterval_accession>AF129919.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Houston/1/96)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Houston/1/96</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:98842</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..303</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>303</GBInterval_to>
+            <GBInterval_accession>AF129919.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..303</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>303</GBInterval_to>
+            <GBInterval_accession>AF129919.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NB glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAV85975.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNNATFNYTNVNPISHIRGSVIITICVSFTVILTIFGYIAKIFTNRNNCTNNTIGLCKRIKCSGCEPFCNKRGDTSSPRTGVDIPSFILPWLNLSESTPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>8..1408</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>8</GBInterval_from>
+            <GBInterval_to>1408</GBInterval_to>
+            <GBInterval_accession>AF129919.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>8..1408</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>8</GBInterval_from>
+            <GBInterval_to>1408</GBInterval_to>
+            <GBInterval_accession>AF129919.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NA glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD42339.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLPSTIQTLTLFLTSGGVLLSLYVSASLSYLLYSDILLKFSPTEITAPTIPLDCANASNVQAVNRSATKGATLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTREDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGREWTYIGVDGPDSNALLKIKYGEAYTDTYHSYANNILRTQESACNCIGGDCYLMITDGSASGISECRFLKIREGRIIKEIFPTGRVEHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTETYLDTPRPDDGSITGPCESNGDKGSGGIKGGFVHQRMASKIGRWYSRTMSKTKRMGMGLYVKYDGDPWTDSDALALSGVMVSMEEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKKTWHSAATAIYCLMGSGQLLWDTVTGVDMAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaacaatgctaccttcaactatacaaacgttaaccctatttctcacatcagggggagtgttattatcactatatgtgtcagcttcactgtcatacttactatattcggatatattgctaaaattttcaccaacagaaataactgcaccaacaataccattggattgtgcaaacgcatcaaatgttcaggctgtgaaccgttctgcaacaaaaggggcgacacttcttctcccagaaccggagtggacataccctcgtttatcttgccctggctcaacctttcagaaagcactcctaattagccctcatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggaatgcaaacactttgctctaacccattatgcagctcaaccagggggatactacaatggaacaagagaagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactccattttccacatggcagcttggagcgggtccgcatgccatgatggtagagaatggacatatatcggagttgatggccctgacagtaatgcattgctcaaaataaaatatggagaagcatatactgacacatatcattcctatgcaaacaacatcctaagaacacaagaaagtgcctgcaattgcatcgggggagattgttatcttatgataactgatggctcagcttcagggattagtgaatgcagatttcttaagattagagagggccgaataataaaagaaatatttccaacaggaagagtagaacatactgaagaatgcacatgcgggtttgccagcaataaaaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccctttgtcaaactaaatgtggagactgatacagcggaaataagattgatgtgcacagaaacttatttggacacccccagaccagatgatggaagcataacagggccttgcgaatctaatggggataaagggagtggaggcatcaagggaggatttgttcatcaaagaatggcatccaagattggaaggtggtactctcgaacgatgtctaaaactaaaaggatggggatgggactgtatgtcaagtatgatggagacccatggactgacagtgatgcccttgctcttagtggagtaatggtttcaatggaagaacctggttggtattcctttggcttcgaaataaaagataagaaatgtgatgtcccctgtattgggatagagatggtacatgatggtggaaaaaagacttggcactcagcagcaacagccatttactgtttaatgggctcaggacaactgctatgggacactgtcacaggtgttgatatggctctgtaa</GBSeq_sequence>
+  </GBSeq>

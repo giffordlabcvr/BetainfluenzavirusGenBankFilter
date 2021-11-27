@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBNS201</GBSeq_locus>
+    <GBSeq_length>1041</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>31-DEC-1987</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B/Yamagata/1/73//A/Aichi/2/68 recombination mutant B/610B5B/201 nonstructural proteins 1 and 2 RNA (seg 8), complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M16634</GBSeq_primary-accession>
+    <GBSeq_accession-version>M16634.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M16634.1|FLBNS201</GBSeqid>
+      <GBSeqid>gi|325248</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nonstructural protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1041</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Norton,G.P.</GBAuthor>
+          <GBAuthor>Tanaka,T.</GBAuthor>
+          <GBAuthor>Tobita,K.</GBAuthor>
+          <GBAuthor>Nakada,S.</GBAuthor>
+          <GBAuthor>Buonagurio,D.A.</GBAuthor>
+          <GBAuthor>Greenspan,D.</GBAuthor>
+          <GBAuthor>Krystal,M.</GBAuthor>
+          <GBAuthor>Palese,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Infectious influenza A and B virus variants with long carboxyl terminal deletions in the NS1 polypeptides</GBReference_title>
+        <GBReference_journal>Virology 156 (2), 204-213 (1987)</GBReference_journal>
+        <GBReference_pubmed>3811235</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Influenza B/Yamagata/1/73, and A/Aichi/2/68, cDNA to viral RNA, passed in Madin Darby canine kidney (MDCK) cells, clone 201.; Computer-readable sequence for [1] kindly provided by P.Palese, 12-OCT-1987.~The infectivity of the recombinant virus does not seem to have suffered from the deletion in the carboxyl-terminal region of the NS1 protein.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1041</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1041</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(1..33,676..1011)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>33</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>676</GBInterval_from>
+            <GBInterval_to>1011</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43751.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MADNMTTTQIEWRMKKMAIGSSTHSSSVLMKDIQSQFEQLKLRWESYPNLVKSTDYHQRRETIRLVTEELYLLSKRIDDNILFHKTVIANSSIIADMIVSLSLLETLYEMKDVVEVYSRQCL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..384</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>384</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 1 (truncated)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43752.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MADNMTTTQIEVGPGATNATINFEAGILECYERLSWQRALDYPGQDRLNRLKRKLESRIKTHNKSEPESKRMSLEERKAIGVKMMKVLLFMNPSAGIEGFEPYCMKNSSNTAIGPITLQHQESALMT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>&lt;1..33</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>33</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>number</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>331..332</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>331</GBInterval_from>
+            <GBInterval_to>332</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>13 bp deletion site.</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>676..&gt;1011</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>676</GBInterval_from>
+            <GBInterval_to>1011</GBInterval_to>
+            <GBInterval_accession>M16634.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>number</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggcggacaacatgaccacaacacaaattgaggtgggtccgggagcaaccaatgccactataaactttgaagcaggaattttggagtgctatgaaaggctttcatggcaaagagcccttgactaccctggtcaagaccgcctaaacagactaaagagaaaattagaatcaagaataaagactcacaacaaaagtgagcctgaaagtaaaaggatgtctcttgaagagagaaaagcaattggggtaaaaatgatgaaagtgctcctatttatgaacccatctgctggaattgaagggtttgagccatactgtatgaaaaattcctccaatactgcaattggaccgattaccctccaacatcaggaaagtgccttgatgacatagaagaagaaccggagaatgttgatgacccaactgaaatagtattaagggacatgaacaacaaagatgcaaggcaaaagataaaagaggaagtaaacactcagaaagaagggaagttccgtttgacaataaaaagggatatacgtaatgtgttgtccttgagagtgttggtaaacggaacattcctcaagcaccctaatggatacaagtccttatcaactctgcatagattgaatgcatatgaccagagtggaaggcttgttgctaaacttgttgctactgatgatcttacagtggaggatgaagaagatggccatcggatcctcaactcactcttcgagcgttttaatgaaggacattcaaagccaattcgagcagctgaaactgcggtgggagtcttatcccaatttggtcaagagcaccgattatcaccagaggagggagacaattagactggttacggaagaactttatcttttaagtaaaagaattgatgataacatattgttccacaaaacagtaatagctaacagctccataatagctgacatgattgtatcattatcattattggaaacattgtatgagatgaaggatgtggttgaagtgtacagcaggcagtgcttgtgaatttaaaataaaaatcctcttgttactact</GBSeq_sequence>
+  </GBSeq>

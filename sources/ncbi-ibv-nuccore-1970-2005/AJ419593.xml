@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ419593</GBSeq_locus>
+    <GBSeq_length>1038</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>15-NOV-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus partial HA1 gene for hemagglutinin 1 subunit, genomic RNA, strain B/Quebec 74206/99</GBSeq_definition>
+    <GBSeq_primary-accession>AJ419593</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ419593.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ419593.1|</GBSeqid>
+      <GBSeqid>gi|16945366</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>HA1 gene</GBKeyword>
+      <GBKeyword>hemagglutinin 1 subunit</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus (B/Quebec/74206/99)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Quebec/74206/99)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1038</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Abed,Y.</GBAuthor>
+          <GBAuthor>Coulthart,M.B.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Boivin,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of influenza B viruses isolated in Canada during the last three influenza seasons</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1038</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Abed,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-NOV-2001) Abed Y., Chuq-Chul, Research Centre in Infectious Diseases, 2705, Bld Laurier, Sainte-Foy, RC-709, Quebec G1V 4G2, CANADA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1038</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1038</GBInterval_to>
+            <GBInterval_accession>AJ419593.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Quebec/74206/99)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Quebec 74206/99</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:178589</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Canada:Quebec</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1038</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1038</GBInterval_to>
+            <GBInterval_accession>AJ419593.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1038</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1038</GBInterval_to>
+            <GBInterval_accession>AJ419593.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin 1 subunit</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD11824.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q911Y5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001364</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR008980</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013828</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q911Y5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHAVKTATQGEVNVTGAIPLTTTPTKSHFANLKGTKTRGKLCPTCLNCTDLDVALGRPTCVGITPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVINAEKAPGGPYRLGTSGSCPNATSKSGFFATMAWAVPRDNNKTATNPLTVEVPHICTKEEDQITVWGFHSDNKTQMKNLYGDSNPQKFTSSANGITTHYVSQIGGFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKER</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactgggataacatcgtcaaactcacctcatgcggtcaaaacagctactcaaggggaggtcaatgtgactggtgcgataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaacctgtctcaactgcacagatttggatgtggccttgggcagaccaacgtgtgtggggatcacaccttcggcaaaagcttcaatactccacgaagtcagacctgttacatccggatgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaaaatcagattatcaacccaaaacgttatcaacgcagaaaaggcaccaggaggaccctacagacttggaacttcaggatcttgccctaacgctaccagtaaaagcggatttttcgcaacaatggcttgggctgtcccaagggacaacaacaaaacagcaacgaatccactaacagtagaagtaccacacatctgtacaaaagaagaagaccaaattactgtttgggggttccattctgataacaaaacccaaatgaaaaacctctatggagactcaaatccccaaaagttcacctcatctgctaatggaataaccacacattatgtttctcagattggcggcttcccggaccaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagagggattttgttacctcaaaaagtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgccttcatgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccatagggaattgcccaatatgggtgaaaacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattaaaggaaagg</GBSeq_sequence>
+  </GBSeq>

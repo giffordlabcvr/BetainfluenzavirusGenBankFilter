@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ489302</GBSeq_locus>
+    <GBSeq_length>1035</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-JUL-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus partial HA1 gene for hemagglutinin, strain B/Oslo/3761/2000, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ489302</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ489302.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ489302.1|</GBSeqid>
+      <GBSeqid>gi|21955827</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>HA1 gene</GBKeyword>
+      <GBKeyword>hemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus (B/Oslo/3761/2000)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Oslo/3761/2000)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1035</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hungnes,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The role of genetic analysis in influenza virus surveillance and strain characterisation</GBReference_title>
+        <GBReference_journal>Vaccine 20 (SUPPL 5), B45-B49 (2002)</GBReference_journal>
+        <GBReference_pubmed>12477419</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1035</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hungnes,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-JUN-2002) Hungnes O., Division of Infectious Disease Control, Norwegian Institute of Public Health, P.O.Box 4404 Nydalen, N-0403 Oslo, NORWAY</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>AJ489302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Oslo/3761/2000)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Oslo/3761/2000</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:198043</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>MDCK, 1st cell culture passage</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Norway</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>sampled 6 January 2000, 9 year old</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>AJ489302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>AJ489302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD33832.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8JK24</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001364</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR008980</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013828</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q8JK24</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGAIPLTTTPTKSHFANLKGTKTRGKLCPTCLNCTDLDVALGRPMCVGITPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVINAEKAPGGPYRLGTSGSCPNATSKSGFFATMAWAVPKDNNKTATNPLTVEVPHICTKEEDQITVWGFHSDDKTQMKNLYGDSNPQKFTSSANGITTHYVSQIGGFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactgggataacatcgtcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgcgataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaacctgtctcaactgcacagatctggatgtggccttgggcagaccaatgtgtgtggggatcacaccttcggcaaaagcttcaatactccacgaagtcagacctgttacatccggatgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaaaatcagattatcaacccaaaacgttatcaacgcagaaaaggcaccaggaggaccctacagacttggaacttcaggatcttgccctaacgctaccagtaaaagcggatttttcgcaacaatggcttgggctgtccccaaggacaacaacaaaacagcaacgaatccactaacagtagaagtaccacacatctgtacaaaagaagaagaccaaattactgtttgggggttccattctgatgacaaaacccaaatgaaaaacctctatggagactcaaatcctcaaaagttcacctcatctgctaatggaataaccacacattatgtttctcagattgggggcttcccggaccaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagagggattttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgccttcacgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccatagggaattgcccaatatgggtgaaaacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattaaaggaa</GBSeq_sequence>
+  </GBSeq>

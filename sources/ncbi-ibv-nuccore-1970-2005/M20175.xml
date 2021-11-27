@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBM1CA</GBSeq_locus>
+    <GBSeq_length>1190</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAY-1995</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B/Ann Arbor/1/66 (cold-adapted) membrane protein M1 (seg 7) RNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M20175</GBSeq_primary-accession>
+    <GBSeq_accession-version>M20175.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M20175.1|FLBM1CA</GBSeqid>
+      <GBSeqid>gi|325193</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>membrane protein M1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus (B/Ann Arbor/1/1966 [wild- type])</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Ann Arbor/1/1966 [wild- type])</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1190</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>DeBorde,D.C.</GBAuthor>
+          <GBAuthor>Donabedian,A.M.</GBAuthor>
+          <GBAuthor>Herlocher,M.L.</GBAuthor>
+          <GBAuthor>Naeve,C.W.</GBAuthor>
+          <GBAuthor>Maassab,H.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence comparison of wild-type and cold-adapted B/Ann Arbor/1/66 influenza virus genes</GBReference_title>
+        <GBReference_journal>Virology 163 (2), 429-443 (1988)</GBReference_journal>
+        <GBReference_pubmed>3354202</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Influenza B/Ann Arbor/1/66 (cold-adapted) RNA, passed in primary chick kidney cells, originally from human.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1190</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1190</GBInterval_to>
+            <GBInterval_accession>M20175.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Ann Arbor/1/1966 [wild- type])</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Ann Arbor/1/66</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11523</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>primary chick kidney cell</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>25..771</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>25</GBInterval_from>
+            <GBInterval_to>771</GBInterval_to>
+            <GBInterval_accession>M20175.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>25..771</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>25</GBInterval_from>
+            <GBInterval_to>771</GBInterval_to>
+            <GBInterval_accession>M20175.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>membrane protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA66414.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLFGDTIAYLLSLTEDGEGKAELAEKLHCWFGGKEFDLDSALEWIKNKRCLTDIQKALIGASICFLKPKDQERKRRFITEPLSGMGTTATKKKGLILAERKMRRCVSFHEAFEIAEGHESSALLYCLMVMYLNPGNYSMQVKLGTLCALCEKQASHSQRAHSRAARSSVPGVRREMQMVSAVNTAKTMNGMGKGEDVQKLAEELQSNIGVLRSLGASQKNGEGIAKDVMEVLKQSSMGNSALVKKYL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>771..1100</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>771</GBInterval_from>
+            <GBInterval_to>1100</GBInterval_to>
+            <GBInterval_accession>M20175.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Base 771 is the position of the first start codon in ORF2.; putative</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA66415.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLEPFQILSICSFILSALHFMAWTIGHLNQIKRGVNLKIRIRNPNKETINREVSILRHSYQKEIQAKETMKEVLSDNMEILSDHIVIEGLSAEEIIKMGETVLEVEELQ</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcacgcactttcttaaaatgtcgctgtttggagacacaattgcctacctgctttcactaacagaagatggagaaggcaaagcagaactagcagaaaaattacactgttggttcggtgggaaagaatttgacctagactctgctttggaatggataaaaaacaaaagatgcctaactgatatacaaaaagcactaattggtgcctctatctgctttttaaaacccaaagaccaagaaagaaaaagaagattcatcacagagcccctgtcaggaatgggaacaacagcaacaaaaaagaaaggcctgattctagctgagagaaaaatgagaagatgtgtgagttttcatgaagcatttgaaatagcagaaggccatgaaagctcagcactactatattgtctcatggtcatgtacctgaaccctggaaattattcaatgcaagtaaaactaggaacgctctgtgctttatgcgagaaacaagcatcacattcacaaagagctcatagcagagcagcaagatcttcagtgcctggagtgaggcgagaaatgcagatggtttcagctgtgaacacagcaaaaacaatgaatggaatggggaagggagaagacgtccaaaaactggcagaagagctgcaaagcaacattggagtattgagatctctgggggcaagtcaaaagaatggagaaggaattgcaaaggatgtaatggaagtgctaaagcagagctctatgggaaattcagctcttgtgaagaaatacctataatgctcgaaccatttcagattctttcaatttgttctttcattttatcagctctccatttcatggcttggacaatagggcatttgaatcaaataaaaagaggagtaaacctgaaaatacgaataagaaatccaaataaagagacaataaacagagaggtatcaattttgagacacagttaccaaaaagaaatccaagccaaagaaacaatgaaggaagtactctctgacaacatggagatattgagtgaccacatagtaattgaggggctttctgctgaagagataataaaaatgggtgaaacagttttggaggtagaagaattgcagtaaacccaattttcaccgtatttcttgctatgcatttaagcaaattgtaatcaatgtcagcaaataaactggaaaaagtgcgttgtttctact</GBSeq_sequence>
+  </GBSeq>

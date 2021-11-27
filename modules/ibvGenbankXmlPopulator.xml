@@ -44,9 +44,17 @@
 	
 	<gbFeature key="source">
 	
-		<gbQualifier name="isolate">
-			<propertyPopulator property="isolate"/>
+		<gbQualifier name="strain">
+			<propertyPopulator property="strain"/>
 		</gbQualifier>
+		<gbQualifier name="isolation_source">
+			<propertyPopulator property="isolation_source"/>
+		</gbQualifier>
+		<gbQualifier name="lab_host">
+			<propertyPopulator property="lab_host"/>
+		</gbQualifier>
+		
+		
 		<gbQualifier name="country">
 			<propertyPopulator property="country"/>
 			<propertyPopulator property="place_sampled">

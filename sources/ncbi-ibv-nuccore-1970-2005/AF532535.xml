@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF532535</GBSeq_locus>
+    <GBSeq_length>1062</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-SEP-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Hawaii/10/2001) hemagglutinin glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF532535</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF532535.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF532535.1|</GBSeqid>
+      <GBSeqid>gi|22653243</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Hawaii/10/2001)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Hawaii/10/2001)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1062</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shaw,M.W.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Normand,S.</GBAuthor>
+          <GBAuthor>Ueki,R.T.</GBAuthor>
+          <GBAuthor>Kunimoto,G.Y.</GBAuthor>
+          <GBAuthor>Hall,H.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Cox,N.J.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Reappearance and global spread of variants of influenza B/Victoria/2/87 lineage viruses in the 2000-2001 and 2001-2002 seasons</GBReference_title>
+        <GBReference_journal>Virology 303 (1), 1-8 (2002)</GBReference_journal>
+        <GBReference_pubmed>12482653</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1062</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shaw,M.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-JUL-2002) Influenza Branch, Centers for Disease Control and Prevention, 1600 Clifton Road NE, Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1062</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1062</GBInterval_to>
+            <GBInterval_accession>AF532535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Hawaii/10/2001)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Hawaii/10/2001</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:206189</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1062</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1062</GBInterval_to>
+            <GBInterval_accession>AF532535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 polypeptide; virion surface glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAN03970.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPKCLNCTDLDVALGRPKCTGNIPSAKVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYERIRLSNHNVINAEKAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNENNKTATNSLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGALG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactggaataacatcgtcaaactcaccccatgtggtcaaaactgctactcaaggggaagtcaatgtgactggtgtgataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacaaaaaccagagggaaactatgcccaaaatgtctcaactgcacagatctggacgtggccttgggcagaccaaaatgcacggggaacataccttcggcaaaagtttcaatactccatgaagtaagacctgttacatctgggtgctttcctataatgcacgacagaacaaaaattagacagctgcccaatcttctcagaggatacgaacgtatcaggttatcaaaccataacgttatcaatgcagaaaaagcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaaaacgaaaacaacaaaacagcaacaaattcattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgataacgaaacccaaatggcaaaactctatggagactcaaagcctcagaaattcacttcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactatacaggggaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctttgggc</GBSeq_sequence>
+  </GBSeq>

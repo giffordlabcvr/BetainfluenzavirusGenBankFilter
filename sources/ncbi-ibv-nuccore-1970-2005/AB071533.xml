@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB071533</GBSeq_locus>
+    <GBSeq_length>1077</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>20-SEP-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Kadoma/122/99-V11) HA1 gene for hemagglutinin, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AB071533</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB071533.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB071533.1|</GBSeqid>
+      <GBSeqid>gi|15706381</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Kadoma/122/99-V11)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Kadoma/122/99-V11)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1077</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nakagawa,N.</GBAuthor>
+          <GBAuthor>Nukuzuma,S.</GBAuthor>
+          <GBAuthor>Go,S.</GBAuthor>
+          <GBAuthor>Nakagawa,T.</GBAuthor>
+          <GBAuthor>Okuno,Y.</GBAuthor>
+          <GBAuthor>Hayashi,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The Analysis of 2000/2001 epidemic Strains Suggests the Emergence of the New Group of Influenza B Virus</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1077</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nakagawa,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-SEP-2001) Naoko Nakagawa, Kobe Institute of Health, Department of Parasitic Agents; 4-6, Minatojima-nakamachi, Chuo-ku, Kobe, Hyogo 650-0046, Japan (E-mail:kih-info-1@mse.biglobe.ne.jp, Tel:81-78-302-4321(ex.4033), Fax:81-78-302-0894)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1077</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1077</GBInterval_to>
+            <GBInterval_accession>AB071533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Kadoma/122/99-V11)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Kadoma/122/99-V11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:171434</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1077</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1077</GBInterval_to>
+            <GBInterval_accession>AB071533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1077</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1077</GBInterval_to>
+            <GBInterval_accession>AB071533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAB68336.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>ICTGITSSNSPHVVKTATQGEVNVTGAIPLTTTPTKSHFANLKGTKTRGKLCPTCLNCTDLDVALGRPMCVGITPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSNQNVINAEKAPGGPYRLGTSRSCPNATSRSGFFATMAWAVPRDNNKTATNPLTVEVPHICTKEEDQITVWGFHSDNKTQMKNLYGDSNPQKFTSSANGITTHYVSQIGGFPEQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atctgcactggaataacatcgtcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgcgataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaacctgtctcaactgcacagatttggatgtggccttgggcagaccaatgtgtgtggggatcacaccttcggcaaaagcttcaatactccacgaagtcagacctgttacttccggatgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaaaatcagattatcaaaccaaaacgttatcaacgcagaaaaggcaccaggaggaccctacagacttggaacttcaagatcttgccctaacgctaccagtagaagcggatttttcgcaacaatggcttgggctgtcccaagggacaacaacaaaacagcaacgaatccactaacagtagaagtaccacacatctgtacaaaagaagaggaccaaattactgtttgggggttccattctgataacaaaacccaaatgaaaaacctctatggagactcaaatcctcaaaagttcacctcatctgctaatggaataaccacacattatgtttctcagattggcggcttcccggaacaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagagggattttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgccttcacgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagaaggaggatgggaa</GBSeq_sequence>
+  </GBSeq>

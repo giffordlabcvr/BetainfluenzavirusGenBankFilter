@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBFLBL40</GBSeq_locus>
+    <GBSeq_length>2381</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-FEB-2009</GBSeq_update-date>
+    <GBSeq_create-date>29-APR-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Lee/40) mRNA for PB1 polymerase protein, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>D00004</GBSeq_primary-accession>
+    <GBSeq_accession-version>D00004.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D00004.1|FLBFLBL40</GBSeqid>
+      <GBSeqid>gi|221355</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>N00004</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_source>Influenza B virus (B/Lee/1940)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Lee/1940)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2381</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kemdirim,S.</GBAuthor>
+          <GBAuthor>Palefsky,J.</GBAuthor>
+          <GBAuthor>Briedis,D.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza B virus PB1 protein; nucleotide sequence of the genome RNA segment predicts a high degree of structural homology with the corresponding influenza A virus polymerase protein</GBReference_title>
+        <GBReference_journal>Virology 152 (1), 126-135 (1986)</GBReference_journal>
+        <GBReference_pubmed>3754992</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PB1 genome RNA segment is 2368 nucleotides. Sequence comparison between the influenza A and B virus PB1 proteins reveals that they share the highest homology (61% amino acid homology, reported in &lt;Virology 152, 126-135 (1986)&gt;) yet seen between proteins encoded by these disparate viruses.~In &lt;Virology 152, 126-135 (1986)&gt;, first non-viral 13 nucleotides are presumably derived from the 5' end of an influenza mRNA to which they had been transferred from a cellular mRNA during the transcription initiation process of virus mRNA synthesis.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>14..2381</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>14</GBInterval_from>
+            <GBInterval_to>2381</GBInterval_to>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Lee/1940)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Lee/40</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:518987</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>pB4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>including complete sequence of the genomic RNA segment encoding PB1 protein;
+laboratory host: HeLa cells</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..13</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>13</GBInterval_to>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>HeLa cells</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..2381</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2381</GBInterval_to>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>virus mRNA isolated from virus-infected HeLa cells</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..13</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>13</GBInterval_to>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>short capped fragment derived from host mRNA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>34..2292</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>34</GBInterval_from>
+            <GBInterval_to>2292</GBInterval_to>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_except</GBQualifier_name>
+            <GBQualifier_value>(pos:496..498,aa:Leu)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PB1 polymerase protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA00002.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNINPYFLFIDVPIQAAISTTFPYTGVPPYSHGTGTGYTIDTVIRTHEYSNKGKQYISDVTGCVMVDPTNGPLPEDNEPSAYAQLDCVLEALDRMDEEHPGLFQAGSQNAMEALMVTTVDKLTQGRQTFDWTVCRNQPAATALNTTITSFRLNDLNGADKGGLVPFCQDIIDSLDKPEMIFFTVKNIKKKLPAKNRKGFLIKRIPMKVKDRITRVEYIKRALSLNTMTKDAERGKLKRRAIATAGIQIRGFVLVVENLAKNICENLEQSGLPVGGNEKKAKLSNAVAKMLSNCPPGGISMTVTGDNTKWNECLNPRIFLAMTERITRDSPIWFRDFCSIAPVLFSNKIARLGKGFMITSKTKSLKAQIPCPDLFNIPLERYNEETRAKLKKLKPFFNEEGTASLSPGMMMGMFNMLSTVLGVAALGIKNIGNKEYLWDGLQSSDDFALFVNAKDEETCMEGINDFYRTCKLLGINMSKKKSYCNETGMFEFTSMFYRDGFVSNFAMELPSFGVAGVNESADMAIGMTIIKNNMINNGMGPATAQTAIQLFIADYRYTYKCHRGDSKVEGKRMKIIKELWENTKGRDGLLVADGGPNLYNLRNLHIPEIILKYNIMDPEYKGRLLHPQNPFVGHLSIEGIKEADITPAHGPIKKMDYDAVSGTHSWRTKRNRSILNTDQRNMILEEQCYAKCCNLFEACFNSASYRKPVGQHSMLEAMAHRLRMDARLDYESGRMSKEDFEKAMAHLGEIGYM</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>polyA_site</GBFeature_key>
+        <GBFeature_location>2365</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>2365</GBInterval_point>
+            <GBInterval_accession>D00004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>polyadenylation site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aggatctagcagcagcagaagcggagctttaagatgaatataaatccatattttcttttcatagatgtacctatacaggcagcaatttcaacaacattcccatacaccggtgttcccccttattctcatggaacgggaacaggctacacaatagacaccgtgattagaacacacgagtactcaaacaagggaaaacaatacatttctgatgttacaggatgtgtaatggtagatccaacaaatgggccattacccgaagacaatgaaccgagtgcctatgcacaattggattgtgttctggaggctttggatagaatggatgaagaacatccaggtctgtttcaagcagggtcacagaatgccatggaggcactaatggtcacaacagtggacaaattgactcaggggagacagacctttgattggacggtgtgtagaaaccaacctgctgcaacggcactgaacacaacaataacctcttttaggttgaatgattaaaatggagccgacaagggtggattagtgcccttttgccaagatatcattgattcattagacaaacctgaaatgattttcttcacagtaaagaatataaagaaaaaattgcctgctaaaaacagaaagggtttccttataaaaagaatacctatgaaggtaaaagacagaataacaagagtggaatacatcaaaagagcattatcattaaacacaatgactaaagatgctgaaagaggcaaactaaaaagaagagcaattgccaccgctgggatacaaatcagaggatttgtattagtagttgaaaacttggctaaaaatatctgtgaaaatctagagcaaagtggtttacccgtaggtggaaacgaaaagaaggccaaactatcaaatgcagtggctaaaatgctcagtaattgtccaccaggagggatcagtatgactgtgacaggagacaatactaaatggaatgaatgcttaaatccaagaatctttttggctatgactgaaagaataaccagagacagcccaatttggttccgggatttttgtagtatagcaccggtcttgttctccaataaaatagctagattgggaaaagggttcatgataacaagtaaaacaaaaagcctaaaagctcaaataccttgtcccgatctgtttaatataccattagaaagatataatgaagaaacaagggcaaaactgaaaaagctaaaacctttcttcaatgaagaaggaacggcatctctttcgccaggaatgatgatgggaatgtttaatatgctatctacagtattaggagtagccgcactagggataaaaaacattggaaacaaagaatacttatgggatggactgcagtcttcggatgattttgctctgtttgttaatgcaaaagatgaagagacatgtatggaaggaataaacgatttttaccgaacatgtaagctattgggaataaacatgagcaaaaagaaaagttactgtaatgaaactgggatgtttgaatttaccagcatgttttacagagatggatttgtatctaattttgcaatggaactcccttcatttggagtcgctggagtgaatgaatcagcagacatggcaataggaatgacaataataaagaacaatatgatcaacaatgggatgggcccagcaacggcacaaacagccatacaattattcatagctgactatagatacacctacaaatgccacaggggagattccaaagtggaagggaagagaatgaaaattataaaggagctatgggaaaacactaaaggaagagatggtctattagtagcagatggtgggcctaatctttacaatttgagaaacctgcatattccagaaataatattaaaatacaacataatggaccctgagtacaaaggacggttactgcatcctcaaaatccctttgtaggacatttgtctattgagggtatcaaagaagcagatataacacctgcacatggcccaataaagaaaatggactacgatgcggtatctggaactcatagttggagaaccaaaaggaacagatctatactaaacactgatcagaggaacatgattcttgaggaacaatgctacgctaagtgttgcaacctttttgaggcttgctttaacagtgcgtcatacaggaaaccagtaggccagcacagcatgcttgaagctatggcccacagattaagaatggatgcacgactggactatgagtcaggaaggatgtcaaaagaggatttcgaaaaagcaatggctcaccttggtgagattgggtacatgtaagctccggaaatgtctatggggttattggtcatcgttgaatacatgcggtgcacaaatgattaaaatgaaaaaaggctcgtgtttctact</GBSeq_sequence>
+  </GBSeq>

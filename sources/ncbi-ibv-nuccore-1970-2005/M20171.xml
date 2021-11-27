@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBPACA</GBSeq_locus>
+    <GBSeq_length>2308</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAR-1989</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B/Ann Arbor/1/66 (cold-adapted) polymerase (acidic) RNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M20171</GBSeq_primary-accession>
+    <GBSeq_accession-version>M20171.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M20171.1|FLBPACA</GBSeqid>
+      <GBSeqid>gi|325271</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>polymerase (acidic)</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2308</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>DeBorde,D.C.</GBAuthor>
+          <GBAuthor>Donabedian,A.M.</GBAuthor>
+          <GBAuthor>Herlocher,M.L.</GBAuthor>
+          <GBAuthor>Naeve,C.W.</GBAuthor>
+          <GBAuthor>Maassab,H.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence comparison of wild-type and cold-adapted B/Ann Arbor/1/66 influenza virus genes</GBReference_title>
+        <GBReference_journal>Virology 163 (2), 429-443 (1988)</GBReference_journal>
+        <GBReference_pubmed>3354202</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Influenza B/Ann Arbor/1/66 (cold-adapted) RNA, passed in primary chick kidney cells, originally from human.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2308</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2308</GBInterval_to>
+            <GBInterval_accession>M20171.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>30..2210</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>2210</GBInterval_to>
+            <GBInterval_accession>M20171.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>polymerase (acidic)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43765.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDTFITRNFQTTIIQKAKNTMAEFSEDPELQPAMLFNICVHLEVCYVISDMNFLDEEGKTYTALEGQGKEQNLRPQYEVIEGMPRNIAWMVQRSLAQEHGIETPRYLADLFDYKTKRFIEVGITKGLADDYFWKKKEKLGNSMELMIFSYNQDYSLSNESSLDEEGKGRVLSRLTELQAELSLKNLWQVLIGEEDIEKGIDFKLGQTISKLRDISVPAGFSNFEGMRSYIDNIDPKGAIERNLARMSPLVSVTPKKLKWEDLRPIGPHIYNHELPEVPYNAFLLMSDELGLANMTEGKSKKPKTLAKECLEKYSTLRDQTDPILIMKSEKANENFLWKLWRDCVNTISNEETSNELQKTNYAKWATGDGLTYQKIMKEVAIDDETMYQEEPKIPNKCRVAAWVQTEMNLLSTLTSKRALDLPEIGPDVAPMEHVGSERRKYFVNEINYCKASTVMMKYVLFHTSLLNESNASMGKYKVIPITNRVVNEKGESFDMLHGLAVKGQSHLRGDTDVVTVVTFEFSSTDPRVDSGKWPKYTVFRIGSLFVSGREKSVYLYCRVNGTNKIQMKWGMEARRCLLQSMQQMEAIVEQESSIQGYDMTKACFKGDRVNSPKTFSIGTQEGKLVKGSFGKALRVIFTKCLMHYVFGNAQLEGFSAESRRLLLLIQALKDRKGPWVFDLEGMYSGIEECISNNPWVIQSAYWFNEWLGFEKEGSKVLESIDEIMDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcggtgcgtttgatttgccataatggatacttttattacaagaaacttccagactacaataatacaaaaggccaaaaacacaatggcagaatttagtgaagatcctgaattacaaccagcaatgctattcaacatctgcgtccatctggaggtctgctatgtaataagtgatatgaattttcttgatgaagaaggaaaaacatatacagcattagaaggacaaggaaaagaacaaaacttgagaccacaatatgaagtgattgagggaatgccaagaaacatagcatggatggttcaaagatccttagcccaagagcatggaatagagactccaaggtatctggctgatttgttcgattataaaaccaagaggtttatagaagttggaataacaaagggattggctgacgattacttttggaaaaagaaagaaaagctggggaatagcatggaactgatgatattcagctacaatcaagactattcgttaagtaatgaatcctcattggatgaggaaggaaaagggagagtgctaagcagactcacagaacttcaggctgagttaagtctgaaaaatctatggcaagttctcataggagaagaagatattgaaaaaggaattgacttcaaacttggacaaacaatatctaaactaagggatatatctgttccagctggtttctccaattttgaaggaatgaggagctacatagacaatatagatcctaaaggagcaatagagagaaatctagcaaggatgtctcccttagtatcagttacacctaaaaagttgaaatgggaggacctaagaccaatagggcctcacatttacaaccatgagctaccagaagttccatataatgcctttcttctaatgtctgatgagttggggctggctaatatgactgaagggaagtccaagaaaccgaagaccttagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgaaaaagctaacgaaaacttcttatggaagctgtggagggactgtgtaaatacaataagtaatgaggaaacaagtaacgaattacagaaaaccaattatgccaagtgggccacaggagatggattaacataccagaaaataatgaaagaagtagcaatagatgacgaaacaatgtaccaagaagagcccaaaatacctaacaaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagggccctggatctaccagaaatagggccagacgtagcacccatggagcatgtagggagtgaaagaaggaaatactttgttaatgaaatcaactactgtaaggcctctaccgttatgatgaagtatgtactttttcacacttcattattaaatgaaagcaatgccagcatgggaaaatataaagtaataccaataaccaacagagtagtaaatgaaaaaggagaaagttttgacatgcttcatggtctggcggttaaagggcaatctcatctgaggggagatactgatgttgtaacagttgtgactttcgaatttagtagtacagatcccagagtggactcaggaaagtggccaaaatatactgtatttagaattggctccttatttgtgagtggaagggaaaaatctgtgtacctatattgccgagtgaatggtacaaataagatccaaatgaaatggggaatggaagctagaagatgtctgcttcaatcaatgcaacaaatggaagcaattgttgaacaagaatcatcgatacaaggatatgacatgaccaaagcttgtttcaagggagacagagtgaatagtcccaaaactttcagtattgggactcaagaaggaaaactagtaaaaggatcctttgggaaagcactaagagtaatattcaccaaatgtttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgaatctaggagacttctactgttaattcaggcattaaaggacagaaagggcccttgggtattcgacttagagggaatgtattctggaatagaagaatgtattagtaacaacccttgggtaatacagagtgcatactggtttaatgaatggttgggctttgaaaaagaggggagtaaagtattagaatcaatagatgaaataatggatgaatgaaagaagggcatagcgctcaatttggtactattttgttcattatgtatctaaacatctcaaaaaaagaattgagaattaaaaatgcacgtgtttctact</GBSeq_sequence>
+  </GBSeq>

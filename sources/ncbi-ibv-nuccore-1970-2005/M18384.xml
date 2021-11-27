@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBHAEA</GBSeq_locus>
+    <GBSeq_length>1851</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-DEC-1988</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B/England/222/82 hemagglutinin (HA) RNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M18384</GBSeq_primary-accession>
+    <GBSeq_accession-version>M18384.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M18384.1|FLBHAEA</GBSeqid>
+      <GBSeqid>gi|325138</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1851</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rota,P.A.</GBAuthor>
+          <GBAuthor>Shaw,M.W.</GBAuthor>
+          <GBAuthor>Kendal,A.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparison of the immune response to variant influenza type B hemagglutinins expressed in vaccinia virus</GBReference_title>
+        <GBReference_journal>Virology 161 (2), 269-275 (1987)</GBReference_journal>
+        <GBReference_pubmed>3318092</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Influenza B/England/222/82, grown in eggs or human MDCK cells, cDNA to RNA, clone pBHAE.; Draft entry and computer-readable sequence [1] kindly submitted by P.A.Rota 07-MAR-1988.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1851</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1851</GBInterval_to>
+            <GBInterval_accession>M18384.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>34..1785</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>34</GBInterval_from>
+            <GBInterval_to>1785</GBInterval_to>
+            <GBInterval_accession>M18384.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43698.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPNCLNCTDLDVALARPKCMGTIPSAKASILHEVKPVTSGCFPIMHDRTKIRQLPNLLRGYENIKLSTRNVINAERAPGGPYIIGTSGSCPNVTNGNGFFATMAWAVPKDNKTATNPLTVEVPYICTKGEDQITVWGFHSDNAIQMVKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDRIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMIAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>variation</GBFeature_key>
+        <GBFeature_location>668</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>668</GBInterval_point>
+            <GBInterval_accession>M18384.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>t in egg derived subpopulation; c in MDCK cells</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcagagcattttctaatatccacaaaatgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcaccccatgtggtcaaaacagctactcaaggggaagtcaatgtgactggtgtgataccactgacaacaacaccaaccaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaaactgtctcaactgcacagatctggacgtggccttggcgagaccaaagtgtatggggaccataccttcggcaaaagcttcaatactccatgaagtaaaacctgttacatccgggtgctttcctataatgcacgacagaacaaaaatcagacagctgcccaatcttctcagaggatatgaaaatatcaagttatcaacccgtaacgttatcaacgcagaaagggcaccaggagggccctacataattggaacttcaggatcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaagacaacaaaacagcaacgaatccattaacagtagaagtaccatacatttgtacaaaaggagaagaccaaattactgtttgggggttccattctgataacgcaatccaaatggtaaaactctatggagactcaaagcctcaaaagttcacctcatctgccaatggagtaaccacacattatgtttctcagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctggaaaaacaggaacaattgtctatcaaagaggtgttttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaagggtccttgcctttaattggtgaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggagagcatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttggaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcatggagcacatggagtggcagtggcagcagaccttaagagtacgcaagaagccataaacaagataacaaaaaatctcaattctttgagtgagctagaagtaaagaatcttcaaagactaagcggtgccatggatgaactccacaacgaaatactcgagctggatgagaaagtggatgatctcagagctgatacaataagctcgcaaatagagcttgcagtcttgctttccaacgaaggaataataaacagtgaagatgagcatctcttggcacttgaaagaaaactaaagaaaatgctgggtccctctgctgtagacatagggaatggatgctttgaaaccaaacacaagtgcaaccaaacctgcttagacaggatagctgctggcacctttaatgcaggagaattttctcttcccacctttgattcactaaatattactgctgcatctttaaatgatgatggattggataatcatactatactgctctactactcaactgctgcttctagtttggctgtaacattgatgatagctatctttattgtttatatggtctccagagacaatgtttcttgctccatctgtctatagggaggattgagccctgtattttcctttgttgtggtgcttgtttgcttgttaccattacagaaaacg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF299377</GBSeq_locus>
+    <GBSeq_length>1035</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>29-JUN-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Fujian/36/82) hemagglutinin gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF299377</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF299377.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF299377.1|</GBSeqid>
+      <GBSeqid>gi|14575720</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Fujian/36/82)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Fujian/36/82)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1035</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.M.</GBAuthor>
+          <GBAuthor>Guo,Y.J.</GBAuthor>
+          <GBAuthor>Wu,K.Y.</GBAuthor>
+          <GBAuthor>Guo,J.F.</GBAuthor>
+          <GBAuthor>Wang,M.</GBAuthor>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Zhang,Y.</GBAuthor>
+          <GBAuthor>Li,Z.</GBAuthor>
+          <GBAuthor>Shu,Y.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Exploration of the emergence of the Victoria lineage of influenza B virus</GBReference_title>
+        <GBReference_journal>Arch. Virol. 152 (2), 415-422 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-006-0852-6</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17075722</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1035</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.-M.</GBAuthor>
+          <GBAuthor>Guo,Y.-J.</GBAuthor>
+          <GBAuthor>Wu,K.-Y.</GBAuthor>
+          <GBAuthor>Guo,J.-F.</GBAuthor>
+          <GBAuthor>Wang,M.</GBAuthor>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Zhang,Y.</GBAuthor>
+          <GBAuthor>Li,Z.</GBAuthor>
+          <GBAuthor>Shu,Y.-L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-AUG-2000) Chinese Academy of Preventive Medicine, Institute of Virology, Yingxinjie #100, Beijing 100052, P. R. China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>AF299377.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Fujian/36/82)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Fujian/36/82</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:164560</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>AF299377.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK68701.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPKCLNCTDLDVALGRPKCMGTIPSAKASILHEVKPVTSGCFPIMHDRTKIRQLPNLLRGYENIRLSTRNVINAERAPGGPYIIGTSGSCPNVTNGNGFFATMAWAVPKDNKTATNPLTVEVPYICTEGEDQITVWGFHSDYKTQMVKLYGDSTPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGVLLPQKVWCTSGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKER</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactgggataacatcttcaaactcaccccatgtggttaaaacagctactcaaggggaagtcaatgtgactggtgtaataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaaaatgtctcaactgcacagatctggacgtggccttgggcagaccaaagtgtatggggaccataccttcggcaaaagcctcaatactccacgaagtcaaacctgttacatctgggtgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaatatcaggttatcaacccgtaacgttatcaacgcagaaagggcaccaggaggaccctacataattggaacctcaggatcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaagacaacaaaacagcaacgaatccattaacagtagaagtaccatacatttgtacagaaggagaagaccaaattactgtttgggggttccattctgactacaaaacccaaatggtaaaactctatggagactcaacgcctcaaaagttcacctcatctgccaatggagtaaccacacattatgtttctcagattggtggcttcccaaatcaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtgttttattgcctcaaaaagtgtggtgcacaagtggcaggagcaaggtaataaaagggtccttgcctttaattggtgaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacctttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaagg</GBSeq_sequence>
+  </GBSeq>

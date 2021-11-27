@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBSPA3</GBSeq_locus>
+    <GBSeq_length>2304</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-SEP-2010</GBSeq_update-date>
+    <GBSeq_create-date>15-MAR-1989</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Singapore/222/79) polymerase acidic protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M16711</GBSeq_primary-accession>
+    <GBSeq_accession-version>M16711.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M16711.1|FLBSPA3</GBSeqid>
+      <GBSeqid>gi|325293</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Singapore/222/79)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Singapore/222/79)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2304</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Akoto-Amanfu,E.</GBAuthor>
+          <GBAuthor>Sivasubramanian,N.</GBAuthor>
+          <GBAuthor>Nayak,D.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Primary structure of the polymerase acidic (PA) gene of an influenza B virus (B/Sing/222/79)</GBReference_title>
+        <GBReference_journal>Virology 159 (1), 147-153 (1987)</GBReference_journal>
+        <GBReference_pubmed>3604058</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2304</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Akoto-Amanfu,E.</GBAuthor>
+          <GBAuthor>Sivasubramanian,N.</GBAuthor>
+          <GBAuthor>Nayak,D.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-1993) Department of Microbiology and Immunology, School of Medicine and Jonsson Comprehensive Cancer Center, University of California, Los Angeles, CA 90024, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2304</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2304</GBInterval_to>
+            <GBInterval_accession>M16711.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Singapore/222/79)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Singapore/222/79</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:107417</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>B1-90</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>grown in 10 day-old embryonated chicken egg</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>30..2207</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>2207</GBInterval_to>
+            <GBInterval_accession>M16711.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase acidic protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43776.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDTFITRNFQTTIIQKAKNTMAEFMEDPELQPAMLFNICVHLEVCYVISDMNFLDEEGKAYTALEGQGKEQNLRPQYEVIEGMPRNIAWMVQRSLAQEHGIETPKYLADLFDYKTKRFIEVGITKGLADDYFWKKKEKLGNSMELMIFSYNQDYSLSNESSLDEEGKGRVLSRLTELQAELSLKNLWQVLIGEEDIEKGIDFKLGQTISRLRDISVPAGFSNFEGMRSYIDNIDPKGAIERNLARMSPLVSVTPKKLKWEDLRPIGPHIYNHELPEVPYNAFLLMSDELGLANMTEGKSKKPKTLAKECLEKYSTLRDQTDPILIMKSEKANENFLWKLWRDCVNTISNEETSNELQKTNYAKWATGDGLTYQKIMKEVAIDDETMCQEEPKIPNKCRVAAWVQTEMNLLSTLTSKRALDLPEIGPDVAPVEHVGSERRKYFVNEINYCKASTVMMKYVLFHTSLLNESNASMGKYKVIPITNRVNEKGESFDMLYGLAVKGQSHLRGDTDVVTVVTFEFSSTDPRVDSGKWPKYTVFRIGSLFVSGREKSVYLYCRVNGTNKIQMKWGMEARRCLLQSMQQMEAIVEQESSIQGYDMTKACFKEDRVNSPKTFSIGTQEGKLVKGSFGKALRVIFTKCLMHYVFGNAQLEGFSAESRRLLLLIQALKDRKGPWVFDLEGMYSGIEECISNNPWVIQSAYWFNEWLGFEKEGSKVLESVDEIMDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcagaagcgatacgtttgatttgccataatggatacttttattacaagaaacttccagactacaataatacaaaaggccaaaaacacaatggcagaatttatggaagatcctgaattacaaccagcaatgctattcaacatctgcgtccatctagaggtctgctatgtaataagtgatatgaattttcttgatgaagaaggaaaagcatatacagcattagaaggacaaggaaaagaacaaaacttgagaccacaatatgaagtaattgagggaatgccaagaaacatagcatggatggttcaaagatccttagcccaagagcatggaatagagactccaaagtatctggctgatttgttcgattataaaaccaagaggtttatagaagttggaataacaaagggattggctgatgattacttttggaaaaagaaagaaaagctgggaaatagcatggaactgatgatattcagctacaatcaagactattcgttaagtaatgaatcctcattggatgaggaagggaaagggagagtgctaagcagactcacagaacttcaggctgaattgagtctgaaaaacctatggcaagttctcataggagaagaagatattgaaaaaggaattgactttaaacttggacaaacaatatctagactaagggatatatctgttccagctggtttctccaattttgaaggaatgaggagctacatagacaatatagatcctaaaggagcaatagagagaaatctagcaaggatgtctcccttagtatcagtcacacctaaaaagttgaaatgggaggacctaagaccaatagggcctcacatttacaaccatgagctaccagaagttccatataatgcctttcttctaatgtctgatgaattggggctggccaatatgactgaagggaagtccaagaaaccgaagaccttagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgaaaaagctaacgaaaacttcctatggaagctgtggagggactgtgtaaatacaataagtaatgaggaaacaagtaacgaattacagaaaaccaattatgccaagtgggccacaggagatggattaacataccagaaaataatgaaagaagtagcaatagatgacgaaacaatgtgccaagaagagcccaaaatccctaacaaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagagctctggatctaccagaaataggaccagacgtagcacccgtggagcatgtagggagtgaaagaaggaaatactttgttaatgaaatcaactactgtaaggcctctacagttatgatgaagtatgtgctgtttcacacttcattattgaatgaaagcaatgccagcatgggaaaatataaagtaataccaataaccaatagagtaaatgaaaaaggagaaagttttgacatgctttatggtctggcggttaaaggacaatctcatctgaggggagatactgatgttgtaacagttgtgactttcgaatttagtagtacagatcccagagtggactcaggaaagtggccaaaatatactgtgtttagaattggctccttatttgtgagtgggagggaaaaatctgtgtacctatattgccgagtgaatggcacaaataagatccaaatgaaatggggaatggaagctagaagatgtctgcttcaatcaatgcaacaaatggaagcaattgttgaacaagaatcatcgatacaaggatatgacatgaccaaagcttgtttcaaggaagacagagtaaatagccccaaaactttcagtattgggactcaagaaggaaaactagtaaaaggatcctttgggaaagcactaagagtaatatttaccaaatgtttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgaatccaggagacttctactgttaattcaagcattaaaggacagaaagggcccttgggtgttcgacttagagggaatgtattctggaatagaggaatgtattagtaacaacccttgggtaatacagagtgcatactggtttaatgaatggttgggctttgaaaaggaggggagtaaagtattagaatcagtagatgaaataatggatgaatgaaagaaggacatagtactcaatttggtactattttgttcattatgtatctaaacatccaataaaaagaatcaagaaccaaaaatgcacgtgttttcat</GBSeq_sequence>
+  </GBSeq>

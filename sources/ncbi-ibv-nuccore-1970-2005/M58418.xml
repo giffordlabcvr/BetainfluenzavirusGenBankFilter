@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLBHA1AAA</GBSeq_locus>
+    <GBSeq_length>1086</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Beijing/1/1987) segment 4 hemagglutinin gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>M58418</GBSeq_primary-accession>
+    <GBSeq_accession-version>M58418.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M58418.1|FLBHA1AAA</GBSeqid>
+      <GBSeqid>gi|325126</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Beijing/1/1987)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Beijing/1/1987)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1086</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rota,P.A.</GBAuthor>
+          <GBAuthor>Wallis,T.R.</GBAuthor>
+          <GBAuthor>Harmon,M.W.</GBAuthor>
+          <GBAuthor>Rota,J.S.</GBAuthor>
+          <GBAuthor>Kendal,A.P.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cocirculation of two distinct evolutionary lineages of influenza type B virus since 1983</GBReference_title>
+        <GBReference_journal>Virology 175 (1), 59-68 (1990)</GBReference_journal>
+        <GBReference_pubmed>2309452</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1086</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rota,P.A.</GBAuthor>
+          <GBAuthor>Wallis,T.R.</GBAuthor>
+          <GBAuthor>Harmon,M.W.</GBAuthor>
+          <GBAuthor>Rota,J.S.</GBAuthor>
+          <GBAuthor>Kendal,A.P.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-1993) Division of Viral and Rickettsial Diseases, Centers for Disease Control, Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1086</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1086</GBInterval_to>
+            <GBInterval_accession>M58418.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Beijing/1/1987)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Beijing/1/1987</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:888440</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>grown in 10-day-old embryonated chicken eggs</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1086</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1086</GBInterval_to>
+            <GBInterval_accession>M58418.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>glycoprotein; contains HA1 domain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADN68329.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPKCLNCTDLDVALARPKCMGTIPSAKASILHEVKPVTSGCFPIMHDRTKIRQLPNLLRGYEHIRLSTHNVINAETAPGGPYKVGTSGSCPNVTNGNGFFATMAWAVPKNNNNKTATNPLTVEVPYICTEGEDQITVWGFHSDNEAQMVKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQAEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGERDCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKER</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagaccgaatctgcactgggataacatcttcaaactcaccccatgtggtcaaaactgctactcaaggggaagtcaatgtgactggtgtgataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacaaaaactagagggaaactatgcccaaagtgtctcaactgcacagatctggacgtggccttggcgagaccaaagtgcatggggaccataccttcggcaaaagcttcaatactccacgaagtcaaacctgttacatctgggtgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatacgaacatatcaggttatcaacccataacgttatcaacgcagaaacggcaccaggaggaccctacaaagttggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaaaacaacaacaacaaaacagcaacaaatccattaacagtagaagtaccatacatttgtacagaaggagaagaccaaattactgtttgggggttccactctgataacgaagcccaaatggtaaaactctatggagactcaaagcctcagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaagcagaagacggagggctaccacaaagcggtagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctaccaaagaggtattttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaagggtccttgcctttaattggcgaacgagattgcctccacgaaaaatacggtggattaaataaaagcaagccttactacacaggggaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaagg</GBSeq_sequence>
+  </GBSeq>

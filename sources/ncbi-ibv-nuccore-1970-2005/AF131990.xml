@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF131990</GBSeq_locus>
+    <GBSeq_length>1056</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>10-NOV-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Lyon/1271/96) hemagglutinin HA1 domain gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF131990</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF131990.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF131990.1|</GBSeqid>
+      <GBSeqid>gi|6318549</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Lyon/1271/96)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Lyon/1271/96)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Govorkova,E.A.</GBAuthor>
+          <GBAuthor>Matrosovich,M.N.</GBAuthor>
+          <GBAuthor>Tuzikov,A.B.</GBAuthor>
+          <GBAuthor>Bovin,N.V.</GBAuthor>
+          <GBAuthor>Gerdil,C.</GBAuthor>
+          <GBAuthor>Fanget,B.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Selection of receptor-binding variants of human influenza A and B viruses in baby hamster kidney cells</GBReference_title>
+        <GBReference_journal>Virology 262 (1), 31-38 (1999)</GBReference_journal>
+        <GBReference_pubmed>10489338</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Govorkova,E.A.</GBAuthor>
+          <GBAuthor>Matrosovich,M.N.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-MAR-1999) Virology and Molecular Biology, St. Jude Children's Research Hospital, 332 North Lauderdale, Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>AF131990.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Lyon/1271/96)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Lyon/1271/96</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:107432</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>BHK-grown variant; isolated from clinical specimen in MDCK cells and further passaged 3 times in BHK cells</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>AF131990.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>surface glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin HA1 domain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF06942.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTKTRGKLCPTCLNCTDLDVALGRPMCVGITPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVVNAEKAPGGPYRLGSSGSCPNATSRSGFFATMAWAVPRDNNKTATNPLTVEVPYICTKEEDQITVWGFHSDDKTQMKNLYGDSNPQKFTSSANGVTTHYVSQIGGFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggtagtaacatccaatgcagatcgaatctgcactgggataacatcctcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgtgataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaacctgtctcaactgcacagatctggatgtggccttgggcagaccgatgtgtgtggggatcacaccttcggcaaaagcttcaatactccacgaagtcagacctgttacatccggatgctttcctataatgcacgatagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaaaatcagattatcaacccaaaacgttgtcaacgcagaaaaggcaccaggaggaccctacagacttggatcttcaggatcttgccctaacgctaccagtagaagcggatttttcgcaacaatggcttgggctgtcccaagggacaacaacaaaacagcaacgaatccactaacagtagaagtaccatacatctgtacaaaagaagaagaccaaattactgtttgggggttccattctgatgacaaaacccagatgaaaaacctctatggagactcaaatcctcaaaagttcacctcatctgctaatggagtaaccacgcattatgtttctcagattggcggcttcccagatcaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtattttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgccttcacgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaa</GBSeq_sequence>
+  </GBSeq>
