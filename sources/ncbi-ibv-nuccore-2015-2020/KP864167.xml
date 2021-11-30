@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP864167</GBSeq_locus>
+    <GBSeq_length>1755</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-MAR-2015</GBSeq_update-date>
+    <GBSeq_create-date>28-MAR-2015</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/British Columbia/08/2014) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KP864167</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP864167.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP864167.1|</GBSeqid>
+      <GBSeqid>gi|777862199</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/British Columbia/08/2014)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/British Columbia/08/2014)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1755</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Skowronski,D.M.</GBAuthor>
+          <GBAuthor>Chambers,C.</GBAuthor>
+          <GBAuthor>Sabaiduc,S.</GBAuthor>
+          <GBAuthor>De Serres,G.</GBAuthor>
+          <GBAuthor>Winter,A.L.</GBAuthor>
+          <GBAuthor>Dickinson,J.A.</GBAuthor>
+          <GBAuthor>Gubbay,J.</GBAuthor>
+          <GBAuthor>Fonseca,K.</GBAuthor>
+          <GBAuthor>Charest,H.</GBAuthor>
+          <GBAuthor>Krajden,M.</GBAuthor>
+          <GBAuthor>Petric,M.</GBAuthor>
+          <GBAuthor>Mahmud,S.M.</GBAuthor>
+          <GBAuthor>Van Caeseele,P.</GBAuthor>
+          <GBAuthor>Bastien,N.</GBAuthor>
+          <GBAuthor>Eshaghi,A.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Integrated sentinel surveillance linking genetic, antigenic and epidemiologic monitoring of influenza vaccine-virus relatedness and effectiveness, 2013-14 season</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. (2015) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/infdis/jiv177</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25784728</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1755</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Skowronski,D.M.</GBAuthor>
+          <GBAuthor>Chambers,C.</GBAuthor>
+          <GBAuthor>Sabaiduc,S.</GBAuthor>
+          <GBAuthor>De Serres,G.</GBAuthor>
+          <GBAuthor>Winter,A.-L.</GBAuthor>
+          <GBAuthor>Dickinson,J.A.</GBAuthor>
+          <GBAuthor>Gubbay,J.</GBAuthor>
+          <GBAuthor>Fonseca,K.</GBAuthor>
+          <GBAuthor>Charest,H.</GBAuthor>
+          <GBAuthor>Krajden,M.</GBAuthor>
+          <GBAuthor>Petric,M.</GBAuthor>
+          <GBAuthor>Mahmud,S.M.</GBAuthor>
+          <GBAuthor>Van Caeseele,P.</GBAuthor>
+          <GBAuthor>Bastien,N.</GBAuthor>
+          <GBAuthor>Eshaghi,A.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>Canadian Sentinel Physician Surveillance Network (SPSN)</GBReference_consortium>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-FEB-2015) Clinical Trials, British Columbia Centre for Disease Control, 655 West 12th Ave, Vancouver, BC V5Z 4R4, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: Geneious v. 4.8.5 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KP864167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/British Columbia/08/2014)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/British Columbia/08/2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasopharyngeal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1621708</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Canada: British Columbia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>18-Mar-2014</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KP864167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KP864167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJY53881.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTRTRGKLCPDCLNCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKIGFFATMAWAVPKDNYKNATNPQTVEVPYICTEGEDQITVWGFHSDNKTQMKSLYGDSNPQKFTSSANGVTTHYVSQIGDFPDQTEDGGLPQSGRIVVDYMMQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEEYGGLNKSKPYYTGKHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDRIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMLAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggcgtgataccactgacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaggaccagagggaaactatgcccggattgtctcaactgtacagatctggatgtggccttgggcaggccaatgtgtgtggggaccacaccttctgctaaagcttcaatactccatgaggtcagacctgttacatccgggtgctttcctataatgcacgacagaacaaaaatcaggcaactacccaatcttctcagaggatatgaaaagatcaggttatcaacccaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaacgctaccagtaaaatcggattttttgcaacaatggcttgggctgtcccaaaggacaactacaaaaatgcaacgaacccacaaacagtggaagtaccatacatttgtacagaaggggaagaccaaattactgtttgggggttccactcggataacaaaacccaaatgaagagcctctatggagactcaaatcctcaaaagttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcgacttcccagatcaaacagaagacggaggactaccacaaagcggcagaattgttgttgattacatgatgcaaaaacctgggaaaacaggaacaattgtctatcaaaggggtgttttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtcattgcctttaattggtgaagcagattgccttcatgaagaatacggtggattaaacaaaagcaagccttactacacaggaaaacatgcaaaagccataggaaattgcccaatatgggtaaaaacacctttgaagcttgcaaatggaaccaaatatagacctcctgcaaaactattgaaggaaaggggtttcttcggagctattgctggtttcctagaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcacggagcacatggagtggcagtggcggcagaccttaagagtacacaagaagctataaataagataacaaaaaatctcaattctttgagtgaactagaagtaaagaaccttcaaagactaagtggtgccatggatgaactccacaacgaaatactcgagctggatgaaaaagtggatgatctcagagctgacactataagctcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagacgagcatctattggcacttgagagaaaactaaagaaaatgctgggtccctctgctgtagacataggaaacggatgcttcgaaaccaaacacaaatgcaaccagacctgcttagacaggatagctgctggcacctttaatgcaggagaattttctctccccacttttgattcattgaacattactgctgcatctttaaatgatgatggattggataaccatactatactgctctattactcaactgctgcttctagtttggctgtaacattaatgctagctatttttattgtttatatggtctccagagacaacgtttcatgctccatctgtctataa</GBSeq_sequence>
+  </GBSeq>

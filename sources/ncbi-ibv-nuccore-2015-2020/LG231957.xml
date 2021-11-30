@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LG231957</GBSeq_locus>
+    <GBSeq_length>2178</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>01-FEB-2017</GBSeq_update-date>
+    <GBSeq_create-date>01-FEB-2017</GBSeq_create-date>
+    <GBSeq_definition>KR 1020160017132-A/3: Polypeptide fragments comprising endonuclease activity and their use</GBSeq_definition>
+    <GBSeq_primary-accession>LG231957</GBSeq_primary-accession>
+    <GBSeq_accession-version>LG231957.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LG231957.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020160017132|3</GBSeqid>
+      <GBSeqid>gi|1139394750</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020160017132-A/3</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2178</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bouvier,D.</GBAuthor>
+          <GBAuthor>Crepin,T.</GBAuthor>
+          <GBAuthor>Ruigrok,R.</GBAuthor>
+          <GBAuthor>Dias,A.</GBAuthor>
+          <GBAuthor>Cusack,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Polypeptide fragments comprising endonuclease activity and their use</GBReference_title>
+        <GBReference_journal>KR1020160017132-A 3 15-FEB-2016 EUROPEAN MOLECULAR BIOLOGY LABORATORY|University Joseph Fourier Filiale|Centre National de la Recherche Scientifique Direction de la Politique Industrielle</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020167002571-A/3~AN KR 1020167002571~AD 2016-01-28~PN KR 1020160017132~PD 2016-02-15~AT Polypeptide fragments comprising endonuclease activity and~AT their use~AI Bouvier, Denis|Crepin, Thibaut|Ruigrok, Rob|Dias,~AI Alexander|Cusack, Stephen~AA EUROPEAN MOLECULAR BIOLOGY LABORATORY|University Joseph~AA Fourier Filiale|Centre National de la Recherche Scientifique~AA Direction de la Politique Industrielle~PR US 61/203,259=2008-12-19~OS Influenza B virus~TY DNA~FH Key Location/Qualifiers~FT CDS (1)..(2178)~FT PA-subunit of the Influenza B virus (B/Ann Arbor/1/1966~FT [wild-type]) RNA-dependent RNA polymerase.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2178</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2178</GBInterval_to>
+            <GBInterval_accession>LG231957.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggatacttttattacaagaaatttccagactacaataatacaaaaggccaaaaacacaatggcagaatttagtgaagatcctgaattacaaccagcaatgctattcaacatctgcgtccatctggaggtctgctatgtaataagtgatatgaattttcttgatgaagaaggaaaaacatatacagcattagaaggacaaggaaaagaacaaaacttgagaccacaatatgaagtgattgagggaatgccaagaaacatagcatggatggttcaaagatccttagcccaagagcatggaatagagactccaaggtatctggctgatttgttcgattataaaaccaagaggtttatagaagttggaataacaaagggattggctgacgattacttttggaaaaagaaagaaaagctggggaatagcatggaactgatgatattcagctacaatcaagactattcgttaagtaatgaacactcattggatgaggaaggaaaagggagagtgctaagcagactcacagaacttcaggctgagttaagtctgaaaaatctatggcaagttctcataggagaagaagatattgaaaaaggaattgacttcaaacttggacaaacaatatctaaactaagggacatatctgttccagctggtttctccaattttgaaggaatgaggagctacatagacaatatagatcctaaaggagcaatagagagaaatctagcaaggatgtctcccttagtatcagttacacccaaaaagttaaaatgggaggacctaagaccaatagggcctcacatttacagccatgagctaccagaagttccatataatgcctttcttctaatgtctgatgagttggggctggctaatatgactgaagggaagtccaagaaaccaaagaccttagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgaaaaagctaacgaaaacttcttatggaagttgtggagggactgtgtaaatacaataagtaatgaggaaacaagtaacgaattacagaaaaccaattatgccaagtgggccacaggagatggattaacataccagaaaataatgaaagaagtagcaatagatgacgaaacaatgtaccaagaagagcccaaaatacctaataaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagggccctggatctaccagaaatagggccagacgtagcacccgtggagcatgtagggagtgaaagaaggaaatactttgttaatgaaatcaactactgtaaggcctctaccgttatgatgaagtatgtactttttcacacttcattattaaatgaaagcaatgccagcatgggaaaatataaagtaataccaataaccaacagagtagtaaatgaaaaaggagaaagttttgacatactttatggtctggcggttaaagggcaatctcatctgaggggagatactgatgttgtaacagttgtgactttcgaatttagtagtacagatcccagagtggactcaggaaagtggccaaaatatactgtatttagaattggttccttatttgtgagtggaagggaaaaatctgtgtacctatattgccgagtgaatggtacaaacaagatccaaatgaaatggggaatggaagctagaagatgtctgcttcaatcaatgcaacaaatggaagcaattgttgatcaagaatcatcgatacaaggatatgacatgaccaaagcttgtttcaagggagacagagtgaatagtcccaaaactttcagtattgggactcaagaaggaaaactagtaaaaggatcctttgggaaagcactaagagtaatattcaccaaatgtttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgaatctaggagacttctactgttaattcaggcattaaaggacagaaagggcccttgggtattcgacttagagggaatgtattctggaatagaagaatgtattagtaacaacccttgggtaatacagagtgcatactggtttaatgaatggttgggctttgaaaaagaggggagtaaagtattagaatcaatagatgaaataatggatgaa</GBSeq_sequence>
+  </GBSeq>

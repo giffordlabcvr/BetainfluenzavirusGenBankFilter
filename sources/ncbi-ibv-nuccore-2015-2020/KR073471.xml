@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KR073471</GBSeq_locus>
+    <GBSeq_length>1833</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-SEP-2015</GBSeq_update-date>
+    <GBSeq_create-date>08-SEP-2015</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Malaysia/U3523/2014) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KR073471</GBSeq_primary-accession>
+    <GBSeq_accession-version>KR073471.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KR073471.1|</GBSeqid>
+      <GBSeqid>gi|807069696</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Malaysia/U3523/2014)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Malaysia/U3523/2014)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1833</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Oong,X.Y.</GBAuthor>
+          <GBAuthor>Ng,K.T.</GBAuthor>
+          <GBAuthor>Lam,T.T.</GBAuthor>
+          <GBAuthor>Pang,Y.K.</GBAuthor>
+          <GBAuthor>Chan,K.G.</GBAuthor>
+          <GBAuthor>Hanafi,N.S.</GBAuthor>
+          <GBAuthor>Kamarulzaman,A.</GBAuthor>
+          <GBAuthor>Tee,K.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Epidemiological and Evolutionary Dynamics of Influenza B Viruses in Malaysia, 2012-2014</GBReference_title>
+        <GBReference_journal>PLoS ONE 10 (8), E0136254 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0136254</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26313754</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1833</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Oong,X.Y.</GBAuthor>
+          <GBAuthor>Tee,K.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-APR-2015) Department of Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur 50603, Malaysia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: DNASiSMAX v. 3.00 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1833</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1833</GBInterval_to>
+            <GBInterval_accession>KR073471.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Malaysia/U3523/2014)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Malaysia/U3523/2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasopharyngeal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1640816</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Malaysia: Kuala Lumpur</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>17-Feb-2014</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>7..1761</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>7</GBInterval_from>
+            <GBInterval_to>1761</GBInterval_to>
+            <GBInterval_accession>KR073471.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>7..1761</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>7</GBInterval_from>
+            <GBInterval_to>1761</GBInterval_to>
+            <GBInterval_accession>KR073471.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AKC44210.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTKTRGKLCPDCLNCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLANLLRGYENIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKSGFFATMAWAVPKDNNKNATNPLTVEVPYICAEGEDQITVWGFHSDNKTQMKNLYGDSNPQKFTSSANGVTTHYVSQIGGFPDQREDGGLPQSGRIVVDYMMQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDRIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMLAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cacaaaatgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgtgataccactaacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccagactgtctcaattgtacagatctggatgtggccttgggcaggccaatgtgtgtgggaactacaccttctgcgaaagcttcaatacttcacgaagtcagacctgttacatccgggtgcttccctataatgcacgacagaacaaaaatcaggcaactagccaatcttctcagaggatatgaaaatatcaggttatcaacccaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaacgctaccagtaaaagcggatttttcgcaacaatggcttgggctgtcccaaaggacaacaacaaaaatgcaacgaacccattaacagtagaggtaccatacatttgtgcagaaggagaagaccaaattactgtttgggggttccattcggataacaaaacccaaatgaagaacctctatggagactcaaatccccaaaagttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcggcttcccagatcaaagagaagacggaggactaccacaaagcggcagaattgtcgttgattacatgatgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtgttttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgccttcatgaaaaatacggtggattaaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcctagaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcacggagcacatggagtggcagttgctgcagaccttaagagcacacaagaagctataaacaagataacaaaaaatctcaactctttgagtgagctagaagtaaagaatcttcaaaggctaagtggtgccatggatgaactccacaacgaaatactcgagctggatgagaaagtggatgatctcagagctgacactataagttcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagatgaacatctattggcacttgagagaaaactaaagaaaatgctgggtccctctgctgtagacatagggaatggatgcttcgaaaccaaacacaaatgcaaccagacctgcttagacaggatagctgctggcacctttaatgcaggagaattttctctccccacttttgattcattgaacattactgctgcatctttaaatgatgatggattggataaccatactatactgctctattactcaactgctgcttctagtttggctgtaacattgatgctagctatttttattgtttatatggtctccagagacaacgtttcatgctccatctgtctataaggaagattaggccttgtattttcctttgttgtagtgcttgtttgcttgtcatcattacaaagaaacgttatt</GBSeq_sequence>
+  </GBSeq>

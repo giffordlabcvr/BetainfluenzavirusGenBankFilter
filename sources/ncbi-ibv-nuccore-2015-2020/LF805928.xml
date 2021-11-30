@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LF805928</GBSeq_locus>
+    <GBSeq_length>2313</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>31-JAN-2017</GBSeq_update-date>
+    <GBSeq_create-date>31-JAN-2017</GBSeq_create-date>
+    <GBSeq_definition>JP 2016176955-A/4: Soluble RNA Cap Binding Pocket Fragments And Their Use</GBSeq_definition>
+    <GBSeq_primary-accession>LF805928</GBSeq_primary-accession>
+    <GBSeq_accession-version>LF805928.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LF805928.1|</GBSeqid>
+      <GBSeqid>pat|JP|2016176955|4</GBSeqid>
+      <GBSeqid>gi|1137604107</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2016176955-A/4</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2313</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cusack,S.</GBAuthor>
+          <GBAuthor>Guilligay,D.</GBAuthor>
+          <GBAuthor>Hart,D.</GBAuthor>
+          <GBAuthor>Tarendeau,F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Soluble RNA Cap Binding Pocket Fragments And Their Use</GBReference_title>
+        <GBReference_journal>JP2016176955-A 4 06-OCT-2016 European Molecular Biology Laboratory (EMBL)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Influenza B virus~PN JP 2016176955-A/4~PD 06-OCT-2016~PF 10-MAY-2016 JP 2016094331~PR 09-OCT-2007 US 60/998398 ,25-MAR-2008 US 61/070792~PR ,~PR 08-APR-2008 US 61/123456~PA European Molecular Biology Laboratory (EMBL)~PI stephen cusack,delphine guilligay,darren hart,franck tarendeau~PT 'Soluble RNA Cap Binding Pocket Fragments And Their Use'~PS N26~CC~FH Key Location/Qualifiers~FT CDS (1)..(2313)~FT /note='PB2'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2313</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2313</GBInterval_to>
+            <GBInterval_accession>LF805928.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgacattggctaaaattgaattgttaaaacaactgttaagggacaatgaagccaaaacagtattgaaacaaacaacggtagaccaatataacataataagaaaattcaatacatcaagaattgaaaagaacccttcattaaggatgaagtgggcaatgtgttctaattttcccttggctttgaccaagggtgacatggcaaacagaatccccttggaatacaagggaatacaacttaaaacaaatgctgaagacataggaaccaaaggccaaatgtgctcaatagcagcagttacctggtggaatacatatggaccaataggagatactgaaggtttcgaaaaagtctacgaaagcttttttctcagaaagatgagacttgacaatgccacttggggccgaataacttttggcccagttgaaagagtaagaaaaagggtactgctaaaccctctcactaaggaaatgcctccagatgaagcaagtaatgtgataatggaaatattgttccctaaggaagcaggaataccaagagaatctacttggatacatagggaactgataaaagaaaaaagagaaaaattgaaaggaacgatgataactcccattgtactggcatacatgcttgagagggaattggttgccaggagaaggttcctgccggtggcaggagcaacatcagctgagttcatagaaatgctacactgcttacaaggtgaaaattggagacaaatataccacccgggagggaataaactaactgaatctaggtctcaatcgatgattgtggcttgtagaaagataatcagaagatcaatagtcgcatcaaacccattggagctggctgtagaaattgcaaacaagactgtgatagatactgaacctttaaaatcatgtctgacagccatagacggaggtgatgtcgcctgtgacataataagagctgcattaggactaaagatcagacaaagacaaagatttggacgacttgaactaaaaaggatatcaggaagaggattcaaaaatgatgaagaaatattaatcgggaacggaacaatacagaagattggaatatgggacggagaagaggagttccatgtaagatgtggtgaatgcaggggaatattaaaaaagagcaaaatgagaatggaaaaactactaataaattcagctaaaaaggaagacatgaaagatttaataatcttgtgcatggtattttctcaagacactaggatgttccaaggagtaaggggagaaataaattttcttaatagagcaggccaacttttatctccaatgtaccaactccaaagatattttttgaatagaagtaacgatctctttgatcaatgggggtatgaggaatcacccaaagcaagtgagctacatgggataaatgaattaatgaatgcatctgactacactttgaaaggggttgtagtaacaaaaaatgtgattgatgattttagttctactgaaacagaaaaagtatctataacaaaaaatcttagtttaataaaaagaactggggaagtcataatgggggccaatgacgtaagtgaattagaatcacaagctcagctaatgataacatatgatacacctaagatgtgggagatgggaacaaccaaggaactggtgcaaaacacctatcaatgggtgctaaaaaatttggtaacactgaaggctcagtttcttctaggaaaagaagacatgttccaatgggatgcatttgaagcatttgaaagcataatcccccagaagatggctggccaatacagtggatttgcaagagcagtgctcaaacaaatgagagaccaagaggtcatgaaaactgaccagttcataaagttgttgcccttttgtttctcaccaccaaagttaaggagcaatggggagccttatcagttcttgaggcttgtattgaagggaggaggagaaaatttcatcgaagtaaggaaagggtctcctctattctcttacaatccacaaacagaagtcctaactatatgcggcagaatgatgtcattaaaagggaaaattgaagatgaagaaaggaatagatcaatggggaatgcagtgttggcgggttttcttgttagtggcaagtatgacccagatcttggagatttcaaaactattgaagaacttgaaaagctaaaaccgggggagaaagcaaacatcttactttatcaaggaaagcccgttaaagtagttaaaaggaaaagatatagtgctttatccaatgacatttcacaaggaattaagagacaaagaatgacagttgagtccatggggtgggccttgagctaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>GM968010</GBSeq_locus>
+    <GBSeq_length>1732</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>17-DEC-2008</GBSeq_update-date>
+    <GBSeq_create-date>17-DEC-2008</GBSeq_create-date>
+    <GBSeq_definition>Sequence 35 from Patent WO2008143640</GBSeq_definition>
+    <GBSeq_primary-accession>GM968010</GBSeq_primary-accession>
+    <GBSeq_accession-version>GM968010.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|GM968010.1|</GBSeqid>
+      <GBSeqid>pat|WO|2008143640|35</GBSeqid>
+      <GBSeqid>gi|218301000</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1732</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wu,X.</GBAuthor>
+          <GBAuthor>Baptista,C.S.</GBAuthor>
+          <GBAuthor>Munroe,D.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza virus nucleic acid microarray and method of use</GBReference_title>
+        <GBReference_journal>WO2008143640-A1 35 27-NOV-2008 Department of Health and Human Services (US)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1732</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1732</GBInterval_to>
+            <GBInterval_accession>GM968010.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgtccaacatggatattgacggtatcaacactgggacaattgacaaaacaccggaagaaataacttctggaaccagtgggacaaccagaccaatcatcagaccagcaacccttgccccaccaagcaacaaacgaacccggaacccatccccggaaagagcaaccacaagcagtgaagctgatgtcggaaggaaaacccaaaagaaacagaccccgacagagataaagaagagcgtctacaatatggtagtgaaactgggcgaattctataaccagatgatggtcaaagctggactcaacgatgacatggagagaaacctaatccaaaatgcgcatgctgtggaaagaattctattggctgccactgatgacaagaaaactgaatttcagaagaaaaagaatgccagagatgtcaaagaagggaaagaagaaatagatcacaacaaaacaggaggcaccttttacaagatggtaagagatgataaaaccatctacttcagccctataagaattacctttttaaaagaagaggtgaaaacaatgtacaaaaccaccatggggagtgatggcttcagtggactaaatcacataatgattgggcattcacagatgaatgatgtctgtttccaaagatcaaaggcactaaaaagagttggacttgacccttcattaatcagtacctttgcaggaagcacaatccccagaagatcaggtgcaactggtgttgcgatcaaaggaggtggaactttagtggctgaagccattcgatttataggaagagcaatggcagacagagggctattgagagacatcaaagccaaaactgcctatgaaaagattcttctgaatctaaaaaacaaatgctctgcgccccaacaaaaggctctagttgatcaagtgatcggaagtagaaacccagggattgcagacattgaagatctaaccctgcttgctcgtagcatggtcgttgttaggccctctgtggcgagcaaagtagttcttcccataagcatttacgccaaaatacctcaactagggttcaatgttgaagagtactctatggttgggtacgaagccatggctctttacaatatggcaacacctgtttccatattaagaatgggagatgatgcaaaagataaatcgcaattattcttcatgtcttgcttcggagctgcctatgaagacctgagagttctgtctgcattaacaggcacagaattcaagcctagatcagcattaaaatgcaagggtttccatgttccagcaaaggaacaggtggaaggaatgggggcagctctgatgtccatcaagctccagttttgggctccaatgaccagatctggggggaacgaagtaggtggagacggagggtctggccaaataagttgcagcccagtgtttgcagtggagagacctattgctctaagcaagcaagctgtaagaagaatgctgtcaatgaatattgagggacgtgatgcagatgtcaaaggaaatctactcaagatgatgaatgactcaatggctaagaaaaccaatggaaatgctttcattgggaggaaaatgtttcaaatatcagacaaaaacaaaaccaatcccgttgaaattccaattaagcagaccatccccaatttcttctttgggagggacacagcagaggattatgatgacctcgattattaaagcaacaaaatagacactatggctgtgattgtttcaatacgtttggatg</GBSeq_sequence>
+  </GBSeq>

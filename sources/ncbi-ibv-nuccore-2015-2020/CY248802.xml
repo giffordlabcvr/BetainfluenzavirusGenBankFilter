@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>CY248802</GBSeq_locus>
+    <GBSeq_length>2276</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-NOV-2017</GBSeq_update-date>
+    <GBSeq_create-date>01-NOV-2017</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Texas/74/2017) polymerase PA (PA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>CY248802</GBSeq_primary-accession>
+    <GBSeq_accession-version>CY248802.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gnl|CDC|CDC-3025630515_ZZYPOUQT_v1.3</GBSeqid>
+      <GBSeqid>gb|CY248802.1|</GBSeqid>
+      <GBSeqid>gi|1273247353</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Texas/74/2017)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Texas/74/2017)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2276</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jernigan,D.</GBAuthor>
+          <GBAuthor>Wentworth,D.</GBAuthor>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Barnes,J.</GBAuthor>
+          <GBAuthor>Garten,R.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza Sequencing Activity group</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2276</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jernigan,D.</GBAuthor>
+          <GBAuthor>Wentworth,D.</GBAuthor>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Barnes,J.</GBAuthor>
+          <GBAuthor>Garten,R.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-NOV-2017) WHO Collaborating Center for Surveillance, Epidemiology and Control of Influenza, Influenza Division, Centers for Disease Control and Prevention, 1600 Clifton Road, N.E., Atlanta, GA 30333, United States</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##FluData-START## ; EPI_ISOLATE_ID :: EPI_ISL_270111 ; NAME :: B/Texas/74/2017 ; TYPE :: B ; Segment_name :: PA ; HOST_AGE :: 12 ; HOST_GENDER :: F ; PASSAGE :: Original ; LOCATION :: United States / Texas ; COLLECT_DATE :: 27-Mar-2017 ; Lineage :: Victoria ; SPECIMEN_ID :: AVI1700405 ORIGINAL ; SENDER_LAB :: Texas Department of State Health Services-Laboratory Services ; SEQLAB_SAMPLE_ID :: 3025630515 ; EPI_SEQUENCE_ID :: EPI1026351 ; ##FluData-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2276</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2276</GBInterval_to>
+            <GBInterval_accession>CY248802.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Texas/74/2017)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Texas/74/2017</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens; gender F; age 12</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:2051489</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA: Texas</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>27-Mar-2017</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: Original;
+type: Victoria</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>16..2196</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>16</GBInterval_from>
+            <GBInterval_to>2196</GBInterval_to>
+            <GBInterval_accession>CY248802.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>16..2196</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>16</GBInterval_from>
+            <GBInterval_to>2196</GBInterval_to>
+            <GBInterval_accession>CY248802.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ATP83095.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDTFITRNFQTTIIQKAKNTMAEFSEDPELQPAMLFNICVHLEVCYVISDMNFLDEEGKAYTALEGQGKEQNLRPQYEVIEGMPRTIAWMVQRSLAQEHGIETPKYLADLFDYKTKRFIEVGITKGLADDYFWKKKEKLGNSMELMIFSYNQDYSLSNESSLDEEGKGRVLSRLTELQAELSLKNLWQVLIGEEDVEKGIDFKLGQTISRLRDISVPAGFSNFEGMRSYIDNIDPKGAIERNLARMSPLVSVTPKKLTWEDLRPIGPHIYDHELPEVPYNAFLLMSDELGLANMTEGKSKKPKTLAKECLEKYSTLRDQTDPILIMKSEKANENFLWKLWRDCVNTISNEEASNELQKTNYAKWATGDGLTYQKIMKEVAIDDETMCQEEPKIPNKCRVAAWVQTEMNLLSTLTSKRALDLPEIGPDIAPVEHVGSERRKYFVNEINYCKASTVMMKYVLFHTSLLNESNASMGKYKVIPITNRVVNEKGESFDMLYGLAVKGQSHLRGDTDVVTVVTFEFSSTDPRVDSGKWPKYTVFRIGSLFVSGREKSVYLYCRVNGTNKIQMKWGMEARRCLLQSMQQMEAIVEQESSIQGYDMTKACFKGDRVNSPKTFSIGTQEGKLVKGSFGKALRVIFTKCLMHYVFGNAQLEGFSAESRRLLLLIQALKDRKGPWVFDLEGMYSGIEECISNNPWVIQSVYWFNEWLGFEKEGSKVLESVDEVMDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gtttgatttatcataatggatacttttattacaagaaacttccagactacaataatacaaaaggccaaaaacacaatggcagaatttagtgaagatcctgaattgcaaccagcaatgctattcaacatctgcgtccatctagaggtttgctatgtaataagtgacatgaattttcttgacgaagaaggaaaagcatatacagcattagaaggacaagggaaagaacaaaacttgagaccacaatatgaagtaattgagggaatgccaagaaccatagcatggatggtccagagatccttagctcaagagcatggaatagagactcccaagtatctggctgatttgtttgattacaaaaccaaaagatttatagaagttggaataacaaagggattggctgatgattacttttggaaaaagaaagaaaaattgggaaatagcatggaactgatgatattcagctacaatcaagactactcgttaagtaatgaatcctcattggatgaggaagggaaagggagagtgctaagcagactcacagaacttcaggctgaattaagtctgaaaaatttatggcaagttctcataggagaagaagatgttgaaaagggaattgattttaaacttggacagacaatatctagactaagggatatatctgttccagccggtttctccaattttgaaggaatgaggagctacatagacaatatagacccaaaaggagcaatagagagaaatctagcaaggatgtctcccttagtatcagtcacacctaaaaagttaacatgggaggacctaagaccaatagggcctcacatttacgaccatgagctaccagaagttccatataatgcctttcttctaatgtctgatgaactgggattggccaatatgactgagggaaagtccaaaaaaccgaagacattagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgagaaagctaacgaaaatttcttatggaagctttggagagactgtgtaaatacaataagtaatgaggaagcaagtaacgagttacagaaaaccaattatgccaaatgggccacaggggatggattaacataccagaaaataatgaaagaagtagcaatagatgatgaaacaatgtgccaagaagagcctaaaatccctaacaaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagagctctggacctaccagaaatagggccagacatagcacccgtagagcatgtaggaagtgaaagaaggaaatactttgttaacgaaatcaactactgtaaggcctctacagttatgatgaagtatgtgctttttcatacttcattgttgaatgaaagcaatgccagcatgggaaaatacaaagtaataccaataaccaacagagtagtaaatgaaaaaggagaaagtttcgacatgctttacggtttggcggttaaaggacaatctcatctgaggggagatactgatgttgtaacagttgtaacttttgaatttagtagtacagatcccagagtggactcaggaaagtggccaaaatatactgtatttaggattggctccctatttgtgagtgggagggaaaaatctgtgtacttgtactgcagagtgaatggcacaaataagatccaaatgaaatggggaatggaagctagaagatgtttgcttcaatcaatgcaacaaatggaggcaattgttgaacaggaatcatcaatacaaggatatgacatgaccaaagcctgtttcaagggagacagagtaaatagccccaaaactttcagtattggaactcaagaaggaaaactagtaaaaggatcctttggaaaagcactaagagtaatatttactaaatgcttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgagtctaggagacttctattattgattcaagcattaaaggacagaaagggtccttgggtgttcgacttagagggaatgtattctggaatagaagaatgtattagcaacaacccttgggtgatacagagtgtatactggttcaatgaatggttgggctttgaaaaggaggggagtaaagtgttggaatcagtggatgaagtaatggatgaataaaaggaaatagtactcaatttggtactattttgttcattatgtatctaaacatccaataaaaagaaacaagaatcaaaaat</GBSeq_sequence>
+  </GBSeq>

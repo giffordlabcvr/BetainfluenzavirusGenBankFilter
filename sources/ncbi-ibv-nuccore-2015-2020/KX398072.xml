@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KX398072</GBSeq_locus>
+    <GBSeq_length>1856</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-OCT-2017</GBSeq_update-date>
+    <GBSeq_create-date>05-JUL-2016</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/environment/Gainesville/01/2016) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KX398072</GBSeq_primary-accession>
+    <GBSeq_accession-version>KX398072.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KX398072.1|</GBSeqid>
+      <GBSeqid>gi|1041521137</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/environment/Gainesville/01/2016)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/environment/Gainesville/01/2016)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1856</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pan,M.</GBAuthor>
+          <GBAuthor>Bonny,T.S.</GBAuthor>
+          <GBAuthor>Loeb,J.C.</GBAuthor>
+          <GBAuthor>Jiang,X.</GBAuthor>
+          <GBAuthor>Lednicky,J.A.</GBAuthor>
+          <GBAuthor>Eiguren-Fernandez,A.</GBAuthor>
+          <GBAuthor>Hering,S.V.</GBAuthor>
+          <GBAuthor>Fan,Z.H.</GBAuthor>
+          <GBAuthor>Wu,C.-Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Collection of viable aerosolized influenza virus and other respiratory viruses in a student health care center through water-based condensation growth</GBReference_title>
+        <GBReference_journal>mSphere 2, e00251-17 (2017)</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1856</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lednicky,J.A.</GBAuthor>
+          <GBAuthor>Loeb,J.C.</GBAuthor>
+          <GBAuthor>Bonny,T.S.</GBAuthor>
+          <GBAuthor>Pan,M.</GBAuthor>
+          <GBAuthor>Jiang,X.</GBAuthor>
+          <GBAuthor>Eiguren-Fernandez,A.</GBAuthor>
+          <GBAuthor>Hering,S.V.</GBAuthor>
+          <GBAuthor>Fan,Z.H.</GBAuthor>
+          <GBAuthor>Wu,C.-Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-JUN-2016) Environmental and Global Health, University of Florida - Gainesville, 1225 Center Drive, Room 4155, Gainesville, FL 32610, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1856</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1856</GBInterval_to>
+            <GBInterval_accession>KX398072.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/environment/Gainesville/01/2016)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/environment/Gainesville/01/2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>air in a student health center clinic</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1862966</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>11-Mar-2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: Victoria</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>20..1777</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1777</GBInterval_to>
+            <GBInterval_accession>KX398072.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1777</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1777</GBInterval_to>
+            <GBInterval_accession>KX398072.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ANO46259.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCLNCTDLDVALGRPKCTGKIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHVRLSTHNVINAEDAPGGPYKIGTSGSCPNITNGNGFFATMAWAVPKNDKNKTATNPLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVEIGNGCFETKHKCNQTCLDRIAAGTFDAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMIAIFVVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>attttctaatatccacaaaatgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcgtcaaactcaccacatgtcgtcaaaactgctactcaaggggaggtcaatgtgaccggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacagaaaccagggggaaactatgcccaaaatgcctcaactgcacagatctggatgtagccttgggcagaccaaaatgcacagggaaaataccctctgcaagggtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgatagaacaaaaattagacagctgcctaaccttctccgaggatacgaacatgtcaggttatcaactcacaacgttattaatgcagaagatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacattaccaatggaaacggattcttcgcaacaatggcttgggccgtcccaaaaaacgacaaaaacaaaacagcaacaaatccattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgacaacgagacccaaatggcaaagctctatggggactcaaagccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaggtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccatgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaggccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagagggaggatgggaaggaatgattgcaggttggcacggatacacatcccatggggcacatggagtagcggtggcagctgaccttaagagcactcaagaggccataaacaagataacaaaaaatctcaactctttgagtgagctggaagtaaagaatcttcaaagactaagcggtgccatggatgaactccacaacgaaatactagaactagatgagaaagtggatgatctcagagctgatacaataagctcacaaatagaactcgcagtcctgctttccaatgaaggaataataaacagtgaagatgaacatctcttggcgcttgaaagaaagctgaagaaaatgctgggcccctctgctgtagagatagggaatggatgctttgaaaccaaacacaagtgcaaccagacctgtctcgacagaatagctgctggtacctttgatgcaggagaattttctctccccacctttgattcactgaatattactgctgcatctttaaatgacgatggattggataatcatactatactgctttactactcaactgctgcctccagtttggctgtaacactgatgatagctatctttgttgtttatatggtctccagagacaatgtttcttgctccatttgtctataagggaagttaagccctgtattttcctttattgtagtgcttgtttgcttgttgtcattacaaagaaacgttattgaaaaat</GBSeq_sequence>
+  </GBSeq>

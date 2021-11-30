@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ343784</GBSeq_locus>
+    <GBSeq_length>1017</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>25-JAN-2006</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Nepal/1105/2005) hemagglutinin (HA1) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ343784</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ343784.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ343784.1|</GBSeqid>
+      <GBSeqid>gi|85541396</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Nepal/1105/2005)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Nepal/1105/2005)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1017</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Daum,L.T.</GBAuthor>
+          <GBAuthor>Canas,L.C.</GBAuthor>
+          <GBAuthor>Klimov,A.I.</GBAuthor>
+          <GBAuthor>Shaw,M.W.</GBAuthor>
+          <GBAuthor>Gibbons,R.V.</GBAuthor>
+          <GBAuthor>Shrestha,S.K.</GBAuthor>
+          <GBAuthor>Myint,K.S.</GBAuthor>
+          <GBAuthor>Acharya,R.P.</GBAuthor>
+          <GBAuthor>Rimal,N.</GBAuthor>
+          <GBAuthor>Reese,F.</GBAuthor>
+          <GBAuthor>Niemeyer,D.M.</GBAuthor>
+          <GBAuthor>Arulanandam,B.P.</GBAuthor>
+          <GBAuthor>Chambers,J.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular analysis of isolates from influenza B outbreaks in the U.S. and Nepal, 2005</GBReference_title>
+        <GBReference_journal>Arch. Virol. 151 (9), 1863-1874 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-006-0777-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16736092</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1017</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Daum,L.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-DEC-2005) Air Force Institute for Operational Health (AFIOH), Department of Defense, 2502 Gillingham, Brooks City Base, TX 78235, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>DQ343784.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Nepal/1105/2005)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Nepal/1105/2005</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>clinical samples; passaged once (P1) in PMK culture cells</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:367144</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Nepal</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>DQ343784.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>DQ343784.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABC70912.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCLNCTDLDVALGRPKCTGNIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHIRLSTHNVINAENAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNDNNKTATNSLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactgggataacatcgtcaaactcaccacatgttgtcaaaactgctactcaaggggaggtcaatgtgactggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacagaaaccagagggaaactatgcccaaaatgcctcaactgcacagatctggacgtggccttgggcagaccaaaatgcacggggaacataccctcggcaagagtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgacagaacaaaaattagacagctgcctaaccttctcagaggatacgaacatatcaggttatcaactcataacgttatcaatgcagaaaatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggatttttcgcaacaatggcttgggccgtcccaaaaaacgacaacaacaaaacagcaacaaattcattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgataacgaaacccaaatggcaaagctctatggggactcaaagccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctgggaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacct</GBSeq_sequence>
+  </GBSeq>

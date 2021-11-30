@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MF195958</GBSeq_locus>
+    <GBSeq_length>1758</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUN-2017</GBSeq_update-date>
+    <GBSeq_create-date>24-JUN-2017</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Quebec/055/2016) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MF195958</GBSeq_primary-accession>
+    <GBSeq_accession-version>MF195958.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MF195958.1|</GBSeqid>
+      <GBSeqid>gi|1208329405</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Quebec/055/2016)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Quebec/055/2016)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1758</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Skowronski,D.M.</GBAuthor>
+          <GBAuthor>Chambers,C.</GBAuthor>
+          <GBAuthor>Sabaiduc,S.</GBAuthor>
+          <GBAuthor>De Serres,G.</GBAuthor>
+          <GBAuthor>Winter,A.-L.</GBAuthor>
+          <GBAuthor>Dickinson,J.A.</GBAuthor>
+          <GBAuthor>Gubbay,J.B.</GBAuthor>
+          <GBAuthor>Drews,S.J.</GBAuthor>
+          <GBAuthor>Charest,H.</GBAuthor>
+          <GBAuthor>Bastien,N.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Krajden,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>Canadian Sentinel Practitioner Surveillance Network (SPSN)</GBReference_consortium>
+        <GBReference_title>Influenza vaccine effectiveness during the 2015-16 season in Canada: agent-host and immuno-epidemiological influences beyond antigenic match</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1758</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Skowronski,D.M.</GBAuthor>
+          <GBAuthor>Chambers,C.</GBAuthor>
+          <GBAuthor>Sabaiduc,S.</GBAuthor>
+          <GBAuthor>De Serres,G.</GBAuthor>
+          <GBAuthor>Winter,A.-L.</GBAuthor>
+          <GBAuthor>Dickinson,J.A.</GBAuthor>
+          <GBAuthor>Gubbay,J.B.</GBAuthor>
+          <GBAuthor>Drews,S.J.</GBAuthor>
+          <GBAuthor>Charest,H.</GBAuthor>
+          <GBAuthor>Bastien,N.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Krajden,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>Canadian Sentinel Practitioner Surveillance Network (SPSN)</GBReference_consortium>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-JUN-2017) Clinical Trials, British Columbia Centre for Disease Control, 655 West 12th Ave, Vancouver, BC V5Z 4R4, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: Geneious v. 7.1.9 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1758</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1758</GBInterval_to>
+            <GBInterval_accession>MF195958.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Quebec/055/2016)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Quebec/055/2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasopharyngeal wash</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:2008139</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Canada: Quebec</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Apr-2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: original specimen</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1758</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1758</GBInterval_to>
+            <GBInterval_accession>MF195958.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1758</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1758</GBInterval_to>
+            <GBInterval_accession>MF195958.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ASB32194.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCLNCTDLDVALGRPKCTGKIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHVRLSTHNVINAEDAPGGPYKIGTSGSCPNITNGNGFFATMAWAVPKNDKNKTATNPLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVEIGNGCFETKHKCNQTCLDRIAAGTFDAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMIAIFVVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcgtcaaactcaccacatgtcgtcaaaactgctactcaaggggaggtcaatgtgaccggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacagaaaccagggggaaactatgcccaaaatgcctcaactgcacagatctggatgtagccttgggcagaccaaaatgcacagggaaaataccctctgcaagggtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgatagaacaaaaattagacagctgcctaaccttctccgaggatacgaacatgtcaggttatcaactcacaacgttatcaatgcagaagatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacattaccaatggaaacggattcttcgcaacaatggcttgggccgtcccaaaaaacgacaaaaacaaaacagcaacaaatccattaacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgacaacgagacccaaatggcaaagctctatggggactcaaagccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggcagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaggtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccatgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaggccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagagggaggatgggaaggaatgattgcaggttggcacggatacacatcccatggggcacatggagtagcggtggcagctgaccttaagagcactcaagaggccataaacaagataacaaaaaatctcaactctttgagtgagctggaagtaaagaatcttcaaagactaagcggtgccatggatgaactccacaacgaaatactagaactagatgagaaagtggatgatctcagagctgatacaataagctcacaaatagaactcgcagtcctgctttccaatgaaggaataataaacagtgaagatgaacatctcttggcgcttgaaagaaagctgaagaaaatgctgggcccctctgctgtagagatagggaatggatgctttgaaaccaaacacaagtgcaaccagacctgtctcgacagaatagctgctggtacctttgatgcaggagaattttctctccccacctttgattcactgaatattactgctgcatctttaaatgacgatggattggataatcatactatactgctttactactcaactgctgcctccagtttggctgtaacactgatgatagctatctttgttgtttatatggtctccagagacaatgtttcttgctccatttgtctataa</GBSeq_sequence>
+  </GBSeq>

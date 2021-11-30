@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KT383625</GBSeq_locus>
+    <GBSeq_length>1755</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-SEP-2015</GBSeq_update-date>
+    <GBSeq_create-date>08-SEP-2015</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Beijingmentougou/15081/2015) segment 4 hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KT383625</GBSeq_primary-accession>
+    <GBSeq_accession-version>KT383625.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KT383625.1|</GBSeqid>
+      <GBSeqid>gi|923094586</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Beijingmentougou/15081/2015)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Beijingmentougou/15081/2015)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1755</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Epidemiological and Phylogenetic characteristics of influenza B infection in Severe Acute Respiratory Infection cases in Beijing, 2014-2015</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1755</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-AUG-2015) Institute for Infectious Disease and Endemic Disease Control, Beijing Center for Disease Prevention and Control, No. 16 Hepingli Middle Street, Beijing, Beijing 100013, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: MEGA v. 6.0.4 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KT383625.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Beijingmentougou/15081/2015)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Beijingmentougou/15081/2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasopharyngeal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1701509</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Apr-2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Yamagata lineage;
+passage details: C1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KT383625.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1755</GBInterval_to>
+            <GBInterval_accession>KT383625.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ALB08105.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTRTRGKLCPDCLNCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKIGFFATMAWAVPKDNYKNATNPLTVEVPYICTEGEDQITVWGFHSDNKTQMKSLYGDSNPQKFTSSANGVTTHYVSQIGDFPDQTEDGGLPQSGRIVVDYMMQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEEYGGLNKSKPYYTGKHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDKIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMLAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgacaggcgtgataccactgacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaggaccagagggaaactatgcccggactgtctcaactgtacagatctggatgtggccttgggcaggccaatgtgtgtggggaccacaccttctgctaaagcttcaatactccacgaggtcagacctgttacatccggatgctttcctataatgcacgacagaacaaaaatcaggcaactacccaatcttctcagaggatatgaaaagatcaggttatcaacccaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaacgctaccagtaaaatcggatttttcgcaacaatggcttgggctgtcccaaaggacaactacaaaaatgcaacgaacccactaacagtggaagtaccatacatttgtacagaaggggaagaccaaattactgtttgggggttccattcagataacaaaacccaaatgaagagcctctatggagactcaaatcctcaaaagttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcgacttcccagatcaaacagaagacggaggactaccacaaagcggcagaattgttgttgattacatgatgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtgttttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtcattgcctttaattggtgaagcagattgccttcatgaagaatacggtggattaaacaaaagcaagccttactacacaggaaaacatgcaaaagccataggaaattgcccaatatgggtaaaaacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattgaaggaaaggggtttcttcggagctattgctggtttcctagaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcacggggcacatggagtggcagtggcggcagaccttaagagtacacaagaagccataaataagataacaaaaaatctcaattctttgagtgagctagaagtaaagaaccttcaaagactaagtggtgccatggatgaactccacaacgaaatactcgagctggatgagaaagtggatgatctcagagctgacactataagctcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagacgagcatctattggcacttgagagaaaactaaagaaaatgctgggtccctctgctgtagacataggaaacggatgcttcgaaaccaaacacaaatgcaaccagacctgcttagacaagatagctgctggcacctttaatgcaggagaattttccctccccacttttgattcattgaacattactgctgcatctttaaatgatgatggattggataaccatactatactgctctattactcaactgctgcttctagtttggctgtaacattaatgctagctatttttattgtttatatggtctccagagacaacgtttcatgctccatctgtctataa</GBSeq_sequence>
+  </GBSeq>

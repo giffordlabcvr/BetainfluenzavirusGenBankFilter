@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ461686</GBSeq_locus>
+    <GBSeq_length>2259</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>30-JAN-2009</GBSeq_update-date>
+    <GBSeq_create-date>30-JAN-2009</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Cheongju/411/2008) segment 1 polymerase PB1 (PB1) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>FJ461686</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ461686.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ461686.1|</GBSeqid>
+      <GBSeqid>gi|213688697</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Cheongju/411/2008)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Cheongju/411/2008)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2259</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Baek,Y.H.</GBAuthor>
+          <GBAuthor>Song,M.-S.</GBAuthor>
+          <GBAuthor>Pascua,P.N.Q.</GBAuthor>
+          <GBAuthor>Han,H.-S.</GBAuthor>
+          <GBAuthor>Lee,O.-J.</GBAuthor>
+          <GBAuthor>Choi,Y.-K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization and phylogenetic analysis of human Influenza B viruses in Cheongju, South Korea</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2259</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Baek,Y.H.</GBAuthor>
+          <GBAuthor>Song,M.-S.</GBAuthor>
+          <GBAuthor>Pascua,P.N.Q.</GBAuthor>
+          <GBAuthor>Han,H.-S.</GBAuthor>
+          <GBAuthor>Lee,O.-J.</GBAuthor>
+          <GBAuthor>Choi,Y.-K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-NOV-2008) College of Medicine and Medical Research Institute, Chungbuk National University, 12 Gaeshin-Dong Heungduk-Ku, Cheongju, Chungbuk 361-763, Republic of Korea</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank Accession Numbers FJ461686, FJ461678, FJ461688, FJ461680, FJ461676, FJ461684, FJ461674, FJ461682 represent sequences from the 8 segments of Influenza B virus (B/Cheongju/411/2008).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2259</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2259</GBInterval_to>
+            <GBInterval_accession>FJ461686.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Cheongju/411/2008)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Cheongju/411/2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:574653</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>South Korea</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>19-Feb-2008</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..2259</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2259</GBInterval_to>
+            <GBInterval_accession>FJ461686.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..2259</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2259</GBInterval_to>
+            <GBInterval_accession>FJ461686.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase PB1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACJ53917.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNINPYFLFIDVPIQAAISTTFPYTGVPPYSHGTGTGHTIDTVIRTHEYSNKGKQYVSDITGCTMVDPTNGPLPEDNEPSAYAQLDCVLEALDRMDEEHPGLFQAASQNAMEALMVTTVDKLTQGRQTFDWTVCRNQPAATALNTTITSFRLNDLNGADKGGLVPFCQDIIDSLDKPEMTFFSVKNIKKKLPAKNRKGFLIKRIPMKVKDRISRVEYIKRALSLNTMTKDAERGKLKRRAIATAGIQIRGFVLVVENLAKNICENLEQSGLPVGGNEKKAKLSNAVAKMLSNCPPGGISMTVTGDNTKWNECLNPRIFLAMTERITRDSPIWFRDFCSIAPVLFSNKIARLGKGFMVTSKTKRLKAQIPCPDLFSIPLERYNEETRAKLRKLKPFFNEEGTASLSPGMMMGMFNMLSTVLGVAALGIKNIGNKEYLWDGLQSSDDFALFVNAKDEETCMEGINDFYRTCKLLGINMSKKKSYCNETGMFEFTSMFYRDGFVSNFAMEIPSFGVAGVNESADMAIGMTIIKNNMINNGMGPATAQTAIQLFIADYRYTYKCHRGDSKVEGKRMKIIKELWENTKGRDGLLVADGGPNIYNLRNLHIPEIVLKYNLMDPEYKGRLLHPQNPFVGHLSIEGIKEADITPAHGPVKKMDYDAVSGTHSWRTKRNRSILNTDQRNMILEEQCYAKCCNLFEACFNSASYRKPVGQHSMLEAMAHRLRMDARLDYESGRMSKDDFEKAMAHLGEIGYT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatataaatccttactttctcttcatagatgtacccatacaggcagcaatttcaacaacattcccatacaccggtgttcccccctattcccatggaacgggaacaggccacacaatagacaccgtgatcagaacacatgagtactcaaataaggggaaacaatatgtctctgacatcacaggatgtacaatggtagatccaacaaacggaccattacccgaagacaatgagccaagtgcctatgcacaattagattgcgttctggaggctttggatagaatggatgaggaacatccaggtctgtttcaagcagcctcacagaatgccatggaggcactaatggtcacaactgtagacaaattaactcaggggagacagacttttgattggacagtatgtagaaaccagcctgctgcaacggcactaaacacaacaataacctcatttaggttgaatgatttgaatggagctgacaagggtggattggtacccttttgccaagatatcattgattcattggacaagcctgaaatgaccttcttctcagtaaagaatataaagaaaaagttgcctgcaaaaaacagaaagggtttcctcataaagagaataccaatgaaagtaaaagataggatatccagagtggaatacatcaaaagagcattgtcattaaacacaatgacaaaagatgctgaaaggggcaaactaaaaagaagagcgattgcaaccgctggaatacaaatcagagggtttgtattagtagttgaaaacttggctaaaaatatctgtgaaaatctagaacaaagtggtttgcccgtaggtggaaatgaaaagaaagccaaactgtcaaatgcagtggccaaaatgctcagcaactgcccaccaggagggatcagcatgacagtaacaggagacaatactaaatggaatgaatgcttaaatccaagaatctttttggctatgactgaaagaataaccagagacagcccaatttggttccgggatttttgtagtatagcaccggtcttattctccaataaaatagccagactggggaaaggatttatggtaacaagtaaaacaaaaagactgaaggctcaaataccttgtcctgatctgtttagcataccattagaaagatataatgaagaaacaagggcaaagttaagaaagctgaaaccattcttcaatgaagaaggaacggcatctttgtcgcctggaatgatgatgggaatgtttaacatgctatctaccgtgttgggggtagccgcactaggtatcaaaaacattggaaacaaagaatacttatgggatggactgcaatcttctgatgattttgctctgtttgttaatgcaaaagatgaagagacatgtatggaagggataaacgacttttaccgaacatgtaaattattgggaataaatatgagcaaaaagaaaagttactgtaacgaaactggaatgtttgaattcacaagcatgttctatagagatggatttgtgtctaattttgcaatggaaattccttcatttggagttgctggagtaaatgaatcagcagatatggcaataggaatgacaataataaagaacaatatgattaacaatgggatgggcccagcaacagcacaaacagccatacaattgttcatagctgattatagatacacctacaaatgccacaggggagattccaaagtggaaggaaaaagaatgaaaattataaaggagctatgggaaaacactaaaggaagagatggtctgttagtggcagatggtgggcccaacatttacaatttgagaaacttgcatatcccagaaatagtgttgaagtacaatctaatggaccctgaatacaaagggcgattacttcaccctcaaaatccctttgtaggacatttgtctattgaaggcattaaagaagcagatataaccccagcacatggtcccgtgaagaaaatggattatgatgcagtatctgggactcatagctggagaactaaaaggaacagatctatactaaacactgatcagaggaacatgattcttgaggaacaatgctacgctaagtgttgcaacctttttgaggcctgctttaacagtgcatcatacaggaaaccagtaggtcagcacagcatgcttgaagctatggcccatagattaagaatggatgcacgactagattatgaatcaggaagaatgtcaaaggatgattttgagaaagcaatggctcaccttggtgagattgggtacacataa</GBSeq_sequence>
+  </GBSeq>

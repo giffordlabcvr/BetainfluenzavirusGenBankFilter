@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MA847177</GBSeq_locus>
+    <GBSeq_length>1644</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>26-APR-2019</GBSeq_update-date>
+    <GBSeq_create-date>26-APR-2019</GBSeq_create-date>
+    <GBSeq_definition>JP 2018537521-A/22: BROAD SPECTRUM INFLUENZA VIRUS VACCINE</GBSeq_definition>
+    <GBSeq_primary-accession>MA847177</GBSeq_primary-accession>
+    <GBSeq_accession-version>MA847177.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MA847177.1|</GBSeqid>
+      <GBSeqid>pat|JP|2018537521|22</GBSeqid>
+      <GBSeqid>gi|1624774840</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2018537521-A/22</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1644</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ciaramella,G.</GBAuthor>
+          <GBAuthor>Huang,E.Y.</GBAuthor>
+          <GBAuthor>Babaoglu,K.</GBAuthor>
+          <GBAuthor>Flynn,J.A.</GBAuthor>
+          <GBAuthor>Zhang,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>BROAD SPECTRUM INFLUENZA VIRUS VACCINE</GBReference_title>
+        <GBReference_journal>JP2018537521-A 22 20-DEC-2018 ModernaTX Inc</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Influenza B virus~PN JP 2018537521-A/22~PD 20-DEC-2018~PF 21-OCT-2016 JP 2018541088~PR 29-OCT-2015 US 62/248248 ,22-OCT-2015 US 62/245225~PR ,~PR 28-OCT-2015 US 62/247501 ,22-OCT-2015 US 62/245031~PA ModernaTX Inc~PI giuseppe ciaramella,eric yi-chun huang,kerim babaoglu,jessica~PI anne flynn,~PI lan zhang~PT 'BROAD SPECTRUM INFLUENZA VIRUS VACCINE'~PS N494~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1644</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1644</GBInterval_to>
+            <GBInterval_accession>MA847177.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcgtcaaactcaccccatgtggtcaaaactgctactcaaggggaagtcaatgtgactggtgtgataccactgacaacaacacccaccaaatctcattttgcaaatctcaaaggaacaaaaaccagagggaaactatgcccaaagtgtctcaactgcacagatctggacgtggccttgggcagaccaaagtgcacggggaccataccttcggcaaaagcttcaatactccacgaagtcaaacctgttacatctgggtgctttcctataatgcacgacagaacaaaaattagacagctacccaatcttctcagaggatacgaacatatcaggttatcaacccataacgttatcaacgcagaaacggcaccaggaggaccctacaaagttggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggctgtcccaaaaaacgacaacaacaaaacagcaacaaatccattaacagtagaagtaccatacatttgtacagaaggagaagaccaaattactgtttgggggttccactctgataacgaagcccaaatggtaaaactctatggagactcaaagcctcagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaagcagaagacggagggctaccacaaagcggtagaattgttgttgattacatggtgcaaaaatctggaaaaacaggaacaattacctaccaaagaggtattttattgcctcaaaaagtgtggtgcgcaagtggcaggagcaaggtaataaaagggtccttgcctttaattggcgaagcagattgcctccacgaaaaatacggtggattaaacaaaagcaagccttactacacaggggaacatgcaaaagccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaagggtttcttcggagctattgctggtttcttagaaggaggatgggaaggaatgattgcaggttggcacggatacacatcccatggagcacatggagtagcagtggcagcagaccttaagagtacgcaagaagccataaacaagataacaaaaaatctcaattctttgagtgagctggaagtaaagaatcttcaaagactaagcggtgccatggatgaactccacaacaaaatactcgaactggatgagaaagtggatgatctcagagctgatacaataagctcgcaaatagagctcgcagtcttgctttccaacgaaggaataataaacagtgaagatgagcatctcttggcgcttgaaagaaaactgaagaaaatgctgggcccctctgctgtagagatagggaatggatgcttcgaaaccaaacacaagtgcaaccagacctgcctcgacagaatagctgctggcacctttaatgcaggagaattttctctccccacctttgattcactaaatattactgctgcatctttaaatgatgatggattggataatcatact</GBSeq_sequence>
+  </GBSeq>

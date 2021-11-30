@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MG674737</GBSeq_locus>
+    <GBSeq_length>1677</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>07-AUG-2018</GBSeq_update-date>
+    <GBSeq_create-date>07-AUG-2018</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Cameroon/15v-3541/2015) segment 4 hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MG674737</GBSeq_primary-accession>
+    <GBSeq_accession-version>MG674737.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MG674737.1|</GBSeqid>
+      <GBSeqid>gi|1327834326</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Cameroon/15v-3541/2015)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Cameroon/15v-3541/2015)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1677</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Monamele,C.G.</GBAuthor>
+          <GBAuthor>Vernet,M.A.</GBAuthor>
+          <GBAuthor>Njankouo,M.R.</GBAuthor>
+          <GBAuthor>Kenmoe,S.</GBAuthor>
+          <GBAuthor>Schoenhals,M.</GBAuthor>
+          <GBAuthor>Yahaya,A.A.</GBAuthor>
+          <GBAuthor>Anong,D.N.</GBAuthor>
+          <GBAuthor>Akoachere,J.F.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic characterization of influenza B virus in Cameroon and high frequency of reassortant strains</GBReference_title>
+        <GBReference_journal>J. Med. Virol. (2018) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.25273</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30036447</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1677</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Monamele,G.C.</GBAuthor>
+          <GBAuthor>Vernet,M.-A.</GBAuthor>
+          <GBAuthor>Njankouo,M.R.</GBAuthor>
+          <GBAuthor>Kenmoe,S.</GBAuthor>
+          <GBAuthor>Schoenhals,M.</GBAuthor>
+          <GBAuthor>Akoachere,J.F.</GBAuthor>
+          <GBAuthor>Anong,D.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-DEC-2017) Virology, Centre Pasteur Cameroon, BP 1274, Yaounde 237, Cameroon</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1677</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1677</GBInterval_to>
+            <GBInterval_accession>MG674737.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Cameroon/15v-3541/2015)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Cameroon/15v-3541/2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens; male; 7 months</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:2060273</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Cameroon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>28-Apr-2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: original</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1677</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1677</GBInterval_to>
+            <GBInterval_accession>MG674737.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1677</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1677</GBInterval_to>
+            <GBInterval_accession>MG674737.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AUO37705.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSHFANLKGTETRGKLCPKCPNCTDLDVALGRPKCTGKIPSARVSILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEHIRLSTHNVINAENAPGGPYKIGTSGSCPNVTNGNGFFATMAWAVPKNDKNKTATNPLTIEVPYICTEGEDQITVWGFHSDNETQMAKLYGDSNPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVEIGNGCFETKHKCNQTCLDRIAAGTFDAGEFSLPTFDSLNITAASLNDNGLDNHTILLYYSTAASS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcgtcaaactcaccacatgtcgtcaaaactgctactcaaggggaggtcaatgtgaccggtgtaataccactgacaacaacacccaccaaatctcattttgcaaatctaaaaggaacagaaaccagggggaaactatgcccaaaatgccccaactgcacagatctggacgtagccttgggcagaccaaaatgtacggggaaaataccctcggcaagagtttcaatactccatgaagtcagacctgttacatctgggtgctttcctataatgcacgatagaacaaaaattagacagctgcctaaccttctccgaggatacgaacatatcaggttatcaactcacaacgttatcaatgcagaaaatgcaccaggaggaccctacaaaattggaacctcagggtcttgccctaacgttaccaatggaaacggattcttcgcaacaatggcttgggccgtcccaaaaaacgacaaaaacaaaacagcaacaaatccattgacaatagaagtaccatacatttgtacagaaggagaagaccaaattaccgtttgggggttccactctgacaacgagacccaaatggcaaagctctatggggactcaaatccccagaagttcacctcatctgccaacggagtgaccacacattacgtttcacagattggtggcttcccaaatcaaacagaagacggaggactaccacaaagtggtagaattgttgttgattacatggtgcaaaaatctgggaaaacaggaacaattacctatcaaagaggtattttattgcctcaaaaggtgtggtgcgcaagtggcaggagcaaggtaataaaaggatccttgcctttaattggagaagcagattgcctccacgaaaaatacggtgggttaaacaaaagcaagccttactacacaggggaacatgcaaaggccataggaaattgcccaatatgggtgaaaacacccttgaagctggccaatggaaccaaatatagacctcctgcaaaactattaaaggaaaggggtttcttcggagctattgctggtttcttagaaggaggatgggaaggaatgattgcaggttggcacggatacacatcccacggagcacatggagtggcagtggcggcagaccttaagagtacacaagaagctataaataagataacaaaaaatctcaattctttgagtgaactagaagtaaagaaccttcaaagactaagtggtgccatggatgaactccacaacgaaatactcgagctggatgaaaaagtggatgatctcagagctgacactataagctcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagatgaacatctcttggcgcttgaaagaaagctgaagaaaatgctgggcccctctgctgtagagatagggaatggatgctttgaaaccaaacacaagtgcaaccagacctgtctcgatagaatagctgctggtacctttgatgcaggagaattttctctccccacttttgattcactgaatatcactgctgcatctttaaatgacaatggattggataatcatactatactgctttactactcaactgctgcctccagt</GBSeq_sequence>
+  </GBSeq>

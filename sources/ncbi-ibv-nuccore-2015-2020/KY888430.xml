@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KY888430</GBSeq_locus>
+    <GBSeq_length>1746</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-APR-2017</GBSeq_update-date>
+    <GBSeq_create-date>16-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/JiangxiYuanzhou/1893/2015) segment 4 hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KY888430</GBSeq_primary-accession>
+    <GBSeq_accession-version>KY888430.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KY888430.1|</GBSeqid>
+      <GBSeqid>gi|1176704897</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/JiangxiYuanzhou/1893/2015)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/JiangxiYuanzhou/1893/2015)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1746</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Li,J.</GBAuthor>
+          <GBAuthor>Gong,T.</GBAuthor>
+          <GBAuthor>Shi,Y.</GBAuthor>
+          <GBAuthor>Xiong,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-APR-2017) Jiangxi Province Center for Disease Control and Prevention, Beijing East Road 555, Nanchang, Jiangxi 330029, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1746</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1746</GBInterval_to>
+            <GBInterval_accession>KY888430.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/JiangxiYuanzhou/1893/2015)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/JiangxiYuanzhou/1893/2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>Yamagata</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1977808</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: Jiangxi</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>31-Dec-2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: E1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..1746</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1746</GBInterval_to>
+            <GBInterval_accession>KY888430.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1746</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1746</GBInterval_to>
+            <GBInterval_accession>KY888430.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ARG42463.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>IIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTRTRGKLCPDCLNCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKIGFFATMAWAVPKDNYKNATNPQTVEVPYICTEGEDQITVWGFHSDNKTQMKSLYGDSNPQKFTSSANGVTTHYVSQIGDFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEEYGGLNKSKPYYTGKHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDRIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMLAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcaccacatgtggtcaaaacagctactcaaggggaggtcaatgtgactggcgtgataccactgacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaggaccagagggaaactatgcccggactgtctcaactgtacagatctggatgtggccttgggcaggccaatgtgtgtggggaccacaccttctgctaaagcttcaatactccatgaggtcagacctgttacatccgggtgctttcctataatgcacgacagaacaaaaatcaggcaactacccaatcttctcagaggatatgaaaagatcaggttatcaactcaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaacgctaccagtaaaatcggattttttgcaacaatggcttgggctgtcccaaaggacaactacaaaaatgcaacgaacccacaaacagtggaagtaccatacatttgtacagaaggggaagaccaaattactgtttgggggttccattcggataacaaaacccaaatgaagagcctctatggagactcaaatcctcaaaagttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcgacttcccagatcaaacagaagacggaggactaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaaggggtgttctgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtcattgcctttaattggtgaagcagattgccttcatgaagaatacggtggattaaacaaaagcaagccttactacacaggaaaacatgcaaaagccataggaaattgcccaatatgggtaaagacacctttgaagcttgccaatggaaccaaatatagacctcctgcaaaactattgaaggaaaggggtttcttcggagctattgctggtttcctagaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcacggagcacatggagtggcagtggcggcagaccttaagagtacacaagaagctataaataagataacaaaaaatctcaattctttgagtgaactagaagtaaagaaccttcaaagactaagtggtgccatggatgaactccacaacgaaatactcgagctggatgaaaaagtggatgatcttagagctgacactataagctcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagacgagcatctattggcacttgagagaaaactaaagaaaatgctgggtccctctgctgtagacataggaaacggatgcttcgaaaccaaacacaaatgcaaccagacctgcttagacaggatagctgctggcacctttaatgcaggagaattttctctccccacttttgattcattgaacattactgctgcatctttaaatgatgatggattggataaccatactatactgctctattactcaactgctgcttctagtttggctgtaacattaatgctagctatttttattgtttatatggtctccagagacaacgtttcatgctccatctgtctataa</GBSeq_sequence>
+  </GBSeq>

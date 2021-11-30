@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MH684314</GBSeq_locus>
+    <GBSeq_length>2294</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>17-JUL-2019</GBSeq_update-date>
+    <GBSeq_create-date>05-JUN-2019</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Uganda/S16_NP-S_E0-66/2013) segment 3 polymerase PA (PA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MH684314</GBSeq_primary-accession>
+    <GBSeq_accession-version>MH684314.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MH684314.1|</GBSeqid>
+      <GBSeqid>gi|1435110640</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2294</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ramesh,A.</GBAuthor>
+          <GBAuthor>Nakielny,S.</GBAuthor>
+          <GBAuthor>Hsu,J.</GBAuthor>
+          <GBAuthor>Kyohere,M.</GBAuthor>
+          <GBAuthor>Byaruhanga,O.</GBAuthor>
+          <GBAuthor>de Bourcy,C.</GBAuthor>
+          <GBAuthor>Egger,R.</GBAuthor>
+          <GBAuthor>Dimitrov,B.</GBAuthor>
+          <GBAuthor>Juan,Y.F.</GBAuthor>
+          <GBAuthor>Sheu,J.</GBAuthor>
+          <GBAuthor>Wang,J.</GBAuthor>
+          <GBAuthor>Kalantar,K.</GBAuthor>
+          <GBAuthor>Langelier,C.</GBAuthor>
+          <GBAuthor>Ruel,T.</GBAuthor>
+          <GBAuthor>Mpimbaza,A.</GBAuthor>
+          <GBAuthor>Wilson,M.R.</GBAuthor>
+          <GBAuthor>Rosenthal,P.J.</GBAuthor>
+          <GBAuthor>DeRisi,J.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Metagenomic next-generation sequencing of samples from pediatric febrile illness in Tororo, Uganda</GBReference_title>
+        <GBReference_journal>PLoS ONE 14 (6), e0218318 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0218318</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31220115</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2294</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ramesh,A.</GBAuthor>
+          <GBAuthor>DeRisi,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JUL-2018) Neurology, University of California, San Francisco, 675 Nelson Rising Lane, San Francisco, CA 94158, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2294</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2294</GBInterval_to>
+            <GBInterval_accession>MH684314.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Uganda/S16_NP-S_E0-66/2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>S16_NP-S_E0-66</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Uganda</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>24..2204</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>24</GBInterval_from>
+            <GBInterval_to>2204</GBInterval_to>
+            <GBInterval_accession>MH684314.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>24..2204</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>24</GBInterval_from>
+            <GBInterval_to>2204</GBInterval_to>
+            <GBInterval_accession>MH684314.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AXG64356.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDTFITRNFQTTIIQKAKNTMAEFSEDPELQPAMLFNICVHLEVCYVISDMNFLDEEGKAYTALEGQGKEQNLRPQYEVIEGMPRTIAWMVQRSLAQEHGIETPKYLADLFDYKTKRFIEVGITKGLADDYFWKKKEKLGNSMELMIFSYNQDYSLSNESSLDEEGKGRVLSRLTELQAELSLKNLWQALIGEEDVEKGIDFKLGQTISRLRDISVPAGFSNFEGMRSYIDNIDPKGAIERNLARMSPLVSVTPKKLKWEDLRPIGPHIYNHELPEVPYNAFLLMSDELGLANMTEGKSKKPKTLAKECLEKYSTLRDQTDPILIMKSEKANETFLWKLWRDCVNTISNEEMSNELQKTNYAKWATGDGLTYQKIMKEVAIDDETMCQEEPKIPNKCRVAAWVQTEMNLLSTLTSKRALDLPEIGPDVAPVEHVGSERRKYFVNEINYCKASTVMMKYVLFHTSLLNESNASMGKYKVIPITNRVVNEKGESFDMLYGLAVKGQSHLRGDTDVVTVVTFEFSSTDPRVDLGKWPKYTVFRIGSLFVSGREKSVYLYCRVNGTNKIQMKWGMEARRCLLQSMQQMEAIVEQESSIQGYDMTKACFKGDRVNSPKTFSVGTQEGKLVKGSFGKALRVIFTKCLMHYVFGNAQLEGFSAESRRLLLLIQALKDRKGPWVFDLEGMYSGIEECISNNPWVIQSAYWFNEWLGFEKEGSKVLESVDEIMDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atctgtgcgtttgatttgtcataatggatacctttattacaagaaacttccagactacaataatacaaaaggccaaaaacacaatggcagaatttagtgaagatcctgaattacaaccagcaatgctattcaacatctgtgtccatctagaggtttgctatgtaataagtgacatgaattttcttgatgaagaaggaaaagcatatacagcattagaaggacaagggaaagaacaaaatttgagaccacaatatgaagtaattgaggggatgccaagaaccatagcatggatggtccaaaggtccttagctcaagagcatggaatagagactcctaagtatctggctgatttgtttgattataaaaccaagagatttatagaagttggaataacaaaaggattggcagatgattacttttggaaaaagaaagaaaagctgggaaatagcatggaactgatgatattcagctacaaccaagactactcgttaagtaatgaatcctcattggatgaggaagggaaagggagagtgctaagcagactcacagaacttcaggctgaattaagtctgaaaaatctatggcaagctctcataggagaggaagatgttgaaaagggaattgactttaagcttggacaaacaatatctagactaagggatatatctgttccagctggtttctccaatttcgaaggaatgaggagctacatagacaatatagacccaaaaggagcaatagaaagaaatctagcaaggatgtctcccttagtatcagtcacacctaagaagttgaaatgggaggacctaaggccaatagggcctcacatttacaatcatgagctaccagaagttccatataatgcctttcttctaatgtctgatgaactggggctggccaatatgactgagggaaagtccaaaaaaccgaagacattagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgaaaaagctaacgaaactttcctatggaagctttggagagactgtgtaaatacaataagtaatgaggaaatgagtaacgaattacagaaaaccaattatgccaagtgggccacaggggatggattaacataccagaaaataatgaaagaagtagcaatagatgacgaaacaatgtgccaagaagagcctaaaatccctaacaaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagagctctggacctaccagaaatagggccggacgtagcacctgtggagcatgtagggagtgaaagaaggaaatactttgttaatgaaatcaactactgtaaagcctctacagttatgatgaagtatgtgctttttcacacttcattgttaaatgaaagcaatgccagcatgggaaaatacaaagtaataccaataaccaatagggtggtaaatgaaaaaggagaaagtttcgacatgctttatggtctggcggttaaaggacaatctcatctgagaggagatactgatgttgtaacagttgtaactttcgaatttagtagtacagacccaagagtggacttgggaaagtggccaaaatatactgtgtttaggattggctccctatttgtgagtgggagggaaaaatctgtgtacctgtattgccgagtgaatggcacaaataagatccaaatgaagtggggaatggaagctagaagatgtctgcttcaatcaatgcagcaaatggaagcaattgttgaacaagaatcatcgatacaaggatatgacatgaccaaagcttgtttcaagggagacagagtaaatagccccaaaactttcagtgttggaacccaagaaggaaaactagtaaaaggatcctttggaaaagcactacgagtaatatttactaaatgtttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgagtctaggagacttctactgttgattcaagcattaaaggacaggaagggcccttgggtgtttgacttggagggaatgtattctggaatagaagaatgtattagcaacaacccttgggtgatacagagtgcatactggttcaatgaatggttgggctttgaaaaggaggggagtaaggtattagaatcagtagatgaaataatggatgaataaaaggacatagtactcaatttggtactattttgttcattatgtatctaaacatccaataaaaagaaccaagaatcaaaaatgcacgtgttt</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EF467798</GBSeq_locus>
+    <GBSeq_length>1366</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>11-MAR-2007</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/micona/1/1989) segment 6 neuraminidase (NA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EF467798</GBSeq_primary-accession>
+    <GBSeq_accession-version>EF467798.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EF467798.1|</GBSeqid>
+      <GBSeqid>gi|126598086</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/micona/1/1989)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/micona/1/1989)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1366</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Oropesa,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-FEB-2007) Infomed Red Telematica de Salud, Havana, Cuba</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Sequence entered by GenBank staff on behalf of submitter.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1366</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1366</GBInterval_to>
+            <GBInterval_accession>EF467798.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/micona/1/1989)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/micona/1/1989</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:428664</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Japan</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1989</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..1366</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1366</GBInterval_to>
+            <GBInterval_accession>EF467798.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>IRD:EF467798</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..1317</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1317</GBInterval_to>
+            <GBInterval_accession>EF467798.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1317</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1317</GBInterval_to>
+            <GBInterval_accession>EF467798.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABO21685.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SYLLYSDILLKFSPTKIIAPTTSLDSANASNFQAVNHSATKEMTFLLPEPEWTYPRLSCQGSTFQKALLISPHRFGEAKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVNLGKIPTVENSIFHMAALSGSACHDGREWTYIGVDGPDSNALIKIKYGEAYTDTYHSYANNILRTQESACNCIGGDCYLMITDGSASGISKCRFLKIREGRIIKEIFPTGRVEHTEECTCGFASNKTIECACRDNSYTTKRPFVKLNVETDTAEIRLMCTETYLDTPRPDDGSITGPCESNGDKGSGGIKGGFVHQRMASKIGRWYSRTMSKTKRMGMELYVKYDGDPWTDSDALAPSGVMGSIEEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKTTWHSAATAIYCLMGSGQLLWDTITGVDMAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcatacttactgtattcggatatattgctaaaattttcaccaacaaaaataattgcaccaacaacgtcgttggactccgcgaacgcatcaaattttcaggccgtgaaccattctgcaacaaaagagatgacatttcttctcccagaaccggagtggacataccctcgtttatcttgccagggttcaacctttcaaaaagcactcctaattagccctcatagattcggagaagccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggagtgtaaacactttgctctaacccattatgcagctcaaccagggggatactacaatggaacaagaggagacagaaacaagctgaggcatctgatttcagtcaacttaggcaaaataccaactgtagaaaactccattttccacatggcagcattgagtgggtccgcatgccatgatggtagagagtggacttatatcggagttgatggccctgacagtaatgcattgatcaaaataaaatatggagaagcatacactgacacataccattcctatgcaaacaacatcctaagaacacaagaaagtgcctgcaactgcatcgggggagattgttatcttatgataactgatggctcagcttcaggaattagtaaatgcagatttcttaagattcgagagggccgaataataaaagaaatatttccaacaggaagagtagagcatactgaagaatgcacatgcggatttgccagcaataaaaccatagaatgtgcctgtagagataacagttacacaacaaaaagaccctttgtcaaattaaatgtggaaactgatacagcagaaataagattgatgtgcacagagacttatttggacacccccagaccagatgatggaagcataacagggccttgtgaatctaatggggacaaagggagtggaggtatcaagggaggatttgtccatcaaagaatggcatccaagattggaaggtggtactctcgaacgatgtctaaaactaaaagaatggggatggaactgtatgtcaagtatgatggagacccatggactgacagtgatgcccttgctcctagtggagtaatgggctcaatagaagaacctggttggtattctttcggcttcgaaataaaagataagaaatgcgatgtcccctgtattgggatagagatggtacatgatggtggaaaaacaacttggcactcagcagcaacagccatttactgtttaatgggctcaggacagttgctatgggacactatcacaggtgttgatatggctctgtaatggaggaatggttgagtctgttctaaaccctttgttcctattttgtttg</GBSeq_sequence>
+  </GBSeq>

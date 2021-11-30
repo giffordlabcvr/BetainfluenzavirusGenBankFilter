@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LZ982094</GBSeq_locus>
+    <GBSeq_length>2181</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>28-FEB-2018</GBSeq_update-date>
+    <GBSeq_create-date>28-FEB-2018</GBSeq_create-date>
+    <GBSeq_definition>JP 2017205107-A/2: Polypeptide fragments comprising endonuclease activity and their use</GBSeq_definition>
+    <GBSeq_primary-accession>LZ982094</GBSeq_primary-accession>
+    <GBSeq_accession-version>LZ982094.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LZ982094.1|</GBSeqid>
+      <GBSeqid>pat|JP|2017205107|2</GBSeqid>
+      <GBSeqid>gi|1352176953</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2017205107-A/2</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2181</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cusack,S.</GBAuthor>
+          <GBAuthor>Dias,A.</GBAuthor>
+          <GBAuthor>Ruigrok,R.</GBAuthor>
+          <GBAuthor>Crepin,T.</GBAuthor>
+          <GBAuthor>Bouvier,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Polypeptide fragments comprising endonuclease activity and their use</GBReference_title>
+        <GBReference_journal>JP2017205107-A 2 24-NOV-2017 European Molecular Biology Laboratory (EMBL) et al</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Influenza B virus~PN JP 2017205107-A/2~PD 24-NOV-2017~PF 18-MAY-2017 JP 2017099300~PR 19-DEC-2008 US 61/203259~PA European Molecular Biology Laboratory (EMBL) et al~PI stephen cusack,alexander dias,rob ruigrok,thibaut crepin,denis~PI bouvier~PT 'Polypeptide fragments comprising endonuclease activity and~PT their use'~PS N3~CC~FH Key Location/Qualifiers~FT CDS (1)..(2181)~FT /note='PA-subunit of the Influenza B virus~FT (B/Ann~FT Arbor/1/1966 [wild- type]) RNA-dependent RNA~FT polymerase'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2181</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2181</GBInterval_to>
+            <GBInterval_accession>LZ982094.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggatacttttattacaagaaatttccagactacaataatacaaaaggccaaaaacacaatggcagaatttagtgaagatcctgaattacaaccagcaatgctattcaacatctgcgtccatctggaggtctgctatgtaataagtgatatgaattttcttgatgaagaaggaaaaacatatacagcattagaaggacaaggaaaagaacaaaacttgagaccacaatatgaagtgattgagggaatgccaagaaacatagcatggatggttcaaagatccttagcccaagagcatggaatagagactccaaggtatctggctgatttgttcgattataaaaccaagaggtttatagaagttggaataacaaagggattggctgacgattacttttggaaaaagaaagaaaagctggggaatagcatggaactgatgatattcagctacaatcaagactattcgttaagtaatgaacactcattggatgaggaaggaaaagggagagtgctaagcagactcacagaacttcaggctgagttaagtctgaaaaatctatggcaagttctcataggagaagaagatattgaaaaaggaattgacttcaaacttggacaaacaatatctaaactaagggacatatctgttccagctggtttctccaattttgaaggaatgaggagctacatagacaatatagatcctaaaggagcaatagagagaaatctagcaaggatgtctcccttagtatcagttacacccaaaaagttaaaatgggaggacctaagaccaatagggcctcacatttacagccatgagctaccagaagttccatataatgcctttcttctaatgtctgatgagttggggctggctaatatgactgaagggaagtccaagaaaccaaagaccttagccaaagaatgtctagaaaagtactcaacactacgggatcaaactgacccaatattaataatgaaaagcgaaaaagctaacgaaaacttcttatggaagttgtggagggactgtgtaaatacaataagtaatgaggaaacaagtaacgaattacagaaaaccaattatgccaagtgggccacaggagatggattaacataccagaaaataatgaaagaagtagcaatagatgacgaaacaatgtaccaagaagagcccaaaatacctaataaatgtagagtggctgcttgggttcaaacagagatgaatctattgagcactctgacaagtaaaagggccctggatctaccagaaatagggccagacgtagcacccgtggagcatgtagggagtgaaagaaggaaatactttgttaatgaaatcaactactgtaaggcctctaccgttatgatgaagtatgtactttttcacacttcattattaaatgaaagcaatgccagcatgggaaaatataaagtaataccaataaccaacagagtagtaaatgaaaaaggagaaagttttgacatactttatggtctggcggttaaagggcaatctcatctgaggggagatactgatgttgtaacagttgtgactttcgaatttagtagtacagatcccagagtggactcaggaaagtggccaaaatatactgtatttagaattggttccttatttgtgagtggaagggaaaaatctgtgtacctatattgccgagtgaatggtacaaacaagatccaaatgaaatggggaatggaagctagaagatgtctgcttcaatcaatgcaacaaatggaagcaattgttgatcaagaatcatcgatacaaggatatgacatgaccaaagcttgtttcaagggagacagagtgaatagtcccaaaactttcagtattgggactcaagaaggaaaactagtaaaaggatcctttgggaaagcactaagagtaatattcaccaaatgtttgatgcactatgtatttggaaatgcccaattggaggggtttagtgccgaatctaggagacttctactgttaattcaggcattaaaggacagaaagggcccttgggtattcgacttagagggaatgtattctggaatagaagaatgtattagtaacaacccttgggtaatacagagtgcatactggtttaatgaatggttgggctttgaaaaagaggggagtaaagtattagaatcaatagatgaaataatggatgaatga</GBSeq_sequence>
+  </GBSeq>

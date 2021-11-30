@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EF041794</GBSeq_locus>
+    <GBSeq_length>996</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>07-MAY-2007</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Taiwan/70007/05) matrix protein 1 (M1) and BM2 protein (BM2) genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EF041794</GBSeq_primary-accession>
+    <GBSeq_accession-version>EF041794.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EF041794.1|</GBSeqid>
+      <GBSeqid>gi|124490612</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Taiwan/70007/2005)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Taiwan/70007/2005)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,G.W.</GBAuthor>
+          <GBAuthor>Shih,S.R.</GBAuthor>
+          <GBAuthor>Hsiao,M.R.</GBAuthor>
+          <GBAuthor>Chang,S.C.</GBAuthor>
+          <GBAuthor>Lin,S.H.</GBAuthor>
+          <GBAuthor>Sun,C.F.</GBAuthor>
+          <GBAuthor>Tsao,K.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Multiple genotypes of influenza B viruses cocirculated in Taiwan in 2004 and 2005</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. 45 (5), 1515-1522 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JCM.02189-06</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17329451</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,G.-W.</GBAuthor>
+          <GBAuthor>Shih,S.-R.</GBAuthor>
+          <GBAuthor>Hsiao,M.-R.</GBAuthor>
+          <GBAuthor>Chang,S.-C.</GBAuthor>
+          <GBAuthor>Lin,S.-H.</GBAuthor>
+          <GBAuthor>Sun,C.-F.</GBAuthor>
+          <GBAuthor>Tsao,K.-C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-OCT-2006) Emerging Virus Research Center, Chang Gung University, 259 Wen-Hua 1st Rd., Kwei-Shan, Taoyuan 333, Taiwan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>EF041794.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Taiwan/70007/2005)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Taiwan/70007/05</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:510631</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..684</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>684</GBInterval_to>
+            <GBInterval_accession>EF041794.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..684</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>684</GBInterval_to>
+            <GBInterval_accession>EF041794.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>matrix protein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABN12716.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>AELAEKLHCWFGGKEFDLDSALEWIKNKRCLTDIQKALIGASICFLKPKDQERKRRFITEPLSGMGTTATKKKGLILAERKMRRCVSFHEAFEIAEGHESSALLYCLMVMYLNPGNYSMQVKLGTLCALCEKQASHSHRAHSRAARSSVPGVRREMQMVSAMNTAKTMNGMGKGEDVQKLAEELQSNIGVLRSLGASQKNGEGIAKDVMEVLKQSSMGNSALVKKYL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>684..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>684</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>EF041794.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>BM2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>684..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>684</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>EF041794.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>BM2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>BM2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABN12715.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLEPFQILSICSFILSALHFMAWTIGHLNQIKRGINMKIRIKGPNKETINREVSILRHSYQKEIQAKETMKEVLSDNMEVLSDHIIIEGLSAEEIIKMGETVLE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcagaactagcagaaaaattacactgttggtttggtgggaaagaatttgacctagactctgccttggaatggataaaaaacaaaagatgcttaactgatatacaaaaagcactaattggtgcctctatatgctttttaaaacccaaagaccaggaaagaaaaagaagattcatcacagagcccttatcaggaatgggaacaacagcaacaaaaaagaaaggcctgatcctggctgagagaaaaatgagaagatgtgtgagctttcatgaagcatttgaaatagcagaaggccatgaaagctcagcgctactatactgtctcatggtcatgtacctgaatcctggaaattattcaatgcaagtaaaactaggaacgctctgtgctttatgcgagaaacaagcatcacattcacacagggctcatagcagagcagcgagatcttcagtgcctggagtgagacgagaaatgcagatggtctcagctatgaacacagcaaaaacaatgaatggaatgggaaaaggagaagacgtccaaaagctggcagaagagctgcaaagcaacattggagtgctgagatctcttggggcaagtcaaaagaatggggaaggaattgcaaaggatgtaatggaagtgctaaagcagagctctatgggaaattcagctcttgtgaagaaatatctataatgctcgaaccatttcagattctttcaatttgttcttttatcttatcagctctccatttcatggcttggacaatagggcatttgaatcaaataaaaagaggaataaacatgaaaatacgaataaaaggtccaaacaaagagacaataaacagagaggtatcaattttgagacacagttaccaaaaagaaatccaggccaaagaaacaatgaaggaagtactctctgataacatggaggtattgagtgaccacataataattgaggggctttctgccgaagagataataaaaatgggtgaaacagttttggaga</GBSeq_sequence>
+  </GBSeq>

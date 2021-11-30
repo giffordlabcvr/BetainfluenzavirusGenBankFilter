@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN061241</GBSeq_locus>
+    <GBSeq_length>2367</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-JUN-2019</GBSeq_update-date>
+    <GBSeq_create-date>18-JUN-2019</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Moscow/2/2019) segment 2 polymerase PB2 (PB2) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN061241</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN061241.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN061241.1|</GBSeqid>
+      <GBSeqid>gi|1682000169</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus</GBSeq_source>
+    <GBSeq_organism>Influenza B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2367</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Voronina,O.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-JUN-2019) Ministry Of Health Of Russia, N.F.Gamaleya National Research Center for Epidemiology and Microbiology, Gamaleya, 18, Moscow 123098, Russian Federation</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: CLC Genomics Workbench v. 12 ; Sequencing Technology :: Illumina ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2367</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2367</GBInterval_to>
+            <GBInterval_accession>MN061241.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Moscow/2/2019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>nasal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11520</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>Collection of WHO National Influenza Center, N.F. Gamaleya National Research Center for Epidemiology and Microbiology of the Ministry of Health of the Russian Federation, strain ID:B_2_2019, deposition date: Feb-2019.</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Russia: Moscow</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>22-Feb-2019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated in MDCK cells, first infection</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>10..2322</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>10</GBInterval_from>
+            <GBInterval_to>2322</GBInterval_to>
+            <GBInterval_accession>MN061241.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>10..2322</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>10</GBInterval_from>
+            <GBInterval_to>2322</GBInterval_to>
+            <GBInterval_accession>MN061241.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase PB2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QDA45894.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MTLAKIELLKQLLRDNEAKTVLKQTTVDQYNIIRKFNTSRIEKNPSLRMKWAMCSNFPLALTKGDMANRIPLEYKGIQLKTNAEDIGTKGQMCSIAAVTWWNTYGPIGDTEGFERVYESFFLRKMRLDNATWGRITFGPVERVRKRVLLNPLTKEMPPDEASNVIMEILFPKEAGIPRESTWIHRELIKEKREKLKGTMITPIVLAYMLERELVARRRFLPVAGATSAEFIEMLHCLQGENWRQIYHPGGNKLTESRSQSMIVACRKIIRRSIVASNPLELAVEIANKTVIDTEPLKSCLAAIDGGDVACDIIRAALGLKIRQRQRFGRLELKRISGRGFKNDEEILIGNGTIQKIGIWDGEEEFHVRCGECRGILKKSKMKLEKLLINSAKKEDMRDLIILCMVFSQDTRMFQGVRGEINFLNRAGQLLSPMYQLQRYFLNRSNDLFDQWGYEESPKASELHGINESMNTSDYTLKGIVVTRNVIDDFSSTETEKVSITKNLSLIKRTGEVIMGANDVSELESQAQLMITYDTPKMWEMGTTKELVQNTYQWVLKNLVTLKAQFLLGKEDMFQWDAFEAFESIIPQKMAGQYSGFARAVLKQMRDQEVMKTDQFIKLLPFCFSPPKLRSNGEPYQFLKLVLKGGGENFIEVRKGSPLFSYNPQTEVLTICGRMMSLKGKIEDEERNRSMGNAVLAGFLVSGKYDPDLGDFKTIEELEKLKPGEKANILLYQGKPVKVVKRKRYSALSNDISQGIKRQRMTVESMGWALS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gttttcaagatgacattagccaagattgaattgctaaaacaattgctaagggacaatgaggccaaaacagttttgaagcaaacaacagtagaccaatataacataataagaaaattcaatacatcaaggattgaaaagaatccttcactaaggatgaagtgggccatgtgttctaactttcccttggctctaaccaagggcgatatggcaaacagaatccccttggagtacaaagggatacaacttaaaacaaatgctgaagacataggaaccaaaggccaaatgtgctcaatagcagcagttacttggtggaatacatatggaccaataggagacactgaaggttttgaaagggtctacgaaagcttttttctcagaaaaatgagacttgacaacgccacttggggccggataacttttggcccagttgaaagagtgagaaaaagagtactactaaaccctctcaccaaggaaatgcctccggatgaggcaagcaatgtgataatggaaatattgttccctaaagaagcaggaataccaagagaatccacttggatacatagggaactgataaaagaaaaaagagaaaaattgaaaggaacaatgataactccaatcgtactggcatacatgcttgaaagagaactggttgctcgaagaagattcttgccagtggcaggagcaacatcagctgagttcatagaaatgctacactgcttacagggtgaaaattggagacaaatatatcacccaggagggaataaattaactgagtccaggtctcaatcaatgatagtagcttgtaggaaaataatcagaagatcaatagtcgcttcaaacccattggagctagctgtagaaattgcaaacaagactgtgatagatactgaacctttaaagtcatgtctggcagccatagacggaggtgatgtagcttgtgacataataagagctgcattaggactaaagatcagacaaagacaaagatttggacggcttgagctaaaaagaatatcaggaagaggattcaaaaatgatgaagaaatattaatagggaacggaacaatacagaagattggaatatgggacggggaagaggagttccatgtaagatgtggtgaatgcaggggaatattaaaaaagagtaaaatgaaactggaaaaactactgataaattcagccaaaaaggaggatatgagagatttaataatcttatgcatggtattttctcaagacactaggatgttccaaggggtgagaggagaaataaattttcttaatcgagcaggccaacttttatctccaatgtaccaactccaacgatattttttgaatagaagcaacgacctttttgatcaatgggggtatgaggaatcacccaaagcaagtgaactacatgggataaatgaatcaatgaatacatctgactatacattgaaagggattgtagtgacaagaaatgtaattgacgactttagctctactgaaacagaaaaagtatccataacaaaaaatcttagcttaataaaaaggactggagaagtcataatgggagctaatgacgtgagtgaattagaatcacaagcacagctgatgataacatatgatacacctaaaatgtgggaaatgggaacaaccaaagaactggtgcaaaacacttatcaatgggtgctaaaaaacttggtgacactgaaggctcagtttcttctaggaaaagaggacatgttccaatgggatgcatttgaagcatttgagagcataattcctcagaaaatggctggtcagtacagtggatttgcaagagcagtgctcaaacaaatgagagaccaggaggttatgaaaactgaccagttcataaagttgctgcctttttgtttctcaccaccaaaattaaggagcaatggggagccttatcaattcttaaaacttgtattgaaaggaggaggggaaaatttcattgaagtaagaaaagggtctcctctattttcctataatccacaaacagaagtcttaactatatgcggcagaatgatgtcattaaaagggaaaattgaagatgaagaaaggaatagatcaatggggaatgcagtattagcaggctttctcgttagtggcaagtatgacccagatcttggagatttcaaaactattgaagaacttgaaaagctgaaaccaggggaaaaggcaaacatcttgctttatcaaggaaaaccagttaaagtagtgaaaaggaaaaggtatagtgctttatccaatgacatttcacaaggaattaagagacaaagaatgacagttgagtccatggggtgggccttgagctaatataaatttatccattaattcaatgaacgcaattgagtgaaaaat</GBSeq_sequence>
+  </GBSeq>

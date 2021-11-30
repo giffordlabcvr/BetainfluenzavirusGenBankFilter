@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ336020</GBSeq_locus>
+    <GBSeq_length>966</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>17-JAN-2006</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Brazil/079/00) hemagglutinin (HA1) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ336020</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ336020.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ336020.1|</GBSeqid>
+      <GBSeqid>gi|84796588</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Brazil/079/2000)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Brazil/079/2000)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..966</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Golono,M.A.</GBAuthor>
+          <GBAuthor>Mayer,M.G.</GBAuthor>
+          <GBAuthor>Pereira,A.</GBAuthor>
+          <GBAuthor>Oliveira,D.B.L.</GBAuthor>
+          <GBAuthor>Araujo,J.</GBAuthor>
+          <GBAuthor>Vallada,M.G.</GBAuthor>
+          <GBAuthor>Durigon,E.L.</GBAuthor>
+          <GBAuthor>Becak,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza B virus hemagglutinin variant (HA1)</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..966</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Golono,M.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-DEC-2005) Laboratory of Genetics, Instituto Butantan, Av. Vital Brasil 1500, Sao Paulo, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>DQ336020.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Brazil/079/2000)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Brazil/079/00</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1600134</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>DQ336020.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;966</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>966</GBInterval_to>
+            <GBInterval_accession>DQ336020.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABC66261.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRICTGITSSNSPHVVKTATQGEVNVTGAIPLTTTPTKSHFANLKGTKTRGKLCPTCLNCTDLDVALGRPMCVGITPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVINAEKAPGGPYRLGTSGSCPNATSKSGFFATMAWAVPRANNKTATNPLTVEVPHICTKEEDQITVWGFHSDNKTQMKNLYGDSNPQKFTSSANGITTHYVSQIGGFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGILLPQKVWCASGRSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatcgaatctgcactggaataacatcgtcaaactcacctcatgtggtcaaaacagctactcaaggggaggtcaatgtgactggtgcgataccactgacaacaacaccaacaaaatctcattttgcaaatctcaaaggaacaaagaccagagggaaactatgcccaacctgtctaaactgcacagatctggatgtggccttgggcagaccaatgtgtgtggggatcacaccttcggcaaaagcttcaatactccacgaagtcagacctgttacatccggatgctttcctataatgcacgacagaacaaaaatcagacagctacccaatcttctcagaggatatgaaaaaatcagattatcaacccaaaacgttatcaacgcagaaaaggcaccaggaggaccctacagacttggaacttcaggatcttgccctaacgctaccagtaaaagcggatttttcgcaacaatggcttgggctgtcccaagggccaacaacaaaacagcaacgaatccactaacagtagaagtaccacacatctgtacaaaagaagaagaccaaattactgtttgggggttccattctgataacaaaacccaaatgaaaaacctctatggagactcaaatcctcaaaagttcacctcatctgctaatggaataaccacacattatgtttctcagattggcggcttcccggaccaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagagggattttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtccttgcctttaattggtgaagcagattgtcttcacgaaaaatacggtggattgaacaaaagcaagccttactacacaggagaacatgcaaaagccataggaaattgcccaata</GBSeq_sequence>
+  </GBSeq>

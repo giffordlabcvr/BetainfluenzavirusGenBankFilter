@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>CY226974</GBSeq_locus>
+    <GBSeq_length>1853</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-APR-2017</GBSeq_update-date>
+    <GBSeq_create-date>12-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Texas/172/2016) hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>CY226974</GBSeq_primary-accession>
+    <GBSeq_accession-version>CY226974.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gnl|CDC|CDC-3000684611_N8K8YBUH_v1.4</GBSeqid>
+      <GBSeqid>gb|CY226974.1|</GBSeqid>
+      <GBSeqid>gi|1178032769</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Texas/172/2016)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Texas/172/2016)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1853</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jernigan,D.</GBAuthor>
+          <GBAuthor>Wentworth,D.</GBAuthor>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Barnes,J.</GBAuthor>
+          <GBAuthor>Garten,R.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza Sequencing Activity group</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1853</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jernigan,D.</GBAuthor>
+          <GBAuthor>Wentworth,D.</GBAuthor>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Barnes,J.</GBAuthor>
+          <GBAuthor>Garten,R.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-APR-2017) WHO Collaborating Center for Surveillance, Epidemiology and Control of Influenza, Influenza Division, Centers for Disease Control and Prevention, 1600 Clifton Road, N.E., Atlanta, GA 30333, United States</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##FluData-START## ; EPI_ISOLATE_ID :: EPI_ISL_255799 ; NAME :: B/Texas/172/2016 ; TYPE :: B ; Segment_name :: HA ; HOST_AGE :: 50 ; HOST_GENDER :: F ; PASSAGE :: Original ; LOCATION :: United States / Texas ; COLLECT_DATE :: 24-Dec-2016 ; Lineage :: Yamagata ; SPECIMEN_ID :: SW1676640540 ORIGINAL ; SENDER_LAB :: Baylor Scott and White Health ; SEQLAB_SAMPLE_ID :: 3000684611 ; EPI_SEQUENCE_ID :: EPI958392 ; ##FluData-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1853</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1853</GBInterval_to>
+            <GBInterval_accession>CY226974.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Texas/172/2016)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Texas/172/2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens; gender F; age 50</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1979105</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA: Texas</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>24-Dec-2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: Original;
+type: Yamagata</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>20..1774</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1774</GBInterval_to>
+            <GBInterval_accession>CY226974.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1774</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1774</GBInterval_to>
+            <GBInterval_accession>CY226974.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>receptor binding and fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ARH15438.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGVIPLTTTPTKSYFANLKGTRTRGKLCPDCINCTDLDVALGRPMCVGTTPSAKASILHEVRPVTSGCFPIMHDRTKIRQLPNLLRGYEKIRLSTQNVIDAEKAPGGPYRLGTSGSCPNATSKIGFFATMAWAVPKDNYKNATNPQTVEIPYICTEGEDQITVWGFHSDNKTQMKSLYGDSNPQRFTSSANGVTTHYVSQIGDFPDQTEDGGLPQSGRIVVDYMVQKPGKTGTIVYQRGVLLPQKVWCASGRSKVIKGSLPLIGEADCLHEEYGGLNKSKPYYTGKHAKAIGNCPIWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVAVAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADTISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVDIGNGCFETKHKCNQTCLDRIAAGTFNAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMLAIFIVYMVSRDNVSCSICL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>attttctaatatccacaaaatgaaggcaataattgtactactcatggtagtaacatccaatgcagatcgaatctgcactgggataacatcttcaaactcacctcatgtagtcaaaacagctactcaaggggaggtcaatgtgactggcgtgataccactgacaacaacaccaacaaaatcttattttgcaaatctcaaaggaacaaggaccagagggaaactatgcccggactgtatcaactgtacagatctggatgtggccttgggcaggccaatgtgtgtggggaccacaccttctgctaaagcttcaatactccatgaggtcagacctgttacatccgggtgctttcctataatgcacgacagaacaaaaatcaggcaactacccaatcttctcagaggatatgaaaagatcaggttatcaacccaaaacgttatcgatgcagaaaaagcaccaggaggaccctacagacttggaacctcaggatcttgccctaacgctaccagtaaaatcggattttttgcaacaatggcttgggctgtcccaaaggacaactacaaaaatgcaacgaacccacaaacagtggaaataccatacatttgtacagaaggggaagaccaaattactgtttgggggttccattcggataacaaaacccaaatgaagagcctctatggagactcaaatcctcaaaggttcacctcatctgctaatggagtaaccacacattatgtttctcagattggcgacttcccagatcaaacagaagacggagggctaccacaaagcggcagaattgttgttgattacatggtgcaaaaacctgggaaaacaggaacaattgtctatcaaagaggtgttttgttgcctcaaaaggtgtggtgcgcgagtggcaggagcaaagtaataaaagggtcattgcctttgattggtgaagcagattgccttcatgaagaatacggtggattaaacaaaagcaagccttactacacaggaaaacatgcaaaagccataggaaattgcccaatatgggtaaaaacacctttgaagcttgctaatggaaccaaatatagacctcctgcaaaactattgaaggaaaggggtttcttcggagctattgctggtttcctagaaggaggatgggaaggaatgattgcaggttggcacggatacacatctcacggagcacatggagtggcagtggcagcagaccttaagagtacacaagaagccataaataagataacaaaaaatctcaattctttgagtgaactagaagtaaagaaccttcaaagactaagtggtgccatggatgaactccacaacgaaatactcgagctggatgaaaaagtggatgatctcagagctgacaccataagctcacaaatagaacttgcagtcttgctttccaacgaaggaataataaacagtgaagacgagcatctattggcacttgagagaaaactaaagaaaatgctgggtccctctgctgtagacataggaaacggatgcttcgaaaccaaacacaaatgcaaccagacctgcttagacaggatagctgctggcacctttaatgcaggagaattttctctccctacttttgattcattgaacattactgctgcatctttaaatgatgatggattagataaccatactatactgctctattactcaactgctgcttctagtttggctgtaacattaatgctagctatttttattgtttatatggtctccagagacaatgtttcatgctccatctgtctataaggaaggttaggccttgtattttcctttgttgtagtgcttgtttgcttgtcatcattacagagaaacgttattgaaaaat</GBSeq_sequence>
+  </GBSeq>

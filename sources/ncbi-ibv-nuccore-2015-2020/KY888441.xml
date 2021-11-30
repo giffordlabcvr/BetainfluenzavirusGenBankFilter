@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KY888441</GBSeq_locus>
+    <GBSeq_length>1017</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-APR-2017</GBSeq_update-date>
+    <GBSeq_create-date>16-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/JiangxiGuixi/1486/2015) segment 6 neuraminidase (NA) and NB protein (NB) genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KY888441</GBSeq_primary-accession>
+    <GBSeq_accession-version>KY888441.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KY888441.1|</GBSeqid>
+      <GBSeqid>gi|1176704927</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/JiangxiGuixi/1486/2015)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/JiangxiGuixi/1486/2015)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1017</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Li,J.</GBAuthor>
+          <GBAuthor>Gong,T.</GBAuthor>
+          <GBAuthor>Shi,Y.</GBAuthor>
+          <GBAuthor>Xiong,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-APR-2017) Jiangxi Province Center for Disease Control and Prevention, Beijing East Road 555, Nanchang, Jiangxi 330029, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>KY888441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/JiangxiGuixi/1486/2015)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/JiangxiGuixi/1486/2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>Yamagata</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1977788</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: Jiangxi</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>31-Dec-2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage details: C2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>KY888441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>KY888441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ARG42483.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLPSTTQTLTLFLTSGGVLLSLYVSASLSYLLYSDILLKFSRTEVTAPIMPLDCANASNVQAVNRSATKGVTPLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTREDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGREWTYIGVDGPDSNALLKIKYGEAYTDTYHSYAKNILRTQESACNCIGGDCYLMITDGPASGISECRFLKIREGRIIKEIFPTGRVKHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTKTYLDTPRPNDGSITGPCES</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>296</GBInterval_to>
+            <GBInterval_accession>KY888441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>296</GBInterval_to>
+            <GBInterval_accession>KY888441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NB</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NB protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ARG42482.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>ATFNYTNVNLISHIRGSVIITICVSFIVILTIFGYIAKIFTNRSNCTNNAIGLCKRIKCSGCEPFCNKRGDTSSPRTGVDVPSFILPGLNLSESTPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgctaccttcaactacacaaacgttaaccttatttctcacatcagggggagtgttattatcactatatgtgtcagcttcattgtcatacttactatattcggatatattgctaaaattttcacgaacagaagtaactgcaccaataatgccattggattgtgcaaacgcatcaaatgttcaggctgtgaaccgttctgcaacaaaaggggtgacacctcttctcccagaaccggagtggacgtaccctcgtttatcttgcccgggctcaacctttcagaaagcactcctaattagcccccatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggaatgcaaacattttgctctaacccattatgcagctcaaccagggggatattacaatggaacaagagaagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactctattttccacatggcagcttggagcgggtccgcatgccatgatggtagagaatggacttacatcggagttgatggcccagacagtaatgcattgctcaaaataaaatatggagaagcatatactgacacataccattcctatgcaaaaaacatcctaaggacacaagaaagtgcctgcaattgcatcgggggagattgttatctgatgataactgatggcccagcttcagggattagtgaatgcagattccttaagattcgagagggccgaataataaaagaaatatttccaacaggaagagtaaaacatactgaggaatgcacatgcggatttgccagcaacaaaaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccctttgtcaaattaaatgtggagactgatacagcggaaataagattgatgtgcacaaagacttatttggacacccccagaccaaatgatggaagcataacagggccttgcgaatct</GBSeq_sequence>
+  </GBSeq>

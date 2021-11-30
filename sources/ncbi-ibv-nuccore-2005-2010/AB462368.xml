@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB462368</GBSeq_locus>
+    <GBSeq_length>1311</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>03-OCT-2008</GBSeq_create-date>
+    <GBSeq_definition>Influenza B virus (B/Leiden/18393/2005) NA gene for neuraminidase, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AB462368</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB462368.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB462368.1|</GBSeqid>
+      <GBSeqid>gi|208609615</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza B virus (B/Leiden/18393/2005)</GBSeq_source>
+    <GBSeq_organism>Influenza B virus (B/Leiden/18393/2005)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Betainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1311</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gooskens,J.</GBAuthor>
+          <GBAuthor>Jonges,M.</GBAuthor>
+          <GBAuthor>Claas,E.C.</GBAuthor>
+          <GBAuthor>Meijer,A.</GBAuthor>
+          <GBAuthor>Kroes,A.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Prolonged Influenza Virus Infection during Lymphocytopenia and Frequent Detection of Drug-Resistant Viruses</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. 199 (10), 1435-1441 (2009)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1086/598684</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>19392620</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1311</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jonges,M.</GBAuthor>
+          <GBAuthor>Meijer,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (29-SEP-2008) Contact:Marcel Jonges National Institute of Public Health and the Environment, Laboratory for Infectious Diseases; PO Box 1, Bilthoven 3720BA, the Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1311</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1311</GBInterval_to>
+            <GBInterval_accession>AB462368.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza B virus (B/Leiden/18393/2005)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>B/Leiden/18393/2005</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:564748</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Netherlands</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>10-Mar-2005</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1311</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1311</GBInterval_to>
+            <GBInterval_accession>AB462368.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1311</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1311</GBInterval_to>
+            <GBInterval_accession>AB462368.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAG72238.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YLLYSDILLKFSQTEIIAPIMPLDCANASNVQAVNHSATKGVTLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTREDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGREWTYIGVDGPDSNALLKIKYGEAYTDTYHSYAKNILRTQESACNCIGGDCYLMITDGPASGISECRFLKIREGRIIKEIFPTGRVKHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTETYLDTPRPNDGSITGPCESNGDKGSGGIKGGFVHQRMASKIGRWYSRTMSKTKRMGMGLYVKYDGDPWTDSEALALSGVMVSMEEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKTTWHSAATAIYCLMGSGQLLWDTVTGVDMAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tacttactatattcggatatattgctaaaattttcacaaacagaaataattgcaccaataatgccattggattgtgcaaacgcatcaaatgttcaggctgtgaaccattctgcaacaaaaggggtgacacttcttctcccagaaccggagtggacgtaccctcgtttatcttgcccgggctcaacctttcagaaagcacttctaattagcccccatagattcggagaaaccaaaggaaactcagctcccttgataataagggaaccttttattgcttgtggaccaaaggaatgcaaacactttgctctaacccattatgcagctcaaccagggggatactacaatggaacaagagaagacagaaacaagctgaggcatctaatttcagtcaaattgggcaaaatcccaacagtagaaaactctattttccacatggcagcttggagcgggtccgcatgccatgatggtagagaatggacatatatcggagttgatggccccgacagtaatgcattgctcaaaataaaatatggagaagcatatactgacacataccattcctatgcaaaaaacatcctaaggacacaagaaagtgcctgcaattgcatcgggggagattgttatcttatgataactgatggcccagcttcagggattagtgaatgcagattccttaagattcgagagggccgaataataaaagaaatatttccaacaggaagagtaaaacatactgaggaatgcacatgcggatttgccagcaacaaaaccatagaatgtgcctgtagagataacagttacacagcaaaaagaccctttgtcaaattaaatgtggagactgatacagcagaaataagattgatgtgcacagagacttatttggacacccccagaccaaatgatggaagcataacagggccttgcgaatctaatggggacaaagggagtggaggcatcaagggaggatttgttcatcaaagaatggcatccaagattggaaggtggtactctcgaacgatgtctaaaactaaaagaatggggatgggactgtatgtaaagtatgatggagacccatggactgacagtgaagcccttgctcttagtggagtaatggtttcaatggaagaacctggttggtattcctttggcttcgaaataaaagataagaaatgtgatgtcccctgtattgggatagaaatggtacatgatggtgggaaaacgacttggcactcagcagcaacagccatttactgtttaatgggctcaggacaactgctgtgggacactgtcacaggtgttgatatggctctg</GBSeq_sequence>
+  </GBSeq>

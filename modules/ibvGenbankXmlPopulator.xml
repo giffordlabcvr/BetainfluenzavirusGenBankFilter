@@ -47,6 +47,11 @@
 		<gbQualifier name="strain">
 			<propertyPopulator property="strain"/>
 		</gbQualifier>
+		<gbQualifier name="isolate">
+			<propertyPopulator property="strain"/>
+		</gbQualifier>
+		
+		
 		<gbQualifier name="isolation_source">
 			<propertyPopulator property="isolation_source"/>
 		</gbQualifier>
