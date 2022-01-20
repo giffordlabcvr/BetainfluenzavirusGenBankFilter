@@ -1,0 +1,6 @@
+
+# Influenza B virus references for segment 4 (HA)
+create reference REF_S4_IBV_M10298 ncbi-refseqs M10298
+create reference REF_S4_IBV_CY033876 ncbi-refseqs CY033876
+create reference REF_S4_IBV_NC_002207 ncbi-refseqs NC_002207
+create reference REF_S4_IBV_CY115151 ncbi-refseqs CY115151

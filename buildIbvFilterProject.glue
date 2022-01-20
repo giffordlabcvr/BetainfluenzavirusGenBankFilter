@@ -17,6 +17,21 @@ project betainfluenza_filter
 
   # Import data from GenBank XML
   module genbankXmlPopulator populate
+ 
+  # Import tabular data (e.g. corrections to GenBank)
+
+  # Define references
+  run file glue/ibvReferences.glue
+
+
+  # Run segment recogniser
+  create module -f modules/ibvSubtypeRecogniser.xml
+  module ibvSubtypeRecogniser
+    
+  # Run genotyping procedure
+  
+
+  # Summary output? 
 
   # Validate
   validate
