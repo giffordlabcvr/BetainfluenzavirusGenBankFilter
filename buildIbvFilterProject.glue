@@ -23,15 +23,17 @@ project betainfluenza_filter
   # Define references
   run file glue/ibvReferences.glue
 
-
   # Run segment recogniser
-  create module -f modules/ibvSubtypeRecogniser.xml
-  module ibvSubtypeRecogniser
+  create module -f modules/ibvSegmentRecogniser.xml
+  module ibvSegmentRecogniser recognise sequence -a 
     
-  # Run genotyping procedure
-  
+  # Run genotyping procedure  
+  create module -f modules/ibvSubtypeRecogniserSegment4.xml
+  module ibvSubtypeRecogniserSegment4 recognise sequence -a 
 
-  # Summary output? 
+  # Summary output
+  
+  
 
   # Validate
   validate
