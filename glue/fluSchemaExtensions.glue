@@ -12,7 +12,7 @@
     create field length INTEGER
     create field gb_segment INTEGER
     create field recogniser_segment VARCHAR
-
+    create field recogniser_lineage VARCHAR
     create field complete_segment BOOLEAN
     create field excluded BOOLEAN 
     create field excluded_reason VARCHAR 

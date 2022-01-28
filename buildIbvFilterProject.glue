@@ -24,17 +24,11 @@ project betainfluenza_filter
   run file glue/ibvReferences.glue
 
   # Run segment recogniser
-  create module -f modules/ibvSegmentRecogniser.xml
-  module ibvSegmentRecogniser recognise sequence -a 
+  run script glue/doSegmentRecognition.js
     
   # Run genotyping procedure  
-  create module -f modules/ibvSubtypeRecogniserSegment4.xml
-  module ibvSubtypeRecogniserSegment4 recognise sequence -a 
-
-  # Summary output
-  
-  
-
+  run script glue/doGenotying.js
+    
   # Validate
   validate
 
