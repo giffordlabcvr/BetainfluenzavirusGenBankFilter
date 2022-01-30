@@ -3,7 +3,7 @@ var allResults = [];
 
 glue.inMode("module/ibvSubtypeRecogniserSegment4", function(){
 
-	 var recogniserResult = glue.command(["recognise","sequence","-a"]);
+	 var recogniserResult = glue.command(["recognise","sequence","-w", "recogniser_segment = 4"]);
      recogniserResult = recogniserResult["blastSequenceRecogniserResult"];
 	 //glue.log("INFO", "Segment recogniser result was:", recogniserResult);
     

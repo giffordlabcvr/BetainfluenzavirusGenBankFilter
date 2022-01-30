@@ -52,7 +52,9 @@ _.each(allResults, function(resultObj)  {
 	 	 
 	 glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 	 
-		 glue.command(["set", "field", "recogniser_segment", recogniserSeg]);
+	 	 if (recogniserSeg) {
+		 	glue.command(["set", "field", "recogniser_segment", recogniserSeg]);
+ 	 	 }
  	 
 	 });
 	 
